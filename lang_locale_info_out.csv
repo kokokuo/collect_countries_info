@@ -1,0 +1,127 @@
+,countries,eng_name,locale_lang_code,native_name
+0,"[""NA"", ""ZA""]",Afrikaans,af,Afrikaans
+1,"[""GH""]",Akan,ak,Akan
+2,"[""ET""]",Amharic,am,አማርኛ
+3,"[""AE"", ""BH"", ""DJ"", ""DZ"", ""EG"", ""EH"", ""ER"", ""IL"", ""IQ"", ""JO"", ""KM"", ""KW"", ""LB"", ""LY"", ""MA"", ""MR"", ""OM"", ""PS"", ""QA"", ""SA"", ""SD"", ""SO"", ""SS"", ""SY"", ""TD"", ""TN"", ""YE""]",Arabic,ar,العربية
+4,"[""IN""]",Assamese,as,অসমীয়া
+5,"[""AZ""]",Azerbaijani (Cyrillic),az_Cyrl,азәрбајҹан дили (Кирил)
+6,"[""AZ""]",Azerbaijani (Latin),az_Latn,azərbaycan dili (latın)
+7,"[""BY""]",Belarusian,be,беларуская
+8,"[""BG""]",Bulgarian,bg,български
+9,"[""ML""]",Bambara,bm,bamanakan
+10,"[""BD"", ""IN""]",Bengali,bn,বাংলা
+11,"[""CN"", ""IN""]",Tibetan,bo,བོད་སྐད་
+12,"[""FR""]",Breton,br,brezhoneg
+13,"[""BA""]",Bosnian (Cyrillic),bs_Cyrl,босански (Ћирилица)
+14,"[""BA""]",Bosnian (Latin),bs_Latn,bosanski (latinica)
+15,"[""AD"", ""ES"", ""FR"", ""IT""]",Catalan,ca,català
+16,"[""RU""]",Chechen,ce,нохчийн
+17,"[""CZ""]",Czech,cs,čeština
+18,"[""RU""]",Church Slavic,cu,церковнослове́нскїй
+19,"[""GB""]",Welsh,cy,Cymraeg
+20,"[""DK"", ""GL""]",Danish,da,dansk
+21,"[""AT"", ""BE"", ""CH"", ""DE"", ""LI"", ""LU""]",German,de,Deutsch
+22,"[""BT""]",Dzongkha,dz,རྫོང་ཁ
+23,"[""GH"", ""TG""]",Ewe,ee,Eʋegbe
+24,"[""CY"", ""GR""]",Greek,el,Ελληνικά
+25,"[""AG"", ""AI"", ""AS"", ""AT"", ""AU"", ""BB"", ""BE"", ""BI"", ""BM"", ""BS"", ""BW"", ""BZ"", ""CA"", ""CC"", ""CH"", ""CK"", ""CM"", ""CX"", ""CY"", ""DE"", ""DG"", ""DK"", ""DM"", ""ER"", ""FI"", ""FJ"", ""FK"", ""FM"", ""GB"", ""GD"", ""GG"", ""GH"", ""GI"", ""GM"", ""GU"", ""GY"", ""HK"", ""IE"", ""IL"", ""IM"", ""IN"", ""IO"", ""JE"", ""JM"", ""KE"", ""KI"", ""KN"", ""KY"", ""LC"", ""LR"", ""LS"", ""MG"", ""MH"", ""MO"", ""MP"", ""MS"", ""MT"", ""MU"", ""MW"", ""MY"", ""NA"", ""NF"", ""NG"", ""NL"", ""NR"", ""NU"", ""NZ"", ""PG"", ""PH"", ""PK"", ""PN"", ""PR"", ""PW"", ""RW"", ""SB"", ""SC"", ""SD"", ""SE"", ""SG"", ""SH"", ""SI"", ""SL"", ""SS"", ""SX"", ""SZ"", ""TC"", ""TK"", ""TO"", ""TT"", ""TV"", ""TZ"", ""UG"", ""UM"", ""US"", ""VC"", ""VG"", ""VI"", ""VU"", ""WS"", ""ZA"", ""ZM"", ""ZW""]",English,en,English
+26,"[""AR"", ""BO"", ""BR"", ""CL"", ""CO"", ""CR"", ""CU"", ""DO"", ""EA"", ""EC"", ""ES"", ""GQ"", ""GT"", ""HN"", ""IC"", ""MX"", ""NI"", ""PA"", ""PE"", ""PH"", ""PR"", ""PY"", ""SV"", ""US"", ""UY"", ""VE""]",Spanish,es,español
+27,"[""EE""]",Estonian,et,eesti
+28,"[""ES""]",Basque,eu,euskara
+29,"[""AF"", ""IR""]",Persian,fa,فارسی
+30,"[""CM"", ""GN"", ""MR"", ""SN""]",Fulah,ff,Pulaar
+31,"[""FI""]",Finnish,fi,suomi
+32,"[""DK"", ""FO""]",Faroese,fo,føroyskt
+33,"[""BE"", ""BF"", ""BI"", ""BJ"", ""BL"", ""CA"", ""CD"", ""CF"", ""CG"", ""CH"", ""CI"", ""CM"", ""DJ"", ""DZ"", ""FR"", ""GA"", ""GF"", ""GN"", ""GP"", ""GQ"", ""HT"", ""KM"", ""LU"", ""MA"", ""MC"", ""MF"", ""MG"", ""ML"", ""MQ"", ""MR"", ""MU"", ""NC"", ""NE"", ""PF"", ""PM"", ""RE"", ""RW"", ""SC"", ""SN"", ""SY"", ""TD"", ""TG"", ""TN"", ""VU"", ""WF"", ""YT""]",French,fr,français
+34,"[""NL""]",Western Frisian,fy,West-Frysk
+35,"[""IE""]",Irish,ga,Gaeilge
+36,"[""GB""]",Scottish Gaelic,gd,Gàidhlig
+37,"[""ES""]",Galician,gl,galego
+38,"[""IN""]",Gujarati,gu,ગુજરાતી
+39,"[""IM""]",Manx,gv,Gaelg
+40,"[""GH"", ""NE"", ""NG""]",Hausa,ha,Hausa
+41,"[""IL""]",Hebrew,he,עברית
+42,"[""IN""]",Hindi,hi,हिन्दी
+43,"[""BA"", ""HR""]",Croatian,hr,hrvatski
+44,"[""HU""]",Hungarian,hu,magyar
+45,"[""AM""]",Armenian,hy,հայերեն
+46,"[""ID""]",Indonesian,id,Indonesia
+47,"[""NG""]",Igbo,ig,Igbo
+48,"[""CN""]",Sichuan Yi,ii,ꆈꌠꉙ
+49,"[""IS""]",Icelandic,is,íslenska
+50,"[""CH"", ""IT"", ""SM""]",Italian,it,italiano
+51,"[""JP""]",Japanese,ja,日本語
+52,"[""GE""]",Georgian,ka,ქართული
+53,"[""KE""]",Kikuyu,ki,Gikuyu
+54,"[""KZ""]",Kazakh,kk,қазақ тілі
+55,"[""GL""]",Kalaallisut,kl,kalaallisut
+56,"[""KH""]",Khmer,km,ខ្មែរ
+57,"[""IN""]",Kannada,kn,ಕನ್ನಡ
+58,"[""KP"", ""KR""]",Korean,ko,한국어
+59,"[""IN""]",Kashmiri,ks,کٲشُر
+60,"[""GB""]",Cornish,kw,kernewek
+61,"[""KG""]",Kyrgyz,ky,кыргызча
+62,"[""LU""]",Luxembourgish,lb,Lëtzebuergesch
+63,"[""UG""]",Ganda,lg,Luganda
+64,"[""AO"", ""CD"", ""CF"", ""CG""]",Lingala,ln,lingála
+65,"[""LA""]",Lao,lo,ລາວ
+66,"[""LT""]",Lithuanian,lt,lietuvių
+67,"[""CD""]",Luba-Katanga,lu,Tshiluba
+68,"[""LV""]",Latvian,lv,latviešu
+69,"[""MG""]",Malagasy,mg,Malagasy
+70,"[""MK""]",Macedonian,mk,македонски
+71,"[""IN""]",Malayalam,ml,മലയാളം
+72,"[""MN""]",Mongolian,mn,монгол
+73,"[""IN""]",Marathi,mr,मराठी
+74,"[""BN"", ""MY"", ""SG""]",Malay,ms,Bahasa Melayu
+75,"[""MT""]",Maltese,mt,Malti
+76,"[""MM""]",Burmese,my,ဗမာ
+77,"[""NO"", ""SJ""]",Norwegian Bokmål,nb,norsk bokmål
+78,"[""ZW""]",North Ndebele,nd,isiNdebele
+79,"[""IN"", ""NP""]",Nepali,ne,नेपाली
+80,"[""AW"", ""BE"", ""BQ"", ""CW"", ""NL"", ""SR"", ""SX""]",Dutch,nl,Nederlands
+81,"[""NO""]",Norwegian Nynorsk,nn,nynorsk
+82,"[""ET"", ""KE""]",Oromo,om,Oromoo
+83,"[""IN""]",Oriya,or,ଓଡ଼ିଆ
+84,"[""GE"", ""RU""]",Ossetic,os,ирон
+85,"[""PK""]",Punjabi (Arabic),pa_Arab,پنجابی (عربی)
+86,"[""IN""]",Punjabi (Gurmukhi),pa_Guru,ਪੰਜਾਬੀ (ਗੁਰਮੁਖੀ)
+87,"[""PL""]",Polish,pl,polski
+88,"[""AF""]",Pashto,ps,پښتو
+89,"[""AO"", ""BR"", ""CH"", ""CV"", ""GQ"", ""GW"", ""LU"", ""MO"", ""MZ"", ""PT"", ""ST"", ""TL""]",Portuguese,pt,português
+90,"[""BO"", ""EC"", ""PE""]",Quechua,qu,Runasimi
+91,"[""CH""]",Romansh,rm,rumantsch
+92,"[""BI""]",Rundi,rn,Ikirundi
+93,"[""MD"", ""RO""]",Romanian,ro,română
+94,"[""BY"", ""KG"", ""KZ"", ""MD"", ""RU"", ""UA""]",Russian,ru,русский
+95,"[""RW""]",Kinyarwanda,rw,Kinyarwanda
+96,"[""FI"", ""NO"", ""SE""]",Northern Sami,se,davvisámegiella
+97,"[""CF""]",Sango,sg,Sängö
+98,"[""LK""]",Sinhala,si,සිංහල
+99,"[""SK""]",Slovak,sk,slovenčina
+100,"[""SI""]",Slovenian,sl,slovenščina
+101,"[""ZW""]",Shona,sn,chiShona
+102,"[""DJ"", ""ET"", ""KE"", ""SO""]",Somali,so,Soomaali
+103,"[""AL"", ""MK"", ""XK""]",Albanian,sq,shqip
+104,"[""BA"", ""ME"", ""RS"", ""XK""]",Serbian (Cyrillic),sr_Cyrl,српски (ћирилица)
+105,"[""BA"", ""ME"", ""RS"", ""XK""]",Serbian (Latin),sr_Latn,srpski (latinica)
+106,"[""AX"", ""FI"", ""SE""]",Swedish,sv,svenska
+107,"[""CD"", ""KE"", ""TZ"", ""UG""]",Swahili,sw,Kiswahili
+108,"[""IN"", ""LK"", ""MY"", ""SG""]",Tamil,ta,தமிழ்
+109,"[""IN""]",Telugu,te,తెలుగు
+110,"[""TH""]",Thai,th,ไทย
+111,"[""ER"", ""ET""]",Tigrinya,ti,ትግርኛ
+112,"[""TM""]",Turkmen,tk,türkmençe
+113,"[""TO""]",Tongan,to,lea fakatonga
+114,"[""CY"", ""TR""]",Turkish,tr,Türkçe
+115,"[""CN""]",Uyghur,ug,ئۇيغۇرچە
+116,"[""UA""]",Ukrainian,uk,українська
+117,"[""IN"", ""PK""]",Urdu,ur,اردو
+118,"[""AF""]",Uzbek (Arabic),uz_Arab,اوزبیک (عربی)
+119,"[""UZ""]",Uzbek (Cyrillic),uz_Cyrl,Ўзбек (Кирил)
+120,"[""UZ""]",Uzbek (Latin),uz_Latn,o‘zbek (lotin)
+121,"[""VN""]",Vietnamese,vi,Tiếng Việt
+122,"[""BJ"", ""NG""]",Yoruba,yo,Èdè Yorùbá
+123,"[""CN"", ""HK"", ""MO"", ""SG""]",Chinese (Simplified),zh_Hans,中文 (简体)
+124,"[""HK"", ""MO"", ""TW""]",Chinese (Traditional),zh_Hant,中文 (繁體)
+125,"[""ZA""]",Zulu,zu,isiZulu

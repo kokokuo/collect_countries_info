@@ -1,0 +1,756 @@
+Country,國家中文名,Capital,Internet,Phone,Currency Name,Code,匯率,官方語言,Time Zone,UCT Offset,UCT DST Offset
+Andorra,安道​​爾,Andorra,ad,376,Euro,EUR,,"Catalán (official), French, Castilian, Portuguese",Europe/Andorra,+01:00,+02:00
+United Arab Emirates,阿拉伯聯合酋長國,Abu Dhabi,ae,971,Arab Emirates Dirham,AED,,"Arabic (official), Persian, English, Hindi, Urdu",Asia/Dubai,+04:00,+04:00
+Afghanistan,阿富汗,Kabul,af,93,Afghanistan Afghani,AFN,,"Dari Persian, Pashtu (both official), other Turkic and minor languages",Asia/Kabul,+04:30,+04:30
+Antigua and Barbuda,安提瓜和巴布達,St. Johns,ag,1-268,East Caribbean Dollar,XCD,,"English (official), local dialects",America/Antigua,-04:00,-04:00
+Anguilla,安圭拉,The Valley,ai,1-264,East Caribbean Dollar,XCD,,English,America/Anguilla,-04:00,-04:00
+Albania,阿爾巴尼亞,Tirana,al,355,Albanian Lek,ALL,,"Albanian (Tosk is the official dialect), Greek",Europe/Tirane,+01:00,+02:00
+Armenia,亞美尼亞,Yerevan,am,374,Armenian Dram,AMD,,"Armenian 98%, Yezidi, Russian",Asia/Yerevan,+04:00,+04:00
+Netherlands Antilles,荷屬安地列斯,Willemstad,an,599,Netherlands Antillean Guilder,ANG,,"Dutch
+English
+Papiamentu",,,
+Angola,安哥拉,Luanda,ao,244,Angolan Kwanza,AOA,,"Portuguese (official), Bantu and other African languages",Africa/Luanda,+01:00,+01:00
+Antarctica,南極洲,None,aq,672,East Caribbean Dollar,XCD,,None,"Antarctica/Casey
+Antarctica/Davis
+Antarctica/DumontDUrville
+Antarctica/Mawson
+Antarctica/McMurdo
+Antarctica/Palmer
+Antarctica/Rothera
+Antarctica/Syowa
+Antarctica/Troll|
+Antarctica/Vostok","+08:00
++07:00
++10:00
++05:00
++12:00
+-04:00
+-03:00
++03:00
++00:00
++06:00","+08:00
++07:00
++10:00
++05:00
++13:00
+-03:00
+-03:00
++03:00
++02:00
++06:00"
+Argentina,阿根廷,Buenos Aires,ar,54,Argentine Peso,ARS,,"Spanish (official), English, Italian, German, French","America/Argentina/Buenos_Aires
+America/Argentina/Catamarca
+America/Argentina/Cordoba
+America/Argentina/Jujuy
+America/Argentina/La_Rioja
+America/Argentina/Mendoza
+America/Argentina/Rio_Gallegos
+America/Argentina/Salta
+America/Argentina/San_Juan
+America/Argentina/San_Luis
+America/Argentina/Tucuman
+America/Argentina/Ushuaia","-03:00
+-03:00
+-03:00
+-03:00
+-03:00
+-03:00
+-03:00
+-03:00
+-03:00
+-03:00
+-03:00
+-03:00","-03:00
+-03:00
+-03:00
+-03:00
+-03:00
+-03:00
+-03:00
+-03:00
+-03:00
+-03:00
+-03:00
+-03:00"
+American Samoa,美屬薩摩亞,Pago Pago,as,684,US Dollar,USD,,"Samoa, English",Pacific/Pago_Pago,-11:00,-11:00
+Austria,奧地利,Vienna,at,43,Euro,EUR,,"German (official nationwide); Slovene, Croatian, Hungarian (each official in one region)",Europe/Vienna,+01:00,+02:00
+Australia,澳大利亞,Canberra,au,61,Australian Dollar,AUD,,"English 79%, native and other languages","Antarctica/Macquarie
+Australia/Adelaide
+Australia/Brisbane
+Australia/Broken_Hill
+Australia/Currie
+Australia/Darwin
+Australia/Eucla
+Australia/Hobart
+Australia/Lindeman
+Australia/Lord_Howe
+Australia/Melbourne
+Australia/Perth
+Australia/Sydney","+11:00
++09:30
++10:00
++09:30
++10:00
++09:30
++08:45
++10:00
++10:00
++10:30
++10:00
++08:00
++10:00","+11:00
++10:30
++10:00
++10:30
++11:00
++09:30
++08:45
++11:00
++10:00
++11:00
++11:00
++08:00
++11:00"
+Aruba,阿魯巴,Oranjestad,aw,297,Aruban Guilder,AWG,,"Dutch, Papiamento",America/Aruba,-04:00,-04:00
+Azerbaijan,阿塞拜疆,Baku,az,994,Azerbaijan New Manat,AZN,,"Azerbaijani Turkic 89%, Russian 3%, Armenian 2%, other 6% (1995 est.)",Asia/Baku,+04:00,+04:00
+Bosnia-Herzegovina,波士尼亞與赫塞哥維納,Sarajevo,ba,387,Marka,BAM,,"Bosnian, Croatian, Serbian",Europe/Sarajevo,+01:00,+02:00
+Barbados,巴巴多斯,Bridgetown,bb,1-246,Barbados Dollar,BBD,,English,America/Barbados,-04:00,-04:00
+Bangladesh,孟加拉國,Dhaka,bd,880,Bangladeshi Taka,BDT,,"Bangla (official), English",Asia/Dhaka,+06:00,+06:00
+Belgium,比利時,Brussels,be,32,Euro,EUR,,"Dutch (Flemish) 60%, French 40%, German less than 1% (all official)",Europe/Brussels,+01:00,+02:00
+Burkina Faso,布基納法索,Ouagadougou,bf,226,CFA Franc BCEAO,XOF,,French (official); native African (Sudanic) languages 90%,Africa/Ouagadougou,+00:00,+00:00
+Bulgaria,保加利亞,Sofia,bg,359,Bulgarian Lev,BGN,,"Bulgarian 85%, Turkish 10%, Roma 4%",Europe/Sofia,+02:00,+03:00
+Bahrain,巴林,Al-Manamah,bh,973,Bahraini Dinar,BHD,,"Arabic, English, Farsi, Urdu",Asia/Bahrain,+03:00,+03:00
+Burundi,布隆迪,Bujumbura,bi,257,Burundi Franc,BIF,,"Kirundi and French (official), Swahili",Africa/Bujumbura,+02:00,+02:00
+Benin,貝寧,Porto-Novo,bj,229,CFA Franc BCEAO,XOF,,"French (official), Fon, Yoruba, tribal languages",Africa/Porto-Novo,+01:00,+01:00
+Bermuda,百慕達,Hamilton,bm,1-441,Bermudian Dollar,BMD,,English,Atlantic/Bermuda,-04:00,-03:00
+Brunei Darussalam,文萊達魯薩蘭國,Bandar Seri Begawan,bn,673,Brunei Dollar,BND,,"Malay (official), English, Chinese",Asia/Brunei,+08:00,+08:00
+Bolivia,玻利維亞,La Paz,bo,591,Boliviano,BOB,,"Spanish, Quechua, Aymara (all official)",America/La_Paz,-04:00,-04:00
+Brazil,巴西,Brasilia,br,55,Brazilian Real,BRL,,"Portuguese (official), Spanish, English, French","America/Araguaina
+America/Bahia
+America/Belem
+America/Boa_Vista
+America/Campo_Grande
+America/Cuiaba
+America/Eirunepe
+America/Fortaleza
+America/Maceio
+America/Manaus
+America/Noronha
+America/Porto_Velho
+America/Recife
+America/Rio_Branco
+America/Santarem
+America/Sao_Paulo","-03:00
+-03:00
+-03:00
+-04:00
+-04:00
+-04:00
+-05:00
+-03:00
+-03:00
+-04:00
+-02:00
+-04:00
+-03:00
+-05:00
+-03:00
+-03:00","-03:00
+-03:00
+-03:00
+-04:00
+-03:00
+-03:00
+-05:00
+-03:00
+-03:00
+-04:00
+-02:00
+-04:00
+-03:00
+-05:00
+-03:00
+-02:00"
+Bahamas,巴哈馬,Nassau,bs,1-242,Bahamian Dollar,BSD,,"English (official), Creole (among Haitian immigrants)",America/Nassau,-05:00,-04:00
+Bhutan,不丹,Thimphu,bt,975,Bhutan Ngultrum,BTN,,"Dzongkha (official), Tibetan dialects (among Bhotes), Nepalese dialects (among Nepalese)",Asia/Thimphu,+06:00,+06:00
+Bouvet Island,布維島,None,bv,,Norwegian Krone,NOK,,None,,,
+Botswana,博茨瓦納,Gaborone,bw,267,Botswana Pula,BWP,,"English 2% (official), Setswana 78%, Kalanga 8%, Sekgalagadi 3%, other (2001)",Africa/Gaborone,+02:00,+02:00
+Belarus,白俄羅斯,Minsk,by,375,Belarussian Ruble,BYR,,"Belorussian (White Russian), Russian, other",Europe/Minsk,+03:00,+03:00
+Belize,伯利茲,Belmopan,bz,501,Belize Dollar,BZD,,"English (official), Spanish, Mayan, Garifuna (Carib), Creole",America/Belize,-06:00,-06:00
+Canada,加拿大,Ottawa,ca,1,Canadian Dollar,CAD,,"English 59.3%, French 23.2% (both official); other 17.5%","America/Atikokan
+America/Blanc-Sablon
+America/Cambridge_Bay
+America/Creston
+America/Dawson
+America/Dawson_Creek
+America/Edmonton
+America/Fort_Nelson
+America/Glace_Bay
+America/Goose_Bay
+America/Halifax
+America/Inuvik
+America/Iqaluit
+America/Moncton
+America/Nipigon
+America/Pangnirtung
+America/Rainy_River
+America/Rankin_Inlet
+America/Regina
+America/Resolute
+America/St_Johns
+America/Swift_Current
+America/Thunder_Bay
+America/Toronto
+America/Vancouver
+America/Whitehorse
+America/Winnipeg
+America/Yellowknife","-05:00
+-04:00
+-07:00
+-07:00
+-08:00
+-07:00
+-07:00
+-07:00
+-04:00
+-04:00
+-04:00
+-07:00
+-05:00
+-04:00
+-05:00
+-05:00
+-06:00
+-06:00
+-06:00
+-06:00
+-03:30
+-06:00
+-05:00
+-05:00
+-08:00
+-08:00
+-06:00
+-07:00","-05:00
+-04:00
+-06:00
+-07:00
+-07:00
+-07:00
+-06:00
+-07:00
+-03:00
+-03:00
+-03:00
+-06:00
+-04:00
+-03:00
+-04:00
+-04:00
+-05:00
+-05:00
+-06:00
+-05:00
+-02:30
+-06:00
+-04:00
+-04:00
+-07:00
+-07:00
+-05:00
+-06:00"
+Cocos (Keeling) Islands,科科斯（基林）群島,West Island,cc,61,Australian Dollar,AUD,,"Malay, English",Indian/Cocos,+06:30,+06:30
+Democratic Republic of the Congo,剛果民主共和國,Kinshasa,cd,243,Francs,CDF,,"French (official), Lingala, Kingwana, Kikongo, Tshiluba","Africa/Kinshasa
+Africa/Lubumbashi","+01:00
++02:00","+01:00
++02:00"
+Central African Republic,中非共和國,Bangui,cf,236,CFA Franc BEAC,XAF,,"French (official), Sangho (lingua franca, national), tribal languages",Africa/Bangui,+01:00,+01:00
+Republic of the Congo,剛果共和國,Brazzaville,cg,242,CFA Franc BEAC,XAF,,"French (official), Lingala, Monokutuba, Kikongo, many local languages and dialects",Africa/Brazzaville,+01:00,+01:00
+Switzerland,瑞士,Bern,ch,41,Swiss Franc,CHF,,"German 64%, French 20%, Italian 7% (all official); Romansch 0.5% (national)",Europe/Zurich,+01:00,+02:00
+Ivory Coast,象牙海岸,Abidjan,ci,225,CFA Franc BCEAO,XOF,,Bété Dioula Baoulé Abron Agni Cebaara Senufo others,Africa/Abidjan,+00:00,+00:00
+Cook Islands,庫克群島,Avarua,ck,682,New Zealand Dollar,NZD,,English,Pacific/Rarotonga,-10:00,-10:00
+Chile,智利,Santiago,cl,56,Chilean Peso,CLP,,Spanish,"America/Santiago
+Pacific/Easter","-04:00
+-06:00","-03:00
+-05:00"
+Cameroon,喀麥隆,Yaounde,cm,237,CFA Franc BEAC,XAF,,"French, English (both official); 24 major African language groups",Africa/Douala,+01:00,+01:00
+China,中國,Beijing,cn,86,Yuan Renminbi,CNY,,"Standard Chinese (Mandarin/Putonghua), Yue (Cantonese), Wu (Shanghaiese), Minbei (Fuzhou), Minnan (Hokkien-Taiwanese), Xiang, Gan, Hakka dialects, minority languages","Asia/Shanghai
+Asia/Urumqi","+08:00
++06:00","+08:00
++06:00"
+Colombia,哥倫比亞,Bogota,co,57,Colombian Peso,COP,,Spanish,America/Bogota,-05:00,-05:00
+Costa Rica,哥斯達黎加,San Jose,cr,506,Costa Rican Colon,CRC,,"Spanish (official), English",America/Costa_Rica,-06:00,-06:00
+Cuba,古巴,Havana,cu,53,Cuban Peso,CUP,,Spanish,America/Havana,-05:00,-04:00
+Cape Verde,佛得角,Praia,cv,238,Cape Verde Escudo,CVE,,"Portuguese, Criuolo",Atlantic/Cape_Verde,-01:00,-01:00
+Christmas Island,聖誕島,The Settlement,cx,61,Australian Dollar,AUD,,"Chinese, Malay, English",Indian/Christmas,+07:00,+07:00
+Cyprus,塞浦路斯,Nicosia,cy,357,Euro,EUR,,"Greek, Turkish (both official); English",Asia/Nicosia,+02:00,+03:00
+Czech Republic,捷克共和國。,Prague,cz,420,Czech Koruna,CZK,,Czech,Europe/Prague,+01:00,+02:00
+Germany,德國,Berlin,de,49,Euro,EUR,,German,Europe/Berlin,+01:00,+02:00
+Djibouti,吉布提,Djibouti,dj,253,Djibouti Franc,DJF,,"French and Arabic (both official), Somali, Afar",Africa/Djibouti,+03:00,+03:00
+Denmark,丹麥,Copenhagen,dk,45,Danish Krone,DKK,,"Danish, Faroese, Greenlandic (Inuit dialect), German; English is the predominant second language",Europe/Copenhagen,+01:00,+02:00
+Dominica,多米尼加,Roseau,dm,1-767,East Caribbean Dollar,XCD,,English (official) and French patois,America/Dominica,-04:00,-04:00
+Dominican Republic,多明尼加共和國,Santo Domingo,do,809,Dominican Peso,DOP,,Spanish,America/Santo_Domingo,-04:00,-04:00
+Algeria,阿爾及利亞,Algiers,dz,213,Algerian Dinar,DZD,,"Arabic (official), French, Berber dialects",Africa/Algiers,+01:00,+01:00
+Ecuador,厄瓜多爾,Quito,ec,593,Ecuador Sucre,ECS,,"Spanish (official), Quechua, other Amerindian languages","America/Guayaquil
+Pacific/Galapagos","-05:00
+-06:00","-05:00
+-06:00"
+Estonia,愛沙尼亞,Tallinn,ee,372,Euro,EUR,,"Estonian 67% (official), Russian 30%, other (2000)",Europe/Tallinn,+02:00,+03:00
+Egypt,埃及,Cairo,eg,20,Egyptian Pound,EGP,,"Arabic (official), English and French widely understood by educated classes",Africa/Cairo,+02:00,+02:00
+Western Sahara,西撒哈拉,El Aaiun,eh,,Moroccan Dirham,MAD,,"Hassaniya Arabic, Moroccan Arabic",Africa/El_Aaiun,+00:00,+01:00
+Eritrea,厄立特里亞,Asmara,er,291,Eritrean Nakfa,ERN,,"Afar, Arabic, Tigre and Kunama, Tigrinya, other Cushitic languages",Africa/Asmara,+03:00,+03:00
+Spain,西班牙,Madrid,es,34,Euro,EUR,,"Castilian Spanish 74% (official nationwide); Catalan 17%, Galician 7%, Basque 2% (each official regionally)","Africa/Ceuta
+Atlantic/Canary
+Europe/Madrid","+01:00
++00:00
++01:00","+02:00
++01:00
++02:00"
+Ethiopia,埃塞俄比亞,Addis Ababa,et,251,Ethiopian Birr,ETB,,"Amharic, Tigrigna, Orominga, Guaragigna, Somali, Arabic, English, over 70 others",Africa/Addis_Ababa,+03:00,+03:00
+Finland,芬蘭,Helsinki,fi,358,Euro,EUR,,"Finnish 92%, Swedish 6% (both official); small Sami- (Lapp) and Russian-speaking minorities",Europe/Helsinki,+02:00,+03:00
+Fiji,斐,Suva,fj,679,Fiji Dollar,FJD,,"English (official), Fijian, Hindustani",Pacific/Fiji,+12:00,+13:00
+Falkland Islands (Malvinas),福克蘭群島（馬爾維納斯群島）,Stanley,fk,500,Falkland Islands Pound,FKP,,English,Atlantic/Stanley,-03:00,-03:00
+Micronesia,密克羅尼西亞,Palikir,fm,691,US Dollar,USD,,"English (official, common), Chukese, Pohnpeian, Yapase, Kosrean, Ulithian, Woleaian, Nukuoro, Kapingamarangi","Pacific/Chuuk
+Pacific/Kosrae
+Pacific/Pohnpei","+10:00
++11:00
++11:00","+10:00
++11:00
++11:00"
+Faroe Islands,法羅群島,Torshavn,fo,298,Danish Krone,DKK,,"Faroese, Danish",Atlantic/Faroe,+00:00,+01:00
+France,法國,Paris,fr,33,Euro,EUR,,"French 100%, rapidly declining regional dialects (Provençal, Breton, Alsatian, Corsican, Catalan, Basque, Flemish)",Europe/Paris,+01:00,+02:00
+Gabon,加蓬,Libreville,ga,241,CFA Franc BEAC,XAF,,"French (official), Fang, Myene, Nzebi, Bapounou/Eschira, Bandjabi",Africa/Libreville,+01:00,+01:00
+Great Britain,大不列顛,London,gb,44,Pound Sterling,GBP,,"English, Scots, Welsh, Cornish, Scottish Gaelic",Europe/London,+00:00,+01:00
+Grenada,格林納達,St. George's,gd,1-473,East Carribean Dollar,XCD,,"English (official), French patois",America/Grenada,-04:00,-04:00
+Georgia,格魯吉亞,Tbilisi,ge,995,Georgian Lari,GEL,,"Georgian 71% (official), Russian 9%, Armenian 7%, Azerbaijani 6%, other 7% (Abkhaz is the official language in Abkhazia)",Asia/Tbilisi,+04:00,+04:00
+French Guiana,法屬圭亞那,Cayenne,gf,594,Euro,EUR,,French,America/Cayenne,-03:00,-03:00
+Guernsey,根西島,St. Peter Port,gg,,Pound Sterling,GGP,,"English, Guernésiais, Sercquiais, Auregnais",Europe/Guernsey,+00:00,+01:00
+Ghana,加納,Accra,gh,233,Ghanaian Cedi,GHS,,"English (official), African languages (including Akan, Moshi-Dagomba, Ewe, and Ga)",Africa/Accra,+00:00,+00:00
+Gibraltar,直布羅陀,Gibraltar,gi,350,Gibraltar Pound,GIP,,English,Europe/Gibraltar,+01:00,+02:00
+Greenland,格陵蘭,Godthab,gl,299,Danish Krone,DKK,,"Greenlandic (Kalaallisut), Danish","America/Danmarkshavn
+America/Godthab
+America/Scoresbysund
+America/Thule","+00:00
+-03:00
+-01:00
+-04:00","+00:00
+-02:00
++00:00
+-03:00"
+Gambia,岡比亞,Banjul,gm,220,Gambian Dalasi,GMD,,"English (official), Mandinka, Wolof, Fula, other indigenous",Africa/Banjul,+00:00,+00:00
+Guinea,幾內亞,Conakry,gn,224,Guinea Franc,GNF,,"French (official), native tongues (Malinké, Susu, Fulani)",Africa/Conakry,+00:00,+00:00
+Guadeloupe (French),瓜德羅普島（法國）,Basse-Terre,gp,590,Euro,EUR,,French,America/Guadeloupe,-04:00,-04:00
+Equatorial Guinea,赤道幾內亞,Malabo,gq,240,CFA Franc BEAC,XAF,,"Spanish, French (both official); pidgin English, Fang, Bubi, Ibo",Africa/Malabo,+01:00,+01:00
+Greece,希臘,Athens,gr,30,Euro,EUR,,"Greek 99% (official), English, French",Europe/Athens,+02:00,+03:00
+South Georgia & South Sandwich Islands,南喬治亞島和南桑威奇群島,None,gs,,Pound Sterling,GBP,,English,Atlantic/South_Georgia,-02:00,-02:00
+Guatemala,危地馬拉,Guatemala City,gt,502,Guatemalan Quetzal,QTQ,,"Spanish 60%, Amerindian languages 40% (23 officially recognized Amerindian languages, including Quiche, Cakchiquel, Kekchi, Mam, Garifuna, and Xinca)",America/Guatemala,-06:00,-06:00
+Guam (USA),關島（美國）,Agana,gu,1-671,US Dollar,USD,,"English,	Chamorro",Pacific/Guam,+10:00,+10:00
+Guinea Bissau,幾內亞比紹,Bissau,gw,245,Guinea-Bissau Peso,GWP,,"Portuguese (official), Criolo, African languages",Africa/Bissau,+00:00,+00:00
+Guyana,圭亞那,Georgetown,gy,592,Guyana Dollar,GYD,,"English (official), Amerindian dialects, Creole, Hindi, Urdu",America/Guyana,-04:00,-04:00
+Hong Kong,香港,Victoria,hk,852,Hong Kong Dollar,HKD,,"Chinese, English",Asia/Hong_Kong,+08:00,+08:00
+Heard Island and McDonald Islands,赫德島和麥當勞群島,None,hm,,Australian Dollar,AUD,,None,,,
+Honduras,洪都拉斯,Tegucigalpa,hn,504,Honduran Lempira,HNL,,"Spanish (official), Amerindian dialects; English widely spoken in business",America/Tegucigalpa,-06:00,-06:00
+Croatia,克羅地亞,Zagreb,hr,385,Croatian Kuna,HRK,,"Croatian 96% (official), other 4% (including Italian, Hungarian, Czech, Slovak, German)",Europe/Zagreb,+01:00,+02:00
+Haiti,海地,Port-au-Prince,ht,509,Haitian Gourde,HTG,,Creole and French (both official),America/Port-au-Prince,-05:00,-05:00
+Hungary,匈牙利,Budapest,hu,36,Hungarian Forint,HUF,,"Magyar (Hungarian) 94%, other 6%",Europe/Budapest,+01:00,+02:00
+Indonesia,印度尼西亞,Jakarta,id,62,Indonesian Rupiah,IDR,,"Bahasa Indonesia (official), English, Dutch, Javanese, and more than 580 other languages and dialects","Asia/Jakarta
+Asia/Jayapura
+Asia/Makassar
+Asia/Pontianak","+07:00
++09:00
++08:00
++07:00","+07:00
++09:00
++08:00
++07:00"
+Ireland,愛爾蘭,Dublin,ie,353,Euro,EUR,,"English, Irish (Gaelic) (both official)",Europe/Dublin,+00:00,+01:00
+Israel,以色列,Jerusalem,il,972,Israeli New Shekel,ILS,,"Hebrew (official), Arabic, English",Asia/Jerusalem,+02:00,+03:00
+Isle of Man,馬恩島,Douglas,im,,Pound Sterling,GBP,,"English, Manx",Europe/Isle_of_Man,+00:00,+01:00
+India,印度,New Delhi,in,91,Indian Rupee,INR,,"Hindi 30%, English, Bengali, Gujarati, Kashmiri, Malayalam, Marathi, Oriya, Punjabi, Tamil, Telugu, Urdu, Kannada, Assamese, Sanskrit, Sindhi (all official); Hindi/Urdu; 1,600+ dialects",Asia/Kolkata,+05:30,+05:30
+British Indian Ocean Territory,英屬印度洋領地,None,io,,US Dollar,USD,,English,Indian/Chagos,+06:00,+06:00
+Iraq,伊拉克,Baghdad,iq,964,Iraqi Dinar,IQD,,"Arabic (official), Kurdish (official in Kurdish regions), Assyrian, Armenian",Asia/Baghdad,+03:00,+03:00
+Iran,伊朗,Tehran,ir,98,Iranian Rial,IRR,,"Persian and Persian dialects 58%, Turkic and Turkic dialects 26%, Kurdish 9%, Luri 2%, Balochi 1%, Arabic 1%, Turkish 1%, other 2%",Asia/Tehran,+03:30,+04:30
+Iceland,冰島,Reykjavik,is,354,Iceland Krona,ISK,,"Icelandic, English, Nordic languages, German widely spoken",Atlantic/Reykjavik,+00:00,+00:00
+Italy,意大利,Rome,it,39,Euro,EUR,,"Italian (official); German-, French-, and Slovene-speaking minorities",Europe/Rome,+01:00,+02:00
+Jersey,澤西,Saint Helier,je,,Pound Sterling,GBP,,English (official) and French,Europe/Jersey,+00:00,+01:00
+Jamaica,牙買加,Kingston,jm,1-876,Jamaican Dollar,JMD,,"English, Jamaican Creole",America/Jamaica,-05:00,-05:00
+Jordan,約旦,Amman,jo,962,Jordanian Dinar,JOD,,"Arabic (official), English",Asia/Amman,+02:00,+03:00
+Japan,日本,Tokyo,jp,81,Japanese Yen,JPY,,Japanese,Asia/Tokyo,+09:00,+09:00
+Kenya,肯尼亞,Nairobi,ke,254,Kenyan Shilling,KES,,"English (official), Swahili (national), and numerous indigenous languages",Africa/Nairobi,+03:00,+03:00
+Kyrgyzstan,吉爾吉斯斯坦,Bishkek,kg,996,Som,KGS,,"Kyrgyz, Russian (both official)",Asia/Bishkek,+06:00,+06:00
+Cambodia,柬埔寨,Phnom Penh,kh,855,Kampuchean Riel,KHR,,"Khmer 95% (official), French, English",Asia/Phnom_Penh,+07:00,+07:00
+Kiribati,基里巴斯,Tarawa,ki,686,Australian Dollar,AUD,,"English (official), I-Kiribati (Gilbertese)","Pacific/Enderbury
+Pacific/Kiritimati
+Pacific/Tarawa","+13:00
++14:00
++12:00","+13:00
++14:00
++12:00"
+Comoros,科摩羅,Moroni,km,269,Comoros Franc,KMF,,"Arabic and French (both official), Shikomoro (Swahili/Arabic blend)",Indian/Comoro,+03:00,+03:00
+Saint Kitts & Nevis Anguilla,聖基茨和尼維斯安圭拉,Basseterre,kn,1-869,East Caribbean Dollar,XCD,,English,America/St_Kitts,-04:00,-04:00
+Korea-North,朝鮮,Pyongyang,kp,850,North Korean Won,KPW,,Korean,Asia/Pyongyang,+08:30,+08:30
+Korea-South,韓國,Seoul,kr,82,Korean Won,KRW,,"Korean, English widely taught",Asia/Seoul,+09:00,+09:00
+Kuwait,科威特,Kuwait City,kw,965,Kuwaiti Dinar,KWD,,"Arabic (official), English",Asia/Kuwait,+03:00,+03:00
+Cayman Islands,開曼群島,Georgetown,ky,1-345,Cayman Islands Dollar,KYD,,English,America/Cayman,-05:00,-05:00
+Kazakhstan,哈薩克斯坦,Astana,kz,7,Kazakhstan Tenge,KZT,,"Kazak (Qazaq, state language) 64%; Russian (official, used in everyday business) 95% (2001 est.)","Asia/Almaty
+Asia/Aqtau
+Asia/Aqtobe
+Asia/Oral
+Asia/Qyzylorda","+06:00
++05:00
++05:00
++05:00
++06:00","+06:00
++05:00
++05:00
++05:00
++06:00"
+Laos,老撾,Vientiane,la,856,Lao Kip,LAK,,"Lao (official), French, English, various ethnic languages",Asia/Vientiane,+07:00,+07:00
+Lebanon,黎巴嫩,Beirut,lb,961,Lebanese Pound,LBP,,"Arabic (official), French, English, Armenian",Asia/Beirut,+02:00,+03:00
+Saint Lucia,聖盧西亞,Castries,lc,1-758,East Caribbean Dollar,XCD,,"English (official), French patois",America/St_Lucia,-04:00,-04:00
+Liechtenstein,列支敦士登,Vaduz,li,423,Swiss Franc,CHF,,"German (official), Alemannic dialect",Europe/Vaduz,+01:00,+02:00
+Sri Lanka,斯里蘭卡,Colombo,lk,94,Sri Lanka Rupee,LKR,,"Sinhala 74% (official and national), Tamil 18% (national), other 8%; English is commonly used in government and spoken competently by about 10%",Asia/Colombo,+05:30,+05:30
+Liberia,利比里亞,Monrovia,lr,231,Liberian Dollar,LRD,,"English 20% (official), some 20 ethnic-group languages",Africa/Monrovia,+00:00,+00:00
+Lesotho,萊索托,Maseru,ls,266,Lesotho Loti,LSL,,"English, Sesotho (both official); Zulu, Xhosa",Africa/Maseru,+02:00,+02:00
+Lithuania,立陶宛,Vilnius,lt,370,Lithuanian Litas,LTL,,"Lithuanian 82% (official), Russian 8%, Polish 6% (2001)",Europe/Vilnius,+02:00,+03:00
+Luxembourg,盧森堡,Luxembourg,lu,352,Euro,EUR,,"Luxermbourgish (national) French, German (both administrative)",Europe/Luxembourg,+01:00,+02:00
+Latvia,拉脫維亞,Riga,lv,371,Latvian Lats,LVL,,"Latvian 58% (official), Russian 38%, Lithuanian, other (2000)",Europe/Riga,+02:00,+03:00
+Libya,利比亞,Tripoli,ly,218,Libyan Dinar,LYD,,"Arabic, Italian, and English widely understood in major cities",Africa/Tripoli,+02:00,+02:00
+Morocco,摩洛哥,Rabat,ma,212,Moroccan Dirham,MAD,,"Arabic (official), Berber dialects, French often used for business, government, and diplomacy",Africa/Casablanca,+00:00,+01:00
+Monaco,摩納哥,Monaco,mc,377,Euro,EUR,,"French (official), English, Italian, Monégasque",Europe/Monaco,+01:00,+02:00
+Moldova,摩爾多瓦,Kishinev,md,373,Moldovan Leu,MDL,,"Moldovan (official; virtually the same as Romanian), Russian, Gagauz (a Turkish dialect)",Europe/Chisinau,+02:00,+03:00
+Montenegro,黑山,Podgorica,me,382,Euro,EUR,,Serbian/Montenegrin (Ijekavian dialect—official),Europe/Podgorica,+01:00,+02:00
+Madagascar,馬達加斯加,Antananarivo,mg,261,Malagasy Franc,MGF,,Malagasy and French (both official),Indian/Antananarivo,+03:00,+03:00
+Marshall Islands,馬紹爾群島,Majuro,mh,692,US Dollar,USD,,"Marshallese 98% (two major dialects from the Malayo-Polynesian family), English widely spoken as a second language (both official); Japanese","Pacific/Kwajalein
+Pacific/Majuro","+12:00
++12:00","+12:00
++12:00"
+Macedonia,馬其頓,Skopje,mk,389,Denar,MKD,,"Macedonian 67%, Albanian 25% (both official); Turkish 4%, Roma 2%, Serbian 1% (2002)",Europe/Skopje,+01:00,+02:00
+Mali,馬里,Bamako,ml,223,CFA Franc BCEAO,XOF,,"French (official), Bambara 80%, numerous African languages",Africa/Bamako,+00:00,+00:00
+Myanmar,緬甸,Naypyidaw,mm,95,Myanmar Kyat,MMK,,"Burmese, minority languages",Asia/Rangoon,+06:30,+06:30
+Mongolia,蒙古,Ulan Bator,mn,976,Mongolian Tugrik,MNT,,"Mongolian, 90%; also Turkic and Russian (1999)","Asia/Choibalsan
+Asia/Hovd
+Asia/Ulaanbaatar","+08:00
++07:00
++08:00","+09:00
++08:00
++09:00"
+Macau,澳門,Macau,mo,853,Macau Pataca,MOP,,"Chinese, Português",Asia/Macau,+08:00,+08:00
+Northern Mariana Islands,北馬里亞納群島,Saipan,mp,670,US Dollar,USD,,"English, Chamorro, Carolinian",Pacific/Saipan,+10:00,+10:00
+Martinique (French),馬提尼克島（法國）,Fort-de-France,mq,596,Euro,EUR,,French,America/Martinique,-04:00,-04:00
+Mauritania,毛里塔尼亞,Nouakchott,mr,222,Mauritanian Ouguiya,MRO,,"Hassaniya Arabic (official), Pulaar, Soninke, French, Wolof",Africa/Nouakchott,+00:00,+00:00
+Montserrat,蒙特塞拉特,Plymouth,ms,1-664,East Caribbean Dollar,XCD,,English,America/Montserrat,-04:00,-04:00
+Malta,馬耳他,Valletta,mt,356,Euro,EUR,,Maltese and English (both official),Europe/Malta,+01:00,+02:00
+Mauritius,毛里求斯,Port Louis,mu,230,Mauritius Rupee,MUR,,"English less than 1% (official), Creole 81%, Bojpoori 12%, French 3% (2000)",Indian/Mauritius,+04:00,+04:00
+Maldives,馬爾代夫,Male,mv,960,Maldive Rufiyaa,MVR,,Maldivian Dhivehi (official); English spoken by most government officials,Indian/Maldives,+05:00,+05:00
+Malawi,馬拉維,Lilongwe,mw,265,Malawi Kwacha,MWK,,"Chichewa 57.2% (official), Chinyanja 12.8%, Chiyao 10.1%, Chitumbuka 9.5%, Chisena 2.7%, Chilomwe 2.4%, Chitonga 1.7%, other 3.6% (1998)",Africa/Blantyre,+02:00,+02:00
+Mexico,墨西哥,Mexico City,mx,52,Mexican Nuevo Peso,MXN,,"Spanish, various Mayan, Nahuatl, and other regional indigenous languages","America/Bahia_Banderas
+America/Cancun
+America/Chihuahua
+America/Hermosillo
+America/Matamoros
+America/Mazatlan
+America/Merida
+America/Mexico_City
+America/Monterrey
+America/Ojinaga
+America/Tijuana","-06:00
+-05:00
+-07:00
+-07:00
+-06:00
+-07:00
+-06:00
+-06:00
+-06:00
+-07:00
+-08:00","-05:00
+-05:00
+-06:00
+-07:00
+-05:00
+-06:00
+-05:00
+-05:00
+-05:00
+-06:00
+-07:00"
+Malaysia,馬來西亞,Kuala Lumpur,my,60,Malaysian Ringgit,MYR,,"Bahasa Melayu (Malay, official), English, Chinese dialects (Cantonese, Mandarin, Hokkien, Hakka, Hainan, Foochow), Tamil, Telugu, Malayalam, Panjabi, Thai; several indigenous languages (including Iban, Kadazan) in East Malaysia","Asia/Kuala_Lumpur
+Asia/Kuching","+08:00
++08:00","+08:00
++08:00"
+Mozambique,莫桑比克,Maputo,mz,258,Mozambique Metical,MZN,,"Portuguese 9% (official; second language of 27%), Emakhuwa 26%, Xichangana 11%, Elomwe 8%, Cisena 7%, Echuwabo 6%, other Mozambican languages 32% (1997)",Africa/Maputo,+02:00,+02:00
+Namibia,納米比亞,Windhoek,na,264,Namibian Dollar,NAD,,"English 7% (official), Afrikaans is common language of most of the population and of about 60% of the white population, German 32%; indigenous languages: Oshivambo, Herero, Nama",Africa/Windhoek,+01:00,+02:00
+New Caledonia (French),新喀裡多尼亞（法國）,Noumea,nc,687,CFP Franc,XPF,,French,Pacific/Noumea,+11:00,+11:00
+Niger,尼日爾,Niamey,ne,227,CFA Franc BCEAO,XOF,,"French (official), Hausa, Djerma",Africa/Niamey,+01:00,+01:00
+Norfolk Island,諾福克島,Kingston,nf,672,Australian Dollar,AUD,,"English, Norfuk",Pacific/Norfolk,+11:00,+11:00
+Nigeria,尼日利亞,Lagos,ng,234,Nigerian Naira,NGN,,"English (official), Hausa, Yoruba, Ibo, Fulani, and more than 200 others",Africa/Lagos,+01:00,+01:00
+Nicaragua,尼加拉瓜,Managua,ni,505,Nicaraguan Cordoba Oro,NIO,,Spanish 98% (official); English and indigenous languages on Atlantic coast (1995),America/Managua,-06:00,-06:00
+Netherlands,荷蘭,Amsterdam,nl,31,Euro,EUR,,"Dutch, Frisian (both official)",Europe/Amsterdam,+01:00,+02:00
+Norway,挪威,Oslo,no,47,Norwegian Krone,NOK,,"Bokmål Norwegian, Nynorsk Norwegian (both official); small Sami- and Finnish-speaking minorities (Sami is official in six municipalities)",Europe/Oslo,+01:00,+02:00
+Nepal,尼泊爾,Kathmandu,np,977,Nepalese Rupee,NPR,,"Nepali 48% (official), Maithali 12%, Bhojpuri 7%, Tharu 6%, Tamang 5%, others. English spoken by many in government and business (2001)",Asia/Kathmandu,+05:45,+05:45
+Nauru,瑙魯,Yaren,nr,674,Australian Dollar,AUD,,"Nauruan (official), English",Pacific/Nauru,+12:00,+12:00
+Niue,紐埃,Alofi,nu,683,New Zealand Dollar,NZD,,"Niuean, English",Pacific/Niue,-11:00,-11:00
+New Zealand,新西蘭,Wellington,nz,64,New Zealand Dollar,NZD,,"English, Maori (both official)","Pacific/Auckland
+Pacific/Chatham","+12:00
++12:45","+13:00
++13:45"
+Oman,阿曼,Muscat,om,968,Omani Rial,OMR,,"Arabic (official), English, Baluchi, Urdu, Indian dialects",Asia/Muscat,+04:00,+04:00
+Panama,巴拿馬,Panama City,pa,507,Panamanian Balboa,PAB,,"Spanish (official), English 14%, many bilingual",America/Panama,-05:00,-05:00
+Peru,秘魯,Lima,pe,51,Peruvian Nuevo Sol,PEN,,"Spanish, Quéchua (both official); Aymara; many minor Amazonian languages",America/Lima,-05:00,-05:00
+Polynesia (French),波利尼西亞（法國）,Papeete,pf,689,CFP Franc,XPF,,French,"Pacific/Gambier
+Pacific/Marquesas
+Pacific/Tahiti","-09:00
+-09:30
+-10:00","-09:00
+-09:30
+-10:00"
+Papua New Guinea,巴布亞新幾內亞,Port Moresby,pg,675,Papua New Guinea Kina,PGK,,"Tok Pisin (Melanesian Pidgin, the lingua franca), Hiri Motu (in Papua region), English 1%–2%; 715 indigenous languages","Pacific/Bougainville
+Pacific/Port_Moresby","+11:00
++10:00","+11:00
++10:00"
+Philippines,菲律賓,Manila,ph,63,Philippine Peso,PHP,,"Filipino (based on Tagalog), English (both official); eight major dialects: Tagalog, Cebuano, Ilocano, Hiligaynon or Ilonggo, Bicol, Waray, Pampango, and Pangasinense",Asia/Manila,+08:00,+08:00
+Pakistan,巴基斯坦,Islamabad,pk,92,Pakistan Rupee,PKR,,"Urdu 8%, English (both official); Punjabi 48%, Sindhi 12%, Siraiki (a Punjabi variant) 10%, Pashtu 8%, Balochi 3%, Hindko 2%, Brahui 1%, Burushaski, and others 8%",Asia/Karachi,+05:00,+05:00
+Poland,波蘭,Warsaw,pl,48,Polish Zloty,PLN,,Polish 98% (2002),Europe/Warsaw,+01:00,+02:00
+Saint Pierre and Miquelon,聖皮埃爾和密克隆,St. Pierre,pm,508,Euro,EUR,,French,America/Miquelon,-03:00,-02:00
+Pitcairn Island,皮特凱恩島,Adamstown,pn,,New Zealand Dollar,NZD,,"English, Pitcairnese",Pacific/Pitcairn,-08:00,-08:00
+Puerto Rico,波多黎各,San Juan,pr,1-787,US Dollar,USD,,"Spanish, English",America/Puerto_Rico,-04:00,-04:00
+Portugal,葡萄牙,Lisbon,pt,351,Euro,EUR,,"Portuguese (official), Mirandese (official, but locally used)","Atlantic/Azores
+Atlantic/Madeira
+Europe/Lisbon","-01:00
++00:00
++00:00","+00:00
++01:00
++01:00"
+Palau,帕勞,Koror,pw,680,US Dollar,USD,,"Palauan 64.7%, English 9.4%, Sonsoralese, Tobi, Angaur (each official on some islands), Filipino 13.5%, Chinese 5.7%, Carolinian 1.5%, Japanese 1.5%, other Asian 2.3%, other languages 1.5% (2000)",Pacific/Palau,+09:00,+09:00
+Paraguay,巴拉圭,Asuncion,py,595,Paraguay Guarani,PYG,,"Spanish, Guaraní (both official)",America/Asuncion,-04:00,-03:00
+Qatar,卡塔爾,Doha,qa,974,Qatari Rial,QAR,,Arabic (official); English a common second language,Asia/Qatar,+03:00,+03:00
+Reunion (French),留尼汪（法國）,Saint-Denis,re,262,Euro,EUR,,French,Indian/Reunion,+04:00,+04:00
+Romania,羅馬尼亞,Bucharest,ro,40,Romanian New Leu,RON,,"Romanian (official), Hungarian, German",Europe/Bucharest,+02:00,+03:00
+Serbia,塞爾維亞,Belgrade,rs,381,Dinar,RSD,,"Serbian (official); Romanian, Hungarian, Slovak, and Croatian (all official in Vojvodina); Albanian (official in Kosovo)",Europe/Belgrade,+01:00,+02:00
+Russia,俄國,Moscow,ru,7,Russian Ruble,RUB,,"Russian, others","Asia/Anadyr
+Asia/Barnaul
+Asia/Chita
+Asia/Irkutsk
+Asia/Kamchatka
+Asia/Khandyga
+Asia/Krasnoyarsk
+Asia/Magadan
+Asia/Novokuznetsk
+Asia/Novosibirsk
+Asia/Omsk
+Asia/Sakhalin
+Asia/Srednekolymsk
+Asia/Ust-Nera
+Asia/Vladivostok
+Asia/Yakutsk
+Asia/Yekaterinburg
+Europe/Astrakhan
+Europe/Kaliningrad
+Europe/Moscow
+Europe/Samara
+Europe/Simferopol
+Europe/Ulyanovsk
+Europe/Volgograd","+12:00
++07:00
++09:00
++08:00
++12:00
++09:00
++07:00
++10:00
++07:00
++06:00
++06:00
++11:00
++11:00
++10:00
++10:00
++09:00
++05:00
++04:00
++02:00
++03:00
++04:00
++03:00
++04:00
++03:00","+12:00
++07:00
++09:00
++08:00
++12:00
++09:00
++07:00
++10:00
++07:00
++06:00
++06:00
++11:00
++11:00
++10:00
++10:00
++09:00
++05:00
++04:00
++02:00
++03:00
++04:00
++03:00
++04:00
++03:00"
+Rwanda,盧旺達,Kigali,rw,250,Rwanda Franc,RWF,,"Kinyarwanda, French, and English (all official); Kiswahili in commercial centers",Africa/Kigali,+02:00,+02:00
+Saudi Arabia,沙特阿拉伯,Riyadh,sa,966,Saudi Riyal,SAR,,Arabic,Asia/Riyadh,+03:00,+03:00
+Solomon Islands,所羅門群島,Honiara,sb,677,Solomon Islands Dollar,SBD,,"English 1%–2% (official), Melanesian pidgin (lingua franca), 120 indigenous languages",Pacific/Guadalcanal,+11:00,+11:00
+Seychelles,塞舌爾,Victoria,sc,248,Seychelles Rupee,SCR,,"Seselwa Creole 92%, English 5%, French (all official) (2002)",Indian/Mahe,+04:00,+04:00
+Sudan,蘇丹,Khartoum,sd,249,Sudanese Pound,SDG,,"Arabic (official), Nubian, Ta Bedawie, diverse dialects of Nilotic, Nilo-Hamitic, Sudanic languages, English",Africa/Khartoum,+03:00,+03:00
+Sweden,瑞典,Stockholm,se,46,Swedish Krona,SEK,,"Swedish, small Sami- and Finnish-speaking minorities",Europe/Stockholm,+01:00,+02:00
+Singapore,新加坡,Singapore,sg,65,Singapore Dollar,SGD,,"Mandarin 35%, English 23%, Malay 14.1%, Hokkien 11.4%, Cantonese 5.7%, Teochew 4.9%, Tamil 3.2%, other Chinese dialects 1.8%, other 0.9% (2000)",Asia/Singapore,+08:00,+08:00
+Saint Helena,聖赫勒拿,Jamestown,sh,290,St. Helena Pound,SHP,,English,Atlantic/St_Helena,+00:00,+00:00
+Slovenia,斯洛文尼亞,Ljubljana,si,386,Euro,EUR,,"Slovenian 91%, Serbo-Croatian 5% (2002)",Europe/Ljubljana,+01:00,+02:00
+Svalbard and Jan Mayen Islands,斯瓦巴和揚馬延,Longyearbyen,sj,,Norwegian Krone,NOK,,None,Arctic/Longyearbyen,+01:00,+02:00
+Slovakia,斯洛伐克,Bratislava,sk,421,Euro,EUR,,"Slovak 84% (official), Hungarian 11%, Roma 2%, Ukrainian 1% (2001)",Europe/Bratislava,+01:00,+02:00
+Sierra Leone,塞拉利昂,Freetown,sl,232,Sierra Leone Leone,SLL,,"English (official), Mende (southern vernacular), Temne (northern vernacular), Krio (lingua franca)",Africa/Freetown,+00:00,+00:00
+San Marino,聖馬力諾,San Marino,sm,378,Euro,EUR,,Italian,Europe/San_Marino,+01:00,+02:00
+Senegal,塞內加爾,Dakar,sn,221,CFA Franc BCEAO,XOF,,"French (official); Wolof, Pulaar, Jola, Mandinka",Africa/Dakar,+00:00,+00:00
+Somalia,索馬里,Mogadishu,so,252,Somali Shilling,SOS,,"Somali (official), Arabic, English, Italian",Africa/Mogadishu,+03:00,+03:00
+Suriname,蘇里南,Paramaribo,sr,597,Surinam Dollar,SRD,,"Dutch (official), Surinamese (lingua franca), English widely spoken, Hindustani, Javanese",America/Paramaribo,-03:00,-03:00
+South Sudan,南蘇丹,Ramciel,ss,,South Sudan Pound,SSP,,"English (official), Arabic (includes Juba and Sudanese variants) (official), regional languages include Dinka, Nuer, Bari, Zande, Shilluk",Africa/Juba,+03:00,+03:00
+Sao Tome and Principe,聖多美和普林西比,Sao Tome,st,239,Dobra,STD,,Portuguese (official),Africa/Sao_Tome,+00:00,+00:00
+El Salvador,薩爾瓦多,San Salvador,sv,503,El Salvador Colon,SVC,,"Spanish, Nahua (among some Amerindians)",America/El_Salvador,-06:00,-06:00
+Syria,敘利亞,Damascus,sy,963,Syrian Pound,SYP,,"Arabic (official); Kurdish, Armenian, Aramaic, Circassian widely understood; French, English somewhat understood",Asia/Damascus,+02:00,+03:00
+Swaziland,斯威士蘭,Mbabane,sz,268,Swaziland Lilangeni,SZL,,"English, siSwati (both official)",Africa/Mbabane,+02:00,+02:00
+Turks and Caicos Islands,特克斯和凱科斯群島,Grand Turk,tc,1-649,US Dollar,USD,,English,America/Grand_Turk,-04:00,-04:00
+Chad,乍得,N'Djamena,td,235,CFA Franc BEAC,XAF,,"French, Arabic (both official); Sara; more than 120 languages and dialects",Africa/Ndjamena,+01:00,+01:00
+French Southern Territories,法屬南部和南極領地,None,tf,,Euro,EUR,,French,Indian/Kerguelen,+05:00,+05:00
+Togo,多哥,Lome,tg,228,CFA Franc BCEAO,XOF,,"French (official, commerce); Ewé, Mina (south); Kabyé, Dagomba (north); and many dialects",Africa/Lome,+00:00,+00:00
+Thailand,泰國,Bangkok,th,66,Thai Baht,THB,,"Thai (Siamese), English (secondary language of the elite), ethnic and regional dialects",Asia/Bangkok,+07:00,+07:00
+Tajikistan,塔吉克斯坦,Dushanbe,tj,992,Tajik Somoni,TJS,,"Tajik (official), Russian widely used in government and business",Asia/Dushanbe,+05:00,+05:00
+Tokelau,托克勞,None,tk,690,New Zealand Dollar,NZD,,"Tokelauan, English",Pacific/Fakaofo,+13:00,+13:00
+Turkmenistan,土庫曼斯坦,Ashgabat,tm,993,Manat,TMT,,"Turkmen 72%; Russian 12%; Uzbek 9%, other 7%",Asia/Ashgabat,+05:00,+05:00
+Tunisia,突尼斯,Tunis,tn,216,Tunisian Dollar,TND,,"Arabic (official, commerce), French (commerce)",Africa/Tunis,+01:00,+01:00
+Tonga,湯加,Nuku'alofa,to,676,Tongan Pa'anga,TOP,,"Tongan (an Austronesian language), English",Pacific/Tongatapu,+13:00,+13:00
+Turkey,土耳其,Ankara,tr,90,Turkish Lira,TRY,,"Turkish (official), Kurdish, Dimli, Azeri, Kabardian",Europe/Istanbul,+02:00,+03:00
+Trinidad and Tobago,特立尼達和多巴哥,Port of Spain,tt,1-868,Trinidad and Tobago Dollar,TTD,,"English (official), Hindi, French, Spanish, Chinese",America/Port_of_Spain,-04:00,-04:00
+Tuvalu,圖瓦盧,Funafuti,tv,688,Australian Dollar,AUD,,"Tuvaluan, English, Samoan, Kiribati (on the island of Nui)",Pacific/Funafuti,+12:00,+12:00
+Taiwan,台灣,Taipei,tw,886,Taiwan Dollar,TWD,,"Chinese (Mandarin, official), Taiwanese (Min), Hakka dialects",Asia/Taipei,+08:00,+08:00
+Tanzania,坦桑尼亞,Dodoma,tz,255,Tanzanian Shilling,TZS,,"Swahili, English (both official); Arabic; many local languages",Africa/Dar_es_Salaam,+03:00,+03:00
+Ukraine,烏克蘭,Kiev,ua,380,Ukraine Hryvnia,UAH,,"Ukrainian 67%, Russian 24%, Romanian, Polish, Hungarian","Europe/Kiev
+Europe/Uzhgorod
+Europe/Zaporozhye","+02:00
++02:00
++02:00","+03:00
++03:00
++03:00"
+Uganda,烏干達,Kampala,ug,256,Uganda Shilling,UGX,,"English (official), Ganda or Luganda, other Niger-Congo languages, Nilo-Saharan languages, Swahili, Arabic",Africa/Kampala,+03:00,+03:00
+United Kingdom,英國,London,uk,44,Pound Sterling,GBP,,"English, Welsh, Scots Gaelic",,,
+USA Minor Outlying Islands,美國本土外小島嶼,None,um,,US Dollar,USD,,,"Pacific/Johnston
+Pacific/Midway
+Pacific/Wake","-10:00
+-11:00
++12:00","-10:00
+-11:00
++12:00"
+USA,美國,Washington,us,1,US Dollar,USD,,"English 82%, Spanish 11% (2000)","America/Adak
+America/Anchorage
+America/Boise
+America/Chicago
+America/Denver
+America/Detroit
+America/Indiana/Indianapolis
+America/Indiana/Knox
+America/Indiana/Marengo
+America/Indiana/Petersburg
+America/Indiana/Tell_City
+America/Indiana/Vevay
+America/Indiana/Vincennes
+America/Indiana/Winamac
+America/Juneau
+America/Kentucky/Louisville
+America/Kentucky/Monticello
+America/Los_Angeles
+America/Menominee
+America/Metlakatla
+America/New_York
+America/Nome
+America/North_Dakota/Beulah
+America/North_Dakota/Center
+America/North_Dakota/
+America/Phoenix
+America/Sitka
+America/Yakutat
+Pacific/Honolulu","-10:00
+-09:00
+-07:00
+-06:00
+-07:00
+-05:00
+-05:00
+-06:00
+-05:00
+-05:00
+-06:00
+-05:00
+-05:00
+-05:00
+-09:00
+-05:00
+-05:00
+-08:00
+-06:00
+-09:00
+-05:00
+-09:00
+-06:00
+-06:00
+-06:00
+-07:00
+-09:00
+-09:00
+-10:00","-09:00
+-08:00
+-06:00
+-05:00
+-06:00
+-04:00
+-04:00
+-05:00
+-04:00
+-04:00
+-05:00
+-04:00
+-04:00
+-04:00
+-08:00
+-04:00
+-04:00
+-07:00
+-05:00
+-08:00
+-04:00
+-08:00
+-05:00
+-05:00
+-05:00
+-07:00
+-08:00
+-08:00
+-10:00"
+Uruguay,烏拉圭,Montevideo,uy,598,Uruguayan Peso,UYU,,"Spanish, Portunol, or Brazilero",America/Montevideo,-03:00,-03:00
+Uzbekistan,烏茲別克斯坦,Tashkent,uz,998,Uzbekistan Sum,UZS,,"Uzbek 74.3%, Russian 14.2%, Tajik 4.4%, other 7.1%","Asia/Samarkand
+Asia/Tashkent","+05:00
++05:00","+05:00
++05:00"
+Vatican,教廷,Vatican City,va,39,Euro,EUR,,"Italian, Latin, French, various other languages",Europe/Vatican,+01:00,+02:00
+Saint Vincent & Grenadines,聖文森特和格林納丁斯,Kingstown,vc,1-784,East Caribbean Dollar,XCD,,"English, French patois",America/St_Vincent,-04:00,-04:00
+Venezuela,委內瑞拉,Caracas,ve,58,Venezuelan Bolivar,VEF,,"Spanish (official), numerous indigenous dialects",America/Caracas,-04:30,-04:30
+Virgin Islands (British),維爾京群島（英屬）,Road Town,vg,1-284,US Dollar,USD,,English,America/Tortola,-04:00,-04:00
+Virgin Islands (USA),維爾京群島（美國）,Charlotte Amalie,vi,1-340,US Dollar,USD,,English,America/St_Thomas,-04:00,-04:00
+Vietnam,越南,Hanoi,vn,84,Vietnamese Dong,VND,,"Vietnamese (official); English (increasingly favored as a second language); some French, Chinese, Khmer; mountain area languages (Mon-Khmer and Malayo-Polynesian)",Asia/Ho_Chi_Minh,+07:00,+07:00
+Vanuatu,瓦努阿圖,Port Vila,vu,678,Vanuatu Vatu,VUV,,"Bislama 23% (a Melanesian pidgin English), English 2%, French 1% (all 3 official); more than 100 local languages 73%",Pacific/Efate,+11:00,+11:00
+Wallis and Futuna Islands,瓦利斯和富圖納群島,Mata-Utu,wf,681,CFP Franc,XPF,,French,Pacific/Wallis,+12:00,+12:00
+Samoa,薩摩亞,Apia,ws,684,Samoan Tala,WST,,"Samoan, English",Pacific/Apia,+13:00,+14:00
+Yemen,也門,San'a,ye,967,Yemeni Rial,YER,,Arabic,Asia/Aden,+03:00,+03:00
+Mayotte,馬約特,Dzaoudzi,yt,269,Euro,EUR,,Shimaore,Indian/Mayotte,+03:00,+03:00
+South Africa,南非,Pretoria,za,27,South African Rand,ZAR,,"IsiZulu 23.8%, IsiXhosa 17.6%, Afrikaans 13.3%, Sepedi 9.4%, English 8.2%, Setswana 8.2%, Sesotho 7.9%, Xitsonga 4.4%, other 7.2%",Africa/Johannesburg,+02:00,+02:00
+Zambia,贊比亞,Lusaka,zm,260,Zambian Kwacha,ZMW,,"English (official); major vernaculars: Bemba, Kaonda, Lozi, Lunda, Luvale, Nyanja, Tonga; about 70 other indigenous languages",Africa/Lusaka,+02:00,+02:00
+Zimbabwe,津巴布韋,Harare,zw,263,Zimbabwe Dollar,ZWD,,"English (official), Shona, Ndebele (Sindebele), numerous minor tribal dialects",Africa/Harare,+02:00,+02:00
