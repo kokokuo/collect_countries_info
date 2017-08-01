@@ -43,7 +43,9 @@
         "am (አማርኛ)": "አሩባ", 
         "it (italiano)": "Aruba", 
         "ky (кыргызча)": "Аруба", 
-        "timezones": "[\"America/Aruba\"]", 
+        "timezones": [
+            "America/Aruba"
+        ], 
         "uz_Cyrl (Ўзбек)": "Аруба", 
         "mr (मराठी)": "अरुबा", 
         "ak (Akan)": "Aruba", 
@@ -97,7 +99,9 @@
         "uz_Latn (o‘zbek)": "Aruba", 
         "es (español)": "Aruba", 
         "eu (euskara)": "Aruba", 
-        "currency_code": "[\"AWG\"]", 
+        "currency_code": [
+            "AWG"
+        ], 
         "dz (རྫོང་ཁ)": "ཨ་རུ་བཱ", 
         "mt (Malti)": "Aruba", 
         "uk (українська)": "Аруба", 
@@ -164,7 +168,9 @@
         "it (italiano)": "Afghanistan", 
         "uz_Arab (اوزبیک)": "افغانستان", 
         "ky (кыргызча)": "Афганистан", 
-        "timezones": "[\"Asia/Kabul\"]", 
+        "timezones": [
+            "Asia/Kabul"
+        ], 
         "uz_Cyrl (Ўзбек)": "Афғонистон", 
         "mr (मराठी)": "अफगाणिस्तान", 
         "ak (Akan)": "Afganistan", 
@@ -219,7 +225,9 @@
         "uz_Latn (o‘zbek)": "Afgʻoniston", 
         "es (español)": "Afganistán", 
         "eu (euskara)": "Afganistan", 
-        "currency_code": "[\"AFN\"]", 
+        "currency_code": [
+            "AFN"
+        ], 
         "dz (རྫོང་ཁ)": "ཨཕ་གྷ་ནི་སཏཱན", 
         "mt (Malti)": "Afganistan", 
         "uk (українська)": "Афганістан", 
@@ -286,7 +294,9 @@
         "am (አማርኛ)": "አንጐላ", 
         "it (italiano)": "Angola", 
         "ky (кыргызча)": "Ангола", 
-        "timezones": "[\"Africa/Luanda\"]", 
+        "timezones": [
+            "Africa/Luanda"
+        ], 
         "uz_Cyrl (Ўзбек)": "Ангола", 
         "mr (मराठी)": "अंगोला", 
         "ak (Akan)": "Angola", 
@@ -341,7 +351,9 @@
         "uz_Latn (o‘zbek)": "Angola", 
         "es (español)": "Angola", 
         "eu (euskara)": "Angola", 
-        "currency_code": "[\"AOA\"]", 
+        "currency_code": [
+            "AOA"
+        ], 
         "dz (རྫོང་ཁ)": "ཨང་གྷོ་ལ", 
         "mt (Malti)": "Angola", 
         "uk (українська)": "Ангола", 
@@ -408,7 +420,9 @@
         "am (አማርኛ)": "አንጉኢላ", 
         "it (italiano)": "Anguilla", 
         "ky (кыргызча)": "Ангуила", 
-        "timezones": "[\"America/Anguilla\"]", 
+        "timezones": [
+            "America/Anguilla"
+        ], 
         "uz_Cyrl (Ўзбек)": "Ангила", 
         "mr (मराठी)": "अँग्विला", 
         "ak (Akan)": "Anguila", 
@@ -462,7 +476,9 @@
         "uz_Latn (o‘zbek)": "Angilya", 
         "es (español)": "Anguila", 
         "eu (euskara)": "Angila", 
-        "currency_code": "[\"XCD\"]", 
+        "currency_code": [
+            "XCD"
+        ], 
         "dz (རྫོང་ཁ)": "ཨང་གི་ལ", 
         "mt (Malti)": "Angwilla", 
         "uk (українська)": "Ангілья", 
@@ -521,7 +537,9 @@
         "am (አማርኛ)": "የአላንድ ደሴቶች", 
         "it (italiano)": "Isole Åland", 
         "ky (кыргызча)": "Аланд аралдары", 
-        "timezones": "[\"Europe/Mariehamn\"]", 
+        "timezones": [
+            "Europe/Mariehamn"
+        ], 
         "uz_Cyrl (Ўзбек)": "Аланд ороллари", 
         "mr (मराठी)": "अ‍ॅलँड बेटे", 
         "nn (nynorsk)": "Åland", 
@@ -571,7 +589,9 @@
         "uz_Latn (o‘zbek)": "Aland orollari", 
         "es (español)": "Islas Åland", 
         "eu (euskara)": "Aland uharteak", 
-        "currency_code": "[\"EUR\"]", 
+        "currency_code": [
+            "EUR"
+        ], 
         "dz (རྫོང་ཁ)": "ཨ་ལནཌ་གླིང་ཚོམ", 
         "mt (Malti)": "Gżejjer Aland", 
         "uk (українська)": "Аландські острови", 
@@ -633,7 +653,9 @@
         "am (አማርኛ)": "አልባኒያ", 
         "it (italiano)": "Albania", 
         "ky (кыргызча)": "Албания", 
-        "timezones": "[\"Europe/Tirane\"]", 
+        "timezones": [
+            "Europe/Tirane"
+        ], 
         "uz_Cyrl (Ўзбек)": "Албания", 
         "mr (मराठी)": "अल्बानिया", 
         "ak (Akan)": "Albenia", 
@@ -688,7 +710,9 @@
         "uz_Latn (o‘zbek)": "Albaniya", 
         "es (español)": "Albania", 
         "eu (euskara)": "Albania", 
-        "currency_code": "[\"ALL\"]", 
+        "currency_code": [
+            "ALL"
+        ], 
         "dz (རྫོང་ཁ)": "ཨཱལ་བེ་ནི་ཡ", 
         "mt (Malti)": "Albanija", 
         "uk (українська)": "Албанія", 
@@ -755,7 +779,9 @@
         "am (አማርኛ)": "አንዶራ", 
         "it (italiano)": "Andorra", 
         "ky (кыргызча)": "Андорра", 
-        "timezones": "[\"Europe/Andorra\"]", 
+        "timezones": [
+            "Europe/Andorra"
+        ], 
         "uz_Cyrl (Ўзбек)": "Андорра", 
         "mr (मराठी)": "अँडोरा", 
         "ak (Akan)": "Andora", 
@@ -810,7 +836,9 @@
         "uz_Latn (o‘zbek)": "Andorra", 
         "es (español)": "Andorra", 
         "eu (euskara)": "Andorra", 
-        "currency_code": "[\"EUR\"]", 
+        "currency_code": [
+            "EUR"
+        ], 
         "dz (རྫོང་ཁ)": "ཨཱན་དོ་ར", 
         "mt (Malti)": "Andorra", 
         "uk (українська)": "Андорра", 
@@ -876,7 +904,9 @@
         "am (አማርኛ)": "የተባበሩት አረብ ኤምሬትስ", 
         "it (italiano)": "Emirati Arabi Uniti", 
         "ky (кыргызча)": "Бириккен Араб Эмираттары", 
-        "timezones": "[\"Asia/Dubai\"]", 
+        "timezones": [
+            "Asia/Dubai"
+        ], 
         "uz_Cyrl (Ўзбек)": "Бирлашган Араб Амирликлари", 
         "mr (मराठी)": "संयुक्त अरब अमीरात", 
         "ak (Akan)": "United Arab Emirates", 
@@ -930,7 +960,9 @@
         "uz_Latn (o‘zbek)": "Birlashgan Arab Amirliklari", 
         "es (español)": "Emiratos Árabes Unidos", 
         "eu (euskara)": "Arabiar Emirerri Batuak", 
-        "currency_code": "[\"AED\"]", 
+        "currency_code": [
+            "AED"
+        ], 
         "dz (རྫོང་ཁ)": "ཡུ་ནཱའི་ཊེཌ་ ཨ་རབ་ ཨེ་མེ་རེཊས", 
         "mt (Malti)": "Emirati Għarab Maqgħuda", 
         "uk (українська)": "Обʼєднані Арабські Емірати", 
@@ -995,7 +1027,20 @@
         "am (አማርኛ)": "አርጀንቲና", 
         "it (italiano)": "Argentina", 
         "ky (кыргызча)": "Аргентина", 
-        "timezones": "[\"America/Argentina/Buenos_Aires\", \"America/Argentina/Cordoba\", \"America/Argentina/Salta\", \"America/Argentina/Jujuy\", \"America/Argentina/Tucuman\", \"America/Argentina/Catamarca\", \"America/Argentina/La_Rioja\", \"America/Argentina/San_Juan\", \"America/Argentina/Mendoza\", \"America/Argentina/San_Luis\", \"America/Argentina/Rio_Gallegos\", \"America/Argentina/Ushuaia\"]", 
+        "timezones": [
+            "America/Argentina/Buenos_Aires", 
+            "America/Argentina/Cordoba", 
+            "America/Argentina/Salta", 
+            "America/Argentina/Jujuy", 
+            "America/Argentina/Tucuman", 
+            "America/Argentina/Catamarca", 
+            "America/Argentina/La_Rioja", 
+            "America/Argentina/San_Juan", 
+            "America/Argentina/Mendoza", 
+            "America/Argentina/San_Luis", 
+            "America/Argentina/Rio_Gallegos", 
+            "America/Argentina/Ushuaia"
+        ], 
         "uz_Cyrl (Ўзбек)": "Аргентина", 
         "mr (मराठी)": "अर्जेंटिना", 
         "ak (Akan)": "Agyɛntina", 
@@ -1050,7 +1095,9 @@
         "uz_Latn (o‘zbek)": "Argentina", 
         "es (español)": "Argentina", 
         "eu (euskara)": "Argentina", 
-        "currency_code": "[\"ARS\"]", 
+        "currency_code": [
+            "ARS"
+        ], 
         "dz (རྫོང་ཁ)": "ཨར་ཇེན་ཊི་ན", 
         "mt (Malti)": "Arġentina", 
         "uk (українська)": "Аргентина", 
@@ -1116,7 +1163,9 @@
         "am (አማርኛ)": "አርሜኒያ", 
         "it (italiano)": "Armenia", 
         "ky (кыргызча)": "Армения", 
-        "timezones": "[\"Asia/Yerevan\"]", 
+        "timezones": [
+            "Asia/Yerevan"
+        ], 
         "uz_Cyrl (Ўзбек)": "Арманистон", 
         "mr (मराठी)": "अर्मेनिया", 
         "ak (Akan)": "Aamenia", 
@@ -1171,7 +1220,9 @@
         "uz_Latn (o‘zbek)": "Armaniston", 
         "es (español)": "Armenia", 
         "eu (euskara)": "Armenia", 
-        "currency_code": "[\"AMD\"]", 
+        "currency_code": [
+            "AMD"
+        ], 
         "dz (རྫོང་ཁ)": "ཨར་མི་ནི་ཡ", 
         "mt (Malti)": "Armenja", 
         "uk (українська)": "Вірменія", 
@@ -1236,7 +1287,9 @@
         "am (አማርኛ)": "የአሜሪካ ሳሞአ", 
         "it (italiano)": "Samoa americane", 
         "ky (кыргызча)": "Америка Самоасы", 
-        "timezones": "[\"Pacific/Pago_Pago\"]", 
+        "timezones": [
+            "Pacific/Pago_Pago"
+        ], 
         "uz_Cyrl (Ўзбек)": "Америка Самоаси", 
         "mr (मराठी)": "अमेरिकन सामोआ", 
         "ak (Akan)": "Amɛrika Samoa", 
@@ -1291,7 +1344,9 @@
         "uz_Latn (o‘zbek)": "Amerika Samoasi", 
         "es (español)": "Samoa Americana", 
         "eu (euskara)": "Amerikar Samoa", 
-        "currency_code": "[\"USD\"]", 
+        "currency_code": [
+            "USD"
+        ], 
         "dz (རྫོང་ཁ)": "ས་མོ་ཨ་ཡུ་ཨེས་ཨེ་མངའ་ཁོངས", 
         "mt (Malti)": "Samoa Amerikana", 
         "uk (українська)": "Американське Самоа", 
@@ -1350,7 +1405,18 @@
         "am (አማርኛ)": "አንታርክቲካ", 
         "it (italiano)": "Antartide", 
         "ky (кыргызча)": "Антарктика", 
-        "timezones": "[\"Antarctica/McMurdo\", \"Antarctica/Casey\", \"Antarctica/Davis\", \"Antarctica/DumontDUrville\", \"Antarctica/Mawson\", \"Antarctica/Palmer\", \"Antarctica/Rothera\", \"Antarctica/Syowa\", \"Antarctica/Troll\", \"Antarctica/Vostok\"]", 
+        "timezones": [
+            "Antarctica/McMurdo", 
+            "Antarctica/Casey", 
+            "Antarctica/Davis", 
+            "Antarctica/DumontDUrville", 
+            "Antarctica/Mawson", 
+            "Antarctica/Palmer", 
+            "Antarctica/Rothera", 
+            "Antarctica/Syowa", 
+            "Antarctica/Troll", 
+            "Antarctica/Vostok"
+        ], 
         "uz_Cyrl (Ўзбек)": "Антарктика", 
         "mr (मराठी)": "अंटार्क्टिका", 
         "nn (nynorsk)": "Antarktis", 
@@ -1457,7 +1523,9 @@
         "am (አማርኛ)": "የፈረንሳይ ደቡባዊ ግዛቶች", 
         "it (italiano)": "Terre australi francesi", 
         "ky (кыргызча)": "Франциянын Түштүктөгү аймактары", 
-        "timezones": "[\"Indian/Kerguelen\"]", 
+        "timezones": [
+            "Indian/Kerguelen"
+        ], 
         "uz_Cyrl (Ўзбек)": "Франция жанубий худудлари", 
         "mr (मराठी)": "फ्रेंच दाक्षिणात्य प्रदेश", 
         "nn (nynorsk)": "Franske sørområde", 
@@ -1508,7 +1576,9 @@
         "uz_Latn (o‘zbek)": "Fransuz Janubiy hududlari", 
         "es (español)": "Territorios Australes Franceses", 
         "eu (euskara)": "Hegoaldeko lurralde frantsesak", 
-        "currency_code": "[\"EUR\"]", 
+        "currency_code": [
+            "EUR"
+        ], 
         "dz (རྫོང་ཁ)": "ཕྲནཅ་གི་ལྷོ་ཕྱོགས་མངའ་ཁོངས", 
         "mt (Malti)": "Territorji Franċiżi ta’ Nofsinhar", 
         "uk (українська)": "Французькі Південні Території", 
@@ -1569,7 +1639,9 @@
         "am (አማርኛ)": "አንቲጓ እና ባሩዳ", 
         "it (italiano)": "Antigua e Barbuda", 
         "ky (кыргызча)": "Антигуа жана Барбуда", 
-        "timezones": "[\"America/Antigua\"]", 
+        "timezones": [
+            "America/Antigua"
+        ], 
         "uz_Cyrl (Ўзбек)": "Антигуа ва Барбадос", 
         "mr (मराठी)": "अँटिग्वा आणि बर्बुडा", 
         "ak (Akan)": "Antigua ne Baabuda", 
@@ -1623,7 +1695,9 @@
         "uz_Latn (o‘zbek)": "Antigua va Barbados", 
         "es (español)": "Antigua y Barbuda", 
         "eu (euskara)": "Antigua eta Barbuda", 
-        "currency_code": "[\"XCD\"]", 
+        "currency_code": [
+            "XCD"
+        ], 
         "dz (རྫོང་ཁ)": "ཨན་ཊི་གུ་ཝ་ ཨེནཌ་ བྷར་བྷུ་ཌ", 
         "mt (Malti)": "Antigua and Barbuda", 
         "uk (українська)": "Антигуа і Барбуда", 
@@ -1690,7 +1764,21 @@
         "it (italiano)": "Australia", 
         "cu (церковнослове́нскїй)": "А҆ѵстралі́ѧ", 
         "ky (кыргызча)": "Австралия", 
-        "timezones": "[\"Australia/Lord_Howe\", \"Antarctica/Macquarie\", \"Australia/Hobart\", \"Australia/Currie\", \"Australia/Melbourne\", \"Australia/Sydney\", \"Australia/Broken_Hill\", \"Australia/Brisbane\", \"Australia/Lindeman\", \"Australia/Adelaide\", \"Australia/Darwin\", \"Australia/Perth\", \"Australia/Eucla\"]", 
+        "timezones": [
+            "Australia/Lord_Howe", 
+            "Antarctica/Macquarie", 
+            "Australia/Hobart", 
+            "Australia/Currie", 
+            "Australia/Melbourne", 
+            "Australia/Sydney", 
+            "Australia/Broken_Hill", 
+            "Australia/Brisbane", 
+            "Australia/Lindeman", 
+            "Australia/Adelaide", 
+            "Australia/Darwin", 
+            "Australia/Perth", 
+            "Australia/Eucla"
+        ], 
         "uz_Cyrl (Ўзбек)": "Австралия", 
         "mr (मराठी)": "ऑस्ट्रेलिया", 
         "ak (Akan)": "Ɔstrelia", 
@@ -1745,7 +1833,9 @@
         "uz_Latn (o‘zbek)": "Avstraliya", 
         "es (español)": "Australia", 
         "eu (euskara)": "Australia", 
-        "currency_code": "[\"AUD\"]", 
+        "currency_code": [
+            "AUD"
+        ], 
         "dz (རྫོང་ཁ)": "ཨཱོས་ཊྲེལ་ལི་ཡ", 
         "mt (Malti)": "Awstralja", 
         "uk (українська)": "Австралія", 
@@ -1812,7 +1902,9 @@
         "am (አማርኛ)": "ኦስትሪያ", 
         "it (italiano)": "Austria", 
         "ky (кыргызча)": "Австрия", 
-        "timezones": "[\"Europe/Vienna\"]", 
+        "timezones": [
+            "Europe/Vienna"
+        ], 
         "uz_Cyrl (Ўзбек)": "Австрия", 
         "mr (मराठी)": "ऑस्ट्रिया", 
         "ak (Akan)": "Ɔstria", 
@@ -1867,7 +1959,9 @@
         "uz_Latn (o‘zbek)": "Avstriya", 
         "es (español)": "Austria", 
         "eu (euskara)": "Austria", 
-        "currency_code": "[\"EUR\"]", 
+        "currency_code": [
+            "EUR"
+        ], 
         "dz (རྫོང་ཁ)": "ཨཱོས་ཊྲི་ཡ", 
         "mt (Malti)": "Awstrija", 
         "uk (українська)": "Австрія", 
@@ -1935,7 +2029,9 @@
         "am (አማርኛ)": "አዘርባጃን", 
         "it (italiano)": "Azerbaigian", 
         "ky (кыргызча)": "Азербайжан", 
-        "timezones": "[\"Asia/Baku\"]", 
+        "timezones": [
+            "Asia/Baku"
+        ], 
         "uz_Cyrl (Ўзбек)": "Озарбайжон", 
         "mr (मराठी)": "अझरबैजान", 
         "ak (Akan)": "Azebaegyan", 
@@ -1990,7 +2086,9 @@
         "uz_Latn (o‘zbek)": "Ozarbayjon", 
         "es (español)": "Azerbaiyán", 
         "eu (euskara)": "Azerbaijan", 
-        "currency_code": "[\"AZN\"]", 
+        "currency_code": [
+            "AZN"
+        ], 
         "dz (རྫོང་ཁ)": "ཨ་ཛར་བྷའི་ཇཱན", 
         "mt (Malti)": "Ażerbajġan", 
         "uk (українська)": "Азербайджан", 
@@ -2056,7 +2154,9 @@
         "am (አማርኛ)": "ብሩንዲ", 
         "it (italiano)": "Burundi", 
         "ky (кыргызча)": "Бурунди", 
-        "timezones": "[\"Africa/Bujumbura\"]", 
+        "timezones": [
+            "Africa/Bujumbura"
+        ], 
         "uz_Cyrl (Ўзбек)": "Бурунди", 
         "mr (मराठी)": "बुरुंडी", 
         "ak (Akan)": "Burundi", 
@@ -2111,7 +2211,9 @@
         "uz_Latn (o‘zbek)": "Burundi", 
         "es (español)": "Burundi", 
         "eu (euskara)": "Burundi", 
-        "currency_code": "[\"BIF\"]", 
+        "currency_code": [
+            "BIF"
+        ], 
         "dz (རྫོང་ཁ)": "བྷུ་རུན་ཌི", 
         "mt (Malti)": "Burundi", 
         "uk (українська)": "Бурунді", 
@@ -2177,7 +2279,9 @@
         "am (አማርኛ)": "ቤልጄም", 
         "it (italiano)": "Belgio", 
         "ky (кыргызча)": "Бельгия", 
-        "timezones": "[\"Europe/Brussels\"]", 
+        "timezones": [
+            "Europe/Brussels"
+        ], 
         "uz_Cyrl (Ўзбек)": "Бельгия", 
         "mr (मराठी)": "बेल्जियम", 
         "ak (Akan)": "Bɛlgyium", 
@@ -2232,7 +2336,9 @@
         "uz_Latn (o‘zbek)": "Belgiya", 
         "es (español)": "Bélgica", 
         "eu (euskara)": "Belgika", 
-        "currency_code": "[\"EUR\"]", 
+        "currency_code": [
+            "EUR"
+        ], 
         "dz (རྫོང་ཁ)": "བྷེལ་ཇམ", 
         "mt (Malti)": "Belġju", 
         "uk (українська)": "Бельгія", 
@@ -2299,7 +2405,9 @@
         "am (አማርኛ)": "ቤኒን", 
         "it (italiano)": "Benin", 
         "ky (кыргызча)": "Бенин", 
-        "timezones": "[\"Africa/Porto-Novo\"]", 
+        "timezones": [
+            "Africa/Porto-Novo"
+        ], 
         "uz_Cyrl (Ўзбек)": "Бенин", 
         "mr (मराठी)": "बेनिन", 
         "ak (Akan)": "Bɛnin", 
@@ -2354,7 +2462,9 @@
         "uz_Latn (o‘zbek)": "Benin", 
         "es (español)": "Benín", 
         "eu (euskara)": "Benin", 
-        "currency_code": "[\"XOF\"]", 
+        "currency_code": [
+            "XOF"
+        ], 
         "dz (རྫོང་ཁ)": "བྷེ་ནིན", 
         "mt (Malti)": "Benin", 
         "uk (українська)": "Бенін", 
@@ -2411,7 +2521,9 @@
         "am (አማርኛ)": "የካሪቢያን ኔዘርላንድስ", 
         "it (italiano)": "Caraibi Olandesi", 
         "ky (кыргызча)": "Кариб Нидерланддары", 
-        "timezones": "[\"America/Kralendijk\"]", 
+        "timezones": [
+            "America/Kralendijk"
+        ], 
         "uz_Cyrl (Ўзбек)": "Кариб Нидерландияси", 
         "mr (मराठी)": "कॅरिबियन नेदरलँड्स", 
         "nn (nynorsk)": "Karibisk Nederland", 
@@ -2459,7 +2571,9 @@
         "uz_Latn (o‘zbek)": "Boneyr, Sint-Estatius va Saba", 
         "es (español)": "Caribe neerlandés", 
         "eu (euskara)": "Karibeko Herbehereak", 
-        "currency_code": "[\"USD\"]", 
+        "currency_code": [
+            "USD"
+        ], 
         "dz (རྫོང་ཁ)": "ཀེ་རི་བི་ཡེན་ནེ་དར་ལནཌས྄", 
         "uk (українська)": "Нідерландські Карибські острови", 
         "ks (کٲشُر)": "برطانوی قُطبہِ جَنوٗبی علاقہٕ", 
@@ -2518,7 +2632,9 @@
         "am (አማርኛ)": "ቡርኪና ፋሶ", 
         "it (italiano)": "Burkina Faso", 
         "ky (кыргызча)": "Буркина-Фасо", 
-        "timezones": "[\"Africa/Ouagadougou\"]", 
+        "timezones": [
+            "Africa/Ouagadougou"
+        ], 
         "uz_Cyrl (Ўзбек)": "Буркина-Фасо", 
         "mr (मराठी)": "बुर्किना फासो", 
         "ak (Akan)": "Bɔkina Faso", 
@@ -2572,7 +2688,9 @@
         "uz_Latn (o‘zbek)": "Burkina-Faso", 
         "es (español)": "Burkina Faso", 
         "eu (euskara)": "Burkina Faso", 
-        "currency_code": "[\"XOF\"]", 
+        "currency_code": [
+            "XOF"
+        ], 
         "dz (རྫོང་ཁ)": "བྷར་ཀི་ན་ ཕེ་སོ", 
         "mt (Malti)": "Burkina Faso", 
         "uk (українська)": "Буркіна-Фасо", 
@@ -2638,7 +2756,9 @@
         "am (አማርኛ)": "ባንግላዲሽ", 
         "it (italiano)": "Bangladesh", 
         "ky (кыргызча)": "Бангладеш", 
-        "timezones": "[\"Asia/Dhaka\"]", 
+        "timezones": [
+            "Asia/Dhaka"
+        ], 
         "uz_Cyrl (Ўзбек)": "Бангладеш", 
         "mr (मराठी)": "बांगलादेश", 
         "ak (Akan)": "Bangladɛhye", 
@@ -2693,7 +2813,9 @@
         "uz_Latn (o‘zbek)": "Bangladesh", 
         "es (español)": "Bangladés", 
         "eu (euskara)": "Bangladesh", 
-        "currency_code": "[\"BDT\"]", 
+        "currency_code": [
+            "BDT"
+        ], 
         "dz (རྫོང་ཁ)": "བངྒ་ལ་དེཤ", 
         "mt (Malti)": "Bangladexx", 
         "uk (українська)": "Бангладеш", 
@@ -2760,7 +2882,9 @@
         "am (አማርኛ)": "ቡልጌሪያ", 
         "it (italiano)": "Bulgaria", 
         "ky (кыргызча)": "Болгария", 
-        "timezones": "[\"Europe/Sofia\"]", 
+        "timezones": [
+            "Europe/Sofia"
+        ], 
         "uz_Cyrl (Ўзбек)": "Болгария", 
         "mr (मराठी)": "बल्गेरिया", 
         "ak (Akan)": "Bɔlgeria", 
@@ -2815,7 +2939,9 @@
         "uz_Latn (o‘zbek)": "Bolgariya", 
         "es (español)": "Bulgaria", 
         "eu (euskara)": "Bulgaria", 
-        "currency_code": "[\"BGN\"]", 
+        "currency_code": [
+            "BGN"
+        ], 
         "dz (རྫོང་ཁ)": "བུལ་ག་རི་ཡ", 
         "mt (Malti)": "Bulgarija", 
         "uk (українська)": "Болгарія", 
@@ -2882,7 +3008,9 @@
         "am (አማርኛ)": "ባህሬን", 
         "it (italiano)": "Bahrein", 
         "ky (кыргызча)": "Бахрейн", 
-        "timezones": "[\"Asia/Bahrain\"]", 
+        "timezones": [
+            "Asia/Bahrain"
+        ], 
         "uz_Cyrl (Ўзбек)": "Баҳрайн", 
         "mr (मराठी)": "बहारीन", 
         "ak (Akan)": "Baren", 
@@ -2937,7 +3065,9 @@
         "uz_Latn (o‘zbek)": "Bahrayn", 
         "es (español)": "Baréin", 
         "eu (euskara)": "Bahrain", 
-        "currency_code": "[\"BHD\"]", 
+        "currency_code": [
+            "BHD"
+        ], 
         "dz (རྫོང་ཁ)": "བྷ་རེན", 
         "mt (Malti)": "Baħrajn", 
         "uk (українська)": "Бахрейн", 
@@ -3003,7 +3133,9 @@
         "am (አማርኛ)": "ባሃማስ", 
         "it (italiano)": "Bahamas", 
         "ky (кыргызча)": "Багам аралдары", 
-        "timezones": "[\"America/Nassau\"]", 
+        "timezones": [
+            "America/Nassau"
+        ], 
         "uz_Cyrl (Ўзбек)": "Багама ороллари", 
         "mr (मराठी)": "बहामाज", 
         "ak (Akan)": "Bahama", 
@@ -3058,7 +3190,9 @@
         "uz_Latn (o‘zbek)": "Bagama orollari", 
         "es (español)": "Bahamas", 
         "eu (euskara)": "Bahamak", 
-        "currency_code": "[\"BSD\"]", 
+        "currency_code": [
+            "BSD"
+        ], 
         "dz (རྫོང་ཁ)": "བྷ་ཧ་མས྄", 
         "mt (Malti)": "Baħamas", 
         "uk (українська)": "Багамські Острови", 
@@ -3124,7 +3258,9 @@
         "am (አማርኛ)": "ቦስኒያ እና ሄርዞጎቪኒያ", 
         "it (italiano)": "Bosnia ed Erzegovina", 
         "ky (кыргызча)": "Босния жана Герцеговина", 
-        "timezones": "[\"Europe/Sarajevo\"]", 
+        "timezones": [
+            "Europe/Sarajevo"
+        ], 
         "uz_Cyrl (Ўзбек)": "Босния ва Герцеговина", 
         "mr (मराठी)": "बोस्निया अणि हर्जेगोविना", 
         "ak (Akan)": "Bosnia ne Hɛzegovina", 
@@ -3178,7 +3314,9 @@
         "uz_Latn (o‘zbek)": "Bosniya va Gertsegovina", 
         "es (español)": "Bosnia-Herzegovina", 
         "eu (euskara)": "Bosnia-Herzegovina", 
-        "currency_code": "[\"BAM\"]", 
+        "currency_code": [
+            "BAM"
+        ], 
         "dz (རྫོང་ཁ)": "བྷོས་ནི་ཡ་ ཨེནཌ་ ཧར་ཛི་གྷོ་བི་ན", 
         "mt (Malti)": "Bożnija Ħerżegovina", 
         "uk (українська)": "Боснія і Герцоговина", 
@@ -3237,7 +3375,9 @@
         "am (አማርኛ)": "ቅዱስ በርቴሎሜ", 
         "it (italiano)": "Saint-Barthélemy", 
         "ky (кыргызча)": "Сент Бартелеми", 
-        "timezones": "[\"America/St_Barthelemy\"]", 
+        "timezones": [
+            "America/St_Barthelemy"
+        ], 
         "uz_Cyrl (Ўзбек)": "Муқаддас Варфаломей", 
         "mr (मराठी)": "सेंट बार्थेलेमी", 
         "nn (nynorsk)": "Saint Barthélemy", 
@@ -3285,7 +3425,9 @@
         "uz_Latn (o‘zbek)": "Sen-Bartelemi", 
         "es (español)": "San Bartolomé", 
         "eu (euskara)": "Saint Barthélemy", 
-        "currency_code": "[\"EUR\"]", 
+        "currency_code": [
+            "EUR"
+        ], 
         "dz (རྫོང་ཁ)": "སེནཊ་ བར་ཐོ་ལོམ་མིའུ", 
         "uk (українська)": "Сен-Бартельмі", 
         "ks (کٲشُر)": "سینٛٹ بارتَھیلمی", 
@@ -3347,7 +3489,9 @@
         "it (italiano)": "Bielorussia", 
         "cu (церковнослове́нскїй)": "бѣ́лаѧ рꙋ́сь", 
         "ky (кыргызча)": "Беларусь", 
-        "timezones": "[\"Europe/Minsk\"]", 
+        "timezones": [
+            "Europe/Minsk"
+        ], 
         "uz_Cyrl (Ўзбек)": "Белорусия", 
         "mr (मराठी)": "बेलारूस", 
         "ak (Akan)": "Bɛlarus", 
@@ -3402,7 +3546,9 @@
         "uz_Latn (o‘zbek)": "Belarus", 
         "es (español)": "Bielorrusia", 
         "eu (euskara)": "Bielorrusia", 
-        "currency_code": "[\"BYR\"]", 
+        "currency_code": [
+            "BYR"
+        ], 
         "dz (རྫོང་ཁ)": "བེལ་ཨ་རུ་སུ", 
         "mt (Malti)": "Bjelorussja", 
         "uk (українська)": "Білорусь", 
@@ -3468,7 +3614,9 @@
         "am (አማርኛ)": "ቤሊዘ", 
         "it (italiano)": "Belize", 
         "ky (кыргызча)": "Белиз", 
-        "timezones": "[\"America/Belize\"]", 
+        "timezones": [
+            "America/Belize"
+        ], 
         "uz_Cyrl (Ўзбек)": "Белиз", 
         "mr (मराठी)": "बलिझ", 
         "ak (Akan)": "Beliz", 
@@ -3522,7 +3670,9 @@
         "uz_Latn (o‘zbek)": "Beliz", 
         "es (español)": "Belice", 
         "eu (euskara)": "Belize", 
-        "currency_code": "[\"BZD\"]", 
+        "currency_code": [
+            "BZD"
+        ], 
         "dz (རྫོང་ཁ)": "བྷེ་ལིཛ", 
         "mt (Malti)": "Beliże", 
         "uk (українська)": "Беліз", 
@@ -3589,7 +3739,9 @@
         "am (አማርኛ)": "ቤርሙዳ", 
         "it (italiano)": "Bermuda", 
         "ky (кыргызча)": "Бермуд аралдары", 
-        "timezones": "[\"Atlantic/Bermuda\"]", 
+        "timezones": [
+            "Atlantic/Bermuda"
+        ], 
         "uz_Cyrl (Ўзбек)": "Бермуда", 
         "mr (मराठी)": "बर्मुडा", 
         "ak (Akan)": "Bɛmuda", 
@@ -3643,7 +3795,9 @@
         "uz_Latn (o‘zbek)": "Bermuda orollari", 
         "es (español)": "Bermudas", 
         "eu (euskara)": "Bermuda", 
-        "currency_code": "[\"BMD\"]", 
+        "currency_code": [
+            "BMD"
+        ], 
         "dz (རྫོང་ཁ)": "བར་མུ་ཌ", 
         "mt (Malti)": "Bermuda", 
         "uk (українська)": "Бермудські острови", 
@@ -3709,7 +3863,9 @@
         "am (አማርኛ)": "ቦሊቪያ", 
         "it (italiano)": "Bolivia", 
         "ky (кыргызча)": "Боливия", 
-        "timezones": "[\"America/La_Paz\"]", 
+        "timezones": [
+            "America/La_Paz"
+        ], 
         "uz_Cyrl (Ўзбек)": "Боливия", 
         "mr (मराठी)": "बोलिव्हिया", 
         "ak (Akan)": "Bolivia", 
@@ -3764,7 +3920,9 @@
         "uz_Latn (o‘zbek)": "Boliviya", 
         "es (español)": "Bolivia", 
         "eu (euskara)": "Bolivia", 
-        "currency_code": "[\"BOB\"]", 
+        "currency_code": [
+            "BOB"
+        ], 
         "dz (རྫོང་ཁ)": "བྷེ་ལི་བི་ཡ", 
         "mt (Malti)": "Bolivja", 
         "uk (українська)": "Болівія", 
@@ -3832,7 +3990,24 @@
         "it (italiano)": "Brasile", 
         "cu (церковнослове́нскїй)": "бразі́лїа", 
         "ky (кыргызча)": "Бразилия", 
-        "timezones": "[\"America/Noronha\", \"America/Belem\", \"America/Fortaleza\", \"America/Recife\", \"America/Araguaina\", \"America/Maceio\", \"America/Bahia\", \"America/Sao_Paulo\", \"America/Campo_Grande\", \"America/Cuiaba\", \"America/Santarem\", \"America/Porto_Velho\", \"America/Boa_Vista\", \"America/Manaus\", \"America/Eirunepe\", \"America/Rio_Branco\"]", 
+        "timezones": [
+            "America/Noronha", 
+            "America/Belem", 
+            "America/Fortaleza", 
+            "America/Recife", 
+            "America/Araguaina", 
+            "America/Maceio", 
+            "America/Bahia", 
+            "America/Sao_Paulo", 
+            "America/Campo_Grande", 
+            "America/Cuiaba", 
+            "America/Santarem", 
+            "America/Porto_Velho", 
+            "America/Boa_Vista", 
+            "America/Manaus", 
+            "America/Eirunepe", 
+            "America/Rio_Branco"
+        ], 
         "uz_Cyrl (Ўзбек)": "Бразилия", 
         "mr (मराठी)": "ब्राझिल", 
         "ak (Akan)": "Brazil", 
@@ -3892,7 +4067,9 @@
         "uz_Latn (o‘zbek)": "Braziliya", 
         "es (español)": "Brasil", 
         "eu (euskara)": "Brasil", 
-        "currency_code": "[\"BRL\"]", 
+        "currency_code": [
+            "BRL"
+        ], 
         "dz (རྫོང་ཁ)": "བྲ་ཛིལ", 
         "mt (Malti)": "Il-Brażil", 
         "uk (українська)": "Бразилія", 
@@ -3958,7 +4135,9 @@
         "am (አማርኛ)": "ባርቤዶስ", 
         "it (italiano)": "Barbados", 
         "ky (кыргызча)": "Барбадос", 
-        "timezones": "[\"America/Barbados\"]", 
+        "timezones": [
+            "America/Barbados"
+        ], 
         "uz_Cyrl (Ўзбек)": "Барбадос", 
         "mr (मराठी)": "बार्बाडोस", 
         "ak (Akan)": "Baabados", 
@@ -4012,7 +4191,9 @@
         "uz_Latn (o‘zbek)": "Barbados", 
         "es (español)": "Barbados", 
         "eu (euskara)": "Barbados", 
-        "currency_code": "[\"BBD\"]", 
+        "currency_code": [
+            "BBD"
+        ], 
         "dz (རྫོང་ཁ)": "བྷར་བེ་ཌོས", 
         "mt (Malti)": "Barbados", 
         "uk (українська)": "Барбадос", 
@@ -4078,7 +4259,9 @@
         "am (አማርኛ)": "ብሩኒ", 
         "it (italiano)": "Brunei", 
         "ky (кыргызча)": "Бруней", 
-        "timezones": "[\"Asia/Brunei\"]", 
+        "timezones": [
+            "Asia/Brunei"
+        ], 
         "uz_Cyrl (Ўзбек)": "Бруней", 
         "mr (मराठी)": "ब्रुनेई", 
         "ak (Akan)": "Brunae", 
@@ -4133,7 +4316,9 @@
         "uz_Latn (o‘zbek)": "Bruney", 
         "es (español)": "Brunéi", 
         "eu (euskara)": "Brunei", 
-        "currency_code": "[\"BND\"]", 
+        "currency_code": [
+            "BND"
+        ], 
         "dz (རྫོང་ཁ)": "བྷྲུ་ནའི", 
         "mt (Malti)": "Brunej", 
         "uk (українська)": "Бруней", 
@@ -4199,7 +4384,9 @@
         "am (አማርኛ)": "ቡህታን", 
         "it (italiano)": "Bhutan", 
         "ky (кыргызча)": "Бутан", 
-        "timezones": "[\"Asia/Thimphu\"]", 
+        "timezones": [
+            "Asia/Thimphu"
+        ], 
         "uz_Cyrl (Ўзбек)": "Бутан", 
         "mr (मराठी)": "भूतान", 
         "ak (Akan)": "Butan", 
@@ -4254,7 +4441,10 @@
         "uz_Latn (o‘zbek)": "Butan", 
         "es (español)": "Bután", 
         "eu (euskara)": "Bhutan", 
-        "currency_code": "[\"BTN\", \"INR\"]", 
+        "currency_code": [
+            "BTN", 
+            "INR"
+        ], 
         "dz (རྫོང་ཁ)": "འབྲུག", 
         "mt (Malti)": "Butan", 
         "uk (українська)": "Бутан", 
@@ -4313,7 +4503,9 @@
         "am (አማርኛ)": "ቡቬት ደሴት", 
         "it (italiano)": "Isola Bouvet", 
         "ky (кыргызча)": "Буве аралдары", 
-        "timezones": "[\"Asia/Thimphu\"]", 
+        "timezones": [
+            "Asia/Thimphu"
+        ], 
         "uz_Cyrl (Ўзбек)": "Бувет ороли", 
         "mr (मराठी)": "बोउवेट बेट", 
         "nn (nynorsk)": "Bouvetøya", 
@@ -4364,7 +4556,9 @@
         "uz_Latn (o‘zbek)": "Buve oroli", 
         "es (español)": "Isla Bouvet", 
         "eu (euskara)": "Bouvet uhartea", 
-        "currency_code": "[\"NOK\"]", 
+        "currency_code": [
+            "NOK"
+        ], 
         "dz (རྫོང་ཁ)": "བོའུ་ཝེཊ་མཚོ་གླིང", 
         "mt (Malti)": "Bouvet Island", 
         "uk (українська)": "Острів Буве", 
@@ -4426,7 +4620,9 @@
         "am (አማርኛ)": "ቦትስዋና", 
         "it (italiano)": "Botswana", 
         "ky (кыргызча)": "Ботсвана", 
-        "timezones": "[\"Africa/Gaborone\"]", 
+        "timezones": [
+            "Africa/Gaborone"
+        ], 
         "uz_Cyrl (Ўзбек)": "Ботсванна", 
         "mr (मराठी)": "बोट्सवाना", 
         "ak (Akan)": "Bɔtswana", 
@@ -4481,7 +4677,9 @@
         "uz_Latn (o‘zbek)": "Botsvana", 
         "es (español)": "Botsuana", 
         "eu (euskara)": "Botswana", 
-        "currency_code": "[\"BWP\"]", 
+        "currency_code": [
+            "BWP"
+        ], 
         "dz (རྫོང་ཁ)": "བྷོཙ་ཝ་ན", 
         "mt (Malti)": "Botswana", 
         "uk (українська)": "Ботсвана", 
@@ -4546,7 +4744,9 @@
         "am (አማርኛ)": "የመካከለኛው አፍሪካ ሪፐብሊክ", 
         "it (italiano)": "Repubblica Centrafricana", 
         "ky (кыргызча)": "Борбордук Африка Республикасы", 
-        "timezones": "[\"Africa/Bangui\"]", 
+        "timezones": [
+            "Africa/Bangui"
+        ], 
         "uz_Cyrl (Ўзбек)": "Марказий Африка Республикаси", 
         "mr (मराठी)": "केंद्रीय अफ्रिकी प्रजासत्ताक", 
         "ak (Akan)": "Afrika Finimfin Man", 
@@ -4600,7 +4800,9 @@
         "uz_Latn (o‘zbek)": "Markaziy Afrika Respublikasi", 
         "es (español)": "República Centroafricana", 
         "eu (euskara)": "Afrika Erdiko Errepublika", 
-        "currency_code": "[\"XAF\"]", 
+        "currency_code": [
+            "XAF"
+        ], 
         "dz (རྫོང་ཁ)": "སེན་ཊལ་ ཨཕ་རི་ཀཱན་ རི་པབ་ལིཀ", 
         "mt (Malti)": "Repubblika Afrikana Ċentrali", 
         "uk (українська)": "Центральноафриканська Республіка", 
@@ -4666,7 +4868,36 @@
         "it (italiano)": "Canada", 
         "cu (церковнослове́нскїй)": "Кана́да", 
         "ky (кыргызча)": "Канада", 
-        "timezones": "[\"America/St_Johns\", \"America/Halifax\", \"America/Glace_Bay\", \"America/Moncton\", \"America/Goose_Bay\", \"America/Blanc-Sablon\", \"America/Toronto\", \"America/Nipigon\", \"America/Thunder_Bay\", \"America/Iqaluit\", \"America/Pangnirtung\", \"America/Atikokan\", \"America/Winnipeg\", \"America/Rainy_River\", \"America/Resolute\", \"America/Rankin_Inlet\", \"America/Regina\", \"America/Swift_Current\", \"America/Edmonton\", \"America/Cambridge_Bay\", \"America/Yellowknife\", \"America/Inuvik\", \"America/Creston\", \"America/Dawson_Creek\", \"America/Fort_Nelson\", \"America/Vancouver\", \"America/Whitehorse\", \"America/Dawson\"]", 
+        "timezones": [
+            "America/St_Johns", 
+            "America/Halifax", 
+            "America/Glace_Bay", 
+            "America/Moncton", 
+            "America/Goose_Bay", 
+            "America/Blanc-Sablon", 
+            "America/Toronto", 
+            "America/Nipigon", 
+            "America/Thunder_Bay", 
+            "America/Iqaluit", 
+            "America/Pangnirtung", 
+            "America/Atikokan", 
+            "America/Winnipeg", 
+            "America/Rainy_River", 
+            "America/Resolute", 
+            "America/Rankin_Inlet", 
+            "America/Regina", 
+            "America/Swift_Current", 
+            "America/Edmonton", 
+            "America/Cambridge_Bay", 
+            "America/Yellowknife", 
+            "America/Inuvik", 
+            "America/Creston", 
+            "America/Dawson_Creek", 
+            "America/Fort_Nelson", 
+            "America/Vancouver", 
+            "America/Whitehorse", 
+            "America/Dawson"
+        ], 
         "uz_Cyrl (Ўзбек)": "Канада", 
         "mr (मराठी)": "कॅनडा", 
         "ak (Akan)": "Kanada", 
@@ -4720,7 +4951,9 @@
         "uz_Latn (o‘zbek)": "Kanada", 
         "es (español)": "Canadá", 
         "eu (euskara)": "Kanada", 
-        "currency_code": "[\"CAD\"]", 
+        "currency_code": [
+            "CAD"
+        ], 
         "dz (རྫོང་ཁ)": "ཀེ་ན་ཌ", 
         "mt (Malti)": "Kanada", 
         "uk (українська)": "Канада", 
@@ -4780,7 +5013,9 @@
         "am (አማርኛ)": "ኮኮስ(ኬሊንግ) ደሴቶች", 
         "it (italiano)": "Isole Cocos (Keeling)", 
         "ky (кыргызча)": "Кокос (Килиӊ) аралдары", 
-        "timezones": "[\"Indian/Cocos\"]", 
+        "timezones": [
+            "Indian/Cocos"
+        ], 
         "uz_Cyrl (Ўзбек)": "Кокос (Килинг) ороллари", 
         "mr (मराठी)": "कोकोस (कीलिंग) बेटे", 
         "nn (nynorsk)": "Kokosøyane", 
@@ -4831,7 +5066,9 @@
         "uz_Latn (o‘zbek)": "Kokos (Kiling) orollari", 
         "es (español)": "Islas Cocos", 
         "eu (euskara)": "Cocos uharteak", 
-        "currency_code": "[\"AUD\"]", 
+        "currency_code": [
+            "AUD"
+        ], 
         "dz (རྫོང་ཁ)": "ཀོ་ཀོས་གླིང་ཚོམ", 
         "mt (Malti)": "Cocos (Keeling) Islands", 
         "uk (українська)": "Кокосові (Кілінгові) острови", 
@@ -4893,7 +5130,9 @@
         "am (አማርኛ)": "ስዊዘርላንድ", 
         "it (italiano)": "Svizzera", 
         "ky (кыргызча)": "Швейцария", 
-        "timezones": "[\"Europe/Zurich\"]", 
+        "timezones": [
+            "Europe/Zurich"
+        ], 
         "uz_Cyrl (Ўзбек)": "Швейцария", 
         "mr (मराठी)": "स्वित्झर्लंड", 
         "ak (Akan)": "Swetzaland", 
@@ -4948,7 +5187,9 @@
         "uz_Latn (o‘zbek)": "Shveytsariya", 
         "es (español)": "Suiza", 
         "eu (euskara)": "Suitza", 
-        "currency_code": "[\"CHF\"]", 
+        "currency_code": [
+            "CHF"
+        ], 
         "dz (རྫོང་ཁ)": "སུ་ཝིཊ་ཛར་ལེནཌ", 
         "mt (Malti)": "Svizzera", 
         "uk (українська)": "Швейцарія", 
@@ -5015,7 +5256,11 @@
         "am (አማርኛ)": "ቺሊ", 
         "it (italiano)": "Cile", 
         "ky (кыргызча)": "Чили", 
-        "timezones": "[\"America/Santiago\", \"America/Punta_Arenas\", \"Pacific/Easter\"]", 
+        "timezones": [
+            "America/Santiago", 
+            "America/Punta_Arenas", 
+            "Pacific/Easter"
+        ], 
         "uz_Cyrl (Ўзбек)": "Чили", 
         "mr (मराठी)": "चिली", 
         "ak (Akan)": "Kyili", 
@@ -5070,7 +5315,9 @@
         "uz_Latn (o‘zbek)": "Chili", 
         "es (español)": "Chile", 
         "eu (euskara)": "Txile", 
-        "currency_code": "[\"CLP\"]", 
+        "currency_code": [
+            "CLP"
+        ], 
         "dz (རྫོང་ཁ)": "ཅི་ལི", 
         "mt (Malti)": "Ċili", 
         "uk (українська)": "Чилі", 
@@ -5139,7 +5386,10 @@
         "it (italiano)": "Cina", 
         "cu (церковнослове́нскїй)": "хи́нскаѧ страна̀", 
         "ky (кыргызча)": "Кытай", 
-        "timezones": "[\"Asia/Shanghai\", \"Asia/Urumqi\"]", 
+        "timezones": [
+            "Asia/Shanghai", 
+            "Asia/Urumqi"
+        ], 
         "uz_Cyrl (Ўзбек)": "Хитой", 
         "mr (मराठी)": "चीन", 
         "ak (Akan)": "Kyaena", 
@@ -5199,7 +5449,9 @@
         "uz_Latn (o‘zbek)": "Xitoy", 
         "es (español)": "China", 
         "eu (euskara)": "Txina", 
-        "currency_code": "[\"CNY\"]", 
+        "currency_code": [
+            "CNY"
+        ], 
         "dz (རྫོང་ཁ)": "རྒྱ་ནག", 
         "mt (Malti)": "Iċ-Ċina", 
         "uk (українська)": "Китай", 
@@ -5267,7 +5519,9 @@
         "am (አማርኛ)": "ኮት ዲቯር", 
         "it (italiano)": "Costa d’Avorio", 
         "ky (кыргызча)": "Кот-д’Ивуар", 
-        "timezones": "[\"Africa/Abidjan\"]", 
+        "timezones": [
+            "Africa/Abidjan"
+        ], 
         "uz_Cyrl (Ўзбек)": "Кот-д-Ивуар", 
         "mr (मराठी)": "आयव्हरी कोस्ट", 
         "ak (Akan)": "La Côte d’Ivoire", 
@@ -5322,7 +5576,9 @@
         "uz_Latn (o‘zbek)": "Kot-d’Ivuar", 
         "es (español)": "Costa de Marfil", 
         "eu (euskara)": "Boli Kosta", 
-        "currency_code": "[\"XOF\"]", 
+        "currency_code": [
+            "XOF"
+        ], 
         "dz (རྫོང་ཁ)": "ཀོ་ཊེ་ ཌི་ཨི་ཝོ་རེ", 
         "mt (Malti)": "Kosta ta’ l-Avorju", 
         "uk (українська)": "Кот-д’Івуар", 
@@ -5387,7 +5643,9 @@
         "am (አማርኛ)": "ካሜሩን", 
         "it (italiano)": "Camerun", 
         "ky (кыргызча)": "Камерун", 
-        "timezones": "[\"Africa/Douala\"]", 
+        "timezones": [
+            "Africa/Douala"
+        ], 
         "uz_Cyrl (Ўзбек)": "Камерун", 
         "mr (मराठी)": "कॅमेरून", 
         "ak (Akan)": "Kamɛrun", 
@@ -5442,7 +5700,9 @@
         "uz_Latn (o‘zbek)": "Kamerun", 
         "es (español)": "Camerún", 
         "eu (euskara)": "Kamerun", 
-        "currency_code": "[\"XAF\"]", 
+        "currency_code": [
+            "XAF"
+        ], 
         "dz (རྫོང་ཁ)": "ཀེ་མ་རུན", 
         "mt (Malti)": "Kamerun", 
         "uk (українська)": "Камерун", 
@@ -5507,7 +5767,10 @@
         "am (አማርኛ)": "ኮንጎ-ኪንሻሳ", 
         "it (italiano)": "Congo - Kinshasa", 
         "ky (кыргызча)": "Конго-Киншаса", 
-        "timezones": "[\"Africa/Kinshasa\", \"Africa/Lubumbashi\"]", 
+        "timezones": [
+            "Africa/Kinshasa", 
+            "Africa/Lubumbashi"
+        ], 
         "uz_Cyrl (Ўзбек)": "Конго-Киншаса", 
         "mr (मराठी)": "काँगो - किंशासा", 
         "ak (Akan)": "Kongo (Zair)", 
@@ -5562,7 +5825,9 @@
         "uz_Latn (o‘zbek)": "Kongo – Kinshasa", 
         "es (español)": "República Democrática del Congo", 
         "eu (euskara)": "Kongoko Errepublika Demokratikoa", 
-        "currency_code": "[\"CDF\"]", 
+        "currency_code": [
+            "CDF"
+        ], 
         "dz (རྫོང་ཁ)": "ཀོང་གྷོ ཀིན་ཤ་ས", 
         "mt (Malti)": "Democratic Republic of the Congo", 
         "uk (українська)": "Конго – Кіншаса", 
@@ -5627,7 +5892,9 @@
         "am (አማርኛ)": "ኮንጎ ብራዛቪል", 
         "it (italiano)": "Congo-Brazzaville", 
         "ky (кыргызча)": "Конго-Браззавил", 
-        "timezones": "[\"Africa/Brazzaville\"]", 
+        "timezones": [
+            "Africa/Brazzaville"
+        ], 
         "uz_Cyrl (Ўзбек)": "Конго Браззавиль", 
         "mr (मराठी)": "काँगो - ब्राझाविले", 
         "ak (Akan)": "Kongo", 
@@ -5682,7 +5949,9 @@
         "uz_Latn (o‘zbek)": "Kongo – Brazzavil", 
         "es (español)": "República del Congo", 
         "eu (euskara)": "Kongo (Brazzaville)", 
-        "currency_code": "[\"XAF\"]", 
+        "currency_code": [
+            "XAF"
+        ], 
         "dz (རྫོང་ཁ)": "ཀོང་གྷོ བྷྲ་ཛ་བིལ", 
         "mt (Malti)": "Kongo", 
         "uk (українська)": "Конго – Браззавіль", 
@@ -5748,7 +6017,9 @@
         "am (አማርኛ)": "ኩክ ደሴቶች", 
         "it (italiano)": "Isole Cook", 
         "ky (кыргызча)": "Кук аралдары", 
-        "timezones": "[\"Pacific/Rarotonga\"]", 
+        "timezones": [
+            "Pacific/Rarotonga"
+        ], 
         "uz_Cyrl (Ўзбек)": "Кук ороллари", 
         "mr (मराठी)": "कुक बेटे", 
         "ak (Akan)": "Kook Nsupɔw", 
@@ -5802,7 +6073,9 @@
         "uz_Latn (o‘zbek)": "Kuk orollari", 
         "es (español)": "Islas Cook", 
         "eu (euskara)": "Cook uharteak", 
-        "currency_code": "[\"NZD\"]", 
+        "currency_code": [
+            "NZD"
+        ], 
         "dz (རྫོང་ཁ)": "ཀུག་གླིང་ཚོམ", 
         "mt (Malti)": "Cook Islands", 
         "uk (українська)": "Острови Кука", 
@@ -5868,7 +6141,9 @@
         "am (አማርኛ)": "ኮሎምቢያ", 
         "it (italiano)": "Colombia", 
         "ky (кыргызча)": "Колумбия", 
-        "timezones": "[\"America/Bogota\"]", 
+        "timezones": [
+            "America/Bogota"
+        ], 
         "uz_Cyrl (Ўзбек)": "Колумбия", 
         "mr (मराठी)": "कोलम्बिया", 
         "ak (Akan)": "Kolombia", 
@@ -5923,7 +6198,9 @@
         "uz_Latn (o‘zbek)": "Kolumbiya", 
         "es (español)": "Colombia", 
         "eu (euskara)": "Kolonbia", 
-        "currency_code": "[\"COP\"]", 
+        "currency_code": [
+            "COP"
+        ], 
         "dz (རྫོང་ཁ)": "ཀོ་ལོམ་བྷི་ཡ", 
         "mt (Malti)": "Kolombja", 
         "uk (українська)": "Колумбія", 
@@ -5990,7 +6267,9 @@
         "am (አማርኛ)": "ኮሞሮስ", 
         "it (italiano)": "Comore", 
         "ky (кыргызча)": "Коморос", 
-        "timezones": "[\"Indian/Comoro\"]", 
+        "timezones": [
+            "Indian/Comoro"
+        ], 
         "uz_Cyrl (Ўзбек)": "Комор ороллари", 
         "mr (मराठी)": "कोमोरोज", 
         "ak (Akan)": "Kɔmɔrɔs", 
@@ -6045,7 +6324,9 @@
         "uz_Latn (o‘zbek)": "Komor orollari", 
         "es (español)": "Comoras", 
         "eu (euskara)": "Komoreak", 
-        "currency_code": "[\"KMF\"]", 
+        "currency_code": [
+            "KMF"
+        ], 
         "dz (རྫོང་ཁ)": "ཀོ་མོ་རོས", 
         "mt (Malti)": "Komoros", 
         "uk (українська)": "Коморські острови", 
@@ -6110,7 +6391,9 @@
         "am (አማርኛ)": "ኬፕ ቬርዴ", 
         "it (italiano)": "Capo Verde", 
         "ky (кыргызча)": "Капе Верде", 
-        "timezones": "[\"Atlantic/Cape_Verde\"]", 
+        "timezones": [
+            "Atlantic/Cape_Verde"
+        ], 
         "uz_Cyrl (Ўзбек)": "Кабо-Верде", 
         "mr (मराठी)": "केप व्हर्डे", 
         "ak (Akan)": "Kepvɛdfo Islands", 
@@ -6164,7 +6447,9 @@
         "uz_Latn (o‘zbek)": "Kabo-Verde", 
         "es (español)": "Cabo Verde", 
         "eu (euskara)": "Cabo Verde", 
-        "currency_code": "[\"CVE\"]", 
+        "currency_code": [
+            "CVE"
+        ], 
         "dz (རྫོང་ཁ)": "ཀེཔ་བཱཌ", 
         "mt (Malti)": "Kape Verde", 
         "uk (українська)": "Кабо Верде", 
@@ -6230,7 +6515,9 @@
         "am (አማርኛ)": "ኮስታ ሪካ", 
         "it (italiano)": "Costa Rica", 
         "ky (кыргызча)": "Коста-Рика", 
-        "timezones": "[\"America/Costa_Rica\"]", 
+        "timezones": [
+            "America/Costa_Rica"
+        ], 
         "uz_Cyrl (Ўзбек)": "Коста-Рика", 
         "mr (मराठी)": "कोस्टा रिका", 
         "ak (Akan)": "Kɔsta Rika", 
@@ -6285,7 +6572,9 @@
         "uz_Latn (o‘zbek)": "Kosta-Rika", 
         "es (español)": "Costa Rica", 
         "eu (euskara)": "Costa Rica", 
-        "currency_code": "[\"CRC\"]", 
+        "currency_code": [
+            "CRC"
+        ], 
         "dz (རྫོང་ཁ)": "ཀོས་ཊ་རི་ཀ", 
         "mt (Malti)": "Kosta Rika", 
         "uk (українська)": "Коста-Рика", 
@@ -6351,7 +6640,9 @@
         "am (አማርኛ)": "ኩባ", 
         "it (italiano)": "Cuba", 
         "ky (кыргызча)": "Куба", 
-        "timezones": "[\"America/Havana\"]", 
+        "timezones": [
+            "America/Havana"
+        ], 
         "uz_Cyrl (Ўзбек)": "Куба", 
         "mr (मराठी)": "क्यूबा", 
         "ak (Akan)": "Kuba", 
@@ -6406,7 +6697,10 @@
         "uz_Latn (o‘zbek)": "Kuba", 
         "es (español)": "Cuba", 
         "eu (euskara)": "Kuba", 
-        "currency_code": "[\"CUP\", \"CUC\"]", 
+        "currency_code": [
+            "CUP", 
+            "CUC"
+        ], 
         "dz (རྫོང་ཁ)": "ཀིའུ་བྷ", 
         "mt (Malti)": "Kuba", 
         "uk (українська)": "Куба", 
@@ -6464,7 +6758,9 @@
         "am (አማርኛ)": "ኩራሳዎ", 
         "it (italiano)": "Curaçao", 
         "ky (кыргызча)": "Кюрасао", 
-        "timezones": "[\"America/Curacao\"]", 
+        "timezones": [
+            "America/Curacao"
+        ], 
         "uz_Cyrl (Ўзбек)": "Курасао", 
         "mr (मराठी)": "क्युरासाओ", 
         "nn (nynorsk)": "Curaçao", 
@@ -6513,7 +6809,9 @@
         "uz_Latn (o‘zbek)": "Kyurasao", 
         "es (español)": "Curazao", 
         "eu (euskara)": "Curaçao", 
-        "currency_code": "[\"ANG\"]", 
+        "currency_code": [
+            "ANG"
+        ], 
         "dz (རྫོང་ཁ)": "ཀྱཱུར་ར་ཀོ", 
         "uk (українська)": "Кюрасао", 
         "cs (čeština)": "Curaçao", 
@@ -6565,7 +6863,9 @@
         "am (አማርኛ)": "የገና ደሴት", 
         "it (italiano)": "Isola Christmas", 
         "ky (кыргызча)": "Крисмас аралы", 
-        "timezones": "[\"Indian/Christmas\"]", 
+        "timezones": [
+            "Indian/Christmas"
+        ], 
         "uz_Cyrl (Ўзбек)": "Рождество ороли", 
         "mr (मराठी)": "ख्रिसमस बेट", 
         "nn (nynorsk)": "Christmasøya", 
@@ -6616,7 +6916,9 @@
         "uz_Latn (o‘zbek)": "Rojdestvo oroli", 
         "es (español)": "Isla de Navidad", 
         "eu (euskara)": "Christmas uhartea", 
-        "currency_code": "[\"AUD\"]", 
+        "currency_code": [
+            "AUD"
+        ], 
         "dz (རྫོང་ཁ)": "ཁི་རིསྟ་མེས་མཚོ་གླིང", 
         "mt (Malti)": "Christmas Island", 
         "uk (українська)": "Острів Різдва", 
@@ -6678,7 +6980,9 @@
         "am (አማርኛ)": "ካይማን ደሴቶች", 
         "it (italiano)": "Isole Cayman", 
         "ky (кыргызча)": "Кайман Аралдары", 
-        "timezones": "[\"America/Cayman\"]", 
+        "timezones": [
+            "America/Cayman"
+        ], 
         "uz_Cyrl (Ўзбек)": "Кайман ороллари", 
         "mr (मराठी)": "केमन बेटे", 
         "ak (Akan)": "Kemanfo Islands", 
@@ -6732,7 +7036,9 @@
         "uz_Latn (o‘zbek)": "Kayman orollari", 
         "es (español)": "Islas Caimán", 
         "eu (euskara)": "Kaiman uharteak", 
-        "currency_code": "[\"KYD\"]", 
+        "currency_code": [
+            "KYD"
+        ], 
         "dz (རྫོང་ཁ)": "ཁེ་མེན་གླིང་ཚོམ", 
         "mt (Malti)": "Gżejjer Kajmani", 
         "uk (українська)": "Кайманові острови", 
@@ -6798,7 +7104,10 @@
         "am (አማርኛ)": "ሳይፕረስ", 
         "it (italiano)": "Cipro", 
         "ky (кыргызча)": "Кипр", 
-        "timezones": "[\"Asia/Nicosia\", \"Asia/Famagusta\"]", 
+        "timezones": [
+            "Asia/Nicosia", 
+            "Asia/Famagusta"
+        ], 
         "uz_Cyrl (Ўзбек)": "Кипр", 
         "mr (मराठी)": "सायप्रस", 
         "ak (Akan)": "Saeprɔs", 
@@ -6853,7 +7162,9 @@
         "uz_Latn (o‘zbek)": "Kipr", 
         "es (español)": "Chipre", 
         "eu (euskara)": "Zipre", 
-        "currency_code": "[\"EUR\"]", 
+        "currency_code": [
+            "EUR"
+        ], 
         "dz (རྫོང་ཁ)": "སཱའི་པྲས", 
         "mt (Malti)": "Ċipru", 
         "uk (українська)": "Кіпр", 
@@ -6919,7 +7230,9 @@
         "am (አማርኛ)": "ቼክ ሪፑብሊክ", 
         "it (italiano)": "Repubblica Ceca", 
         "ky (кыргызча)": "Чехия", 
-        "timezones": "[\"Europe/Prague\"]", 
+        "timezones": [
+            "Europe/Prague"
+        ], 
         "uz_Cyrl (Ўзбек)": "Чехия Республикаси", 
         "mr (मराठी)": "झेक प्रजासत्ताक", 
         "ak (Akan)": "Kyɛk Kurokɛse", 
@@ -6973,7 +7286,9 @@
         "uz_Latn (o‘zbek)": "Chexiya Respublikasi", 
         "es (español)": "República Checa", 
         "eu (euskara)": "Txekiar Errepublika", 
-        "currency_code": "[\"CZK\"]", 
+        "currency_code": [
+            "CZK"
+        ], 
         "dz (རྫོང་ཁ)": "ཅེཀ་ རི་པབ་ལིཀ", 
         "mt (Malti)": "Repubblika Ċeka", 
         "uk (українська)": "Чехія", 
@@ -7041,7 +7356,10 @@
         "it (italiano)": "Germania", 
         "cu (церковнослове́нскїй)": "герма́нїа", 
         "ky (кыргызча)": "Германия", 
-        "timezones": "[\"Europe/Berlin\", \"Europe/Busingen\"]", 
+        "timezones": [
+            "Europe/Berlin", 
+            "Europe/Busingen"
+        ], 
         "uz_Cyrl (Ўзбек)": "Олмония", 
         "mr (मराठी)": "जर्मनी", 
         "ak (Akan)": "Gyaaman", 
@@ -7101,7 +7419,9 @@
         "uz_Latn (o‘zbek)": "Germaniya", 
         "es (español)": "Alemania", 
         "eu (euskara)": "Alemania", 
-        "currency_code": "[\"EUR\"]", 
+        "currency_code": [
+            "EUR"
+        ], 
         "dz (རྫོང་ཁ)": "ཇཱར་མ་ནི", 
         "mt (Malti)": "Il-Ġermanja", 
         "uk (українська)": "Німеччина", 
@@ -7169,7 +7489,9 @@
         "am (አማርኛ)": "ጂቡቲ", 
         "it (italiano)": "Gibuti", 
         "ky (кыргызча)": "Джибути", 
-        "timezones": "[\"Africa/Djibouti\"]", 
+        "timezones": [
+            "Africa/Djibouti"
+        ], 
         "uz_Cyrl (Ўзбек)": "Джибути", 
         "mr (मराठी)": "जिबौटी", 
         "ak (Akan)": "Gyibuti", 
@@ -7224,7 +7546,9 @@
         "uz_Latn (o‘zbek)": "Jibuti", 
         "es (español)": "Yibuti", 
         "eu (euskara)": "Djibuti", 
-        "currency_code": "[\"DJF\"]", 
+        "currency_code": [
+            "DJF"
+        ], 
         "dz (རྫོང་ཁ)": "ཇི་བྷུ་ཊི", 
         "mt (Malti)": "Ġibuti", 
         "uk (українська)": "Джибуті", 
@@ -7290,7 +7614,9 @@
         "am (አማርኛ)": "ዶሚኒካ", 
         "it (italiano)": "Dominica", 
         "ky (кыргызча)": "Доминика", 
-        "timezones": "[\"America/Dominica\"]", 
+        "timezones": [
+            "America/Dominica"
+        ], 
         "uz_Cyrl (Ўзбек)": "Доминика", 
         "mr (मराठी)": "डोमिनिका", 
         "ak (Akan)": "Dɔmeneka", 
@@ -7345,7 +7671,9 @@
         "uz_Latn (o‘zbek)": "Dominika", 
         "es (español)": "Dominica", 
         "eu (euskara)": "Dominika", 
-        "currency_code": "[\"XCD\"]", 
+        "currency_code": [
+            "XCD"
+        ], 
         "dz (རྫོང་ཁ)": "ཌོ་མི་ནི་ཀ", 
         "mt (Malti)": "Dominika", 
         "uk (українська)": "Домініка", 
@@ -7412,7 +7740,9 @@
         "it (italiano)": "Danimarca", 
         "cu (церковнослове́нскїй)": "Дані́ѧ", 
         "ky (кыргызча)": "Дания", 
-        "timezones": "[\"Europe/Copenhagen\"]", 
+        "timezones": [
+            "Europe/Copenhagen"
+        ], 
         "uz_Cyrl (Ўзбек)": "Дания", 
         "mr (मराठी)": "डेन्मार्क", 
         "ak (Akan)": "Dɛnmak", 
@@ -7467,7 +7797,9 @@
         "uz_Latn (o‘zbek)": "Daniya", 
         "es (español)": "Dinamarca", 
         "eu (euskara)": "Danimarka", 
-        "currency_code": "[\"DKK\"]", 
+        "currency_code": [
+            "DKK"
+        ], 
         "dz (རྫོང་ཁ)": "ཌེན་མཱཀ", 
         "mt (Malti)": "Danimarka", 
         "uk (українська)": "Данія", 
@@ -7534,7 +7866,9 @@
         "am (አማርኛ)": "ዶሚኒክ ሪፑብሊክ", 
         "it (italiano)": "Repubblica Dominicana", 
         "ky (кыргызча)": "Доминика Республикасы", 
-        "timezones": "[\"America/Santo_Domingo\"]", 
+        "timezones": [
+            "America/Santo_Domingo"
+        ], 
         "uz_Cyrl (Ўзбек)": "Доминикан Республикаси", 
         "mr (मराठी)": "डोमिनिकन प्रजासत्ताक", 
         "ak (Akan)": "Dɔmeneka Kurokɛse", 
@@ -7588,7 +7922,9 @@
         "uz_Latn (o‘zbek)": "Dominikan Respublikasi", 
         "es (español)": "República Dominicana", 
         "eu (euskara)": "Dominikar Errepublika", 
-        "currency_code": "[\"DOP\"]", 
+        "currency_code": [
+            "DOP"
+        ], 
         "dz (རྫོང་ཁ)": "ཌོ་མི་ནི་ཀཱན་ རི་པབ་ལིཀ", 
         "mt (Malti)": "Republikka Domenikana", 
         "uk (українська)": "Домініканська Республіка", 
@@ -7653,7 +7989,9 @@
         "am (አማርኛ)": "አልጄሪያ", 
         "it (italiano)": "Algeria", 
         "ky (кыргызча)": "Алжир", 
-        "timezones": "[\"Africa/Algiers\"]", 
+        "timezones": [
+            "Africa/Algiers"
+        ], 
         "uz_Cyrl (Ўзбек)": "Жазоир", 
         "mr (मराठी)": "अल्जीरिया", 
         "ak (Akan)": "Ɔlgyeria", 
@@ -7708,7 +8046,9 @@
         "uz_Latn (o‘zbek)": "Jazoir", 
         "es (español)": "Argelia", 
         "eu (euskara)": "Aljeria", 
-        "currency_code": "[\"DZD\"]", 
+        "currency_code": [
+            "DZD"
+        ], 
         "dz (རྫོང་ཁ)": "ཨཱལ་ཇི་རི་ཡ", 
         "mt (Malti)": "Alġerija", 
         "uk (українська)": "Алжир", 
@@ -7775,7 +8115,10 @@
         "am (አማርኛ)": "ኢኳዶር", 
         "it (italiano)": "Ecuador", 
         "ky (кыргызча)": "Эквадор", 
-        "timezones": "[\"America/Guayaquil\", \"Pacific/Galapagos\"]", 
+        "timezones": [
+            "America/Guayaquil", 
+            "Pacific/Galapagos"
+        ], 
         "uz_Cyrl (Ўзбек)": "Эквадор", 
         "mr (मराठी)": "इक्वाडोर", 
         "ak (Akan)": "Ikuwadɔ", 
@@ -7830,7 +8173,9 @@
         "uz_Latn (o‘zbek)": "Ekvador", 
         "es (español)": "Ecuador", 
         "eu (euskara)": "Ekuador", 
-        "currency_code": "[\"USD\"]", 
+        "currency_code": [
+            "USD"
+        ], 
         "dz (རྫོང་ཁ)": "ཨེ་ཁྭ་ཌོར", 
         "mt (Malti)": "Ekwador", 
         "uk (українська)": "Еквадор", 
@@ -7896,7 +8241,9 @@
         "am (አማርኛ)": "ግብጽ", 
         "it (italiano)": "Egitto", 
         "ky (кыргызча)": "Египет", 
-        "timezones": "[\"Africa/Cairo\"]", 
+        "timezones": [
+            "Africa/Cairo"
+        ], 
         "uz_Cyrl (Ўзбек)": "Миср", 
         "mr (मराठी)": "इजिप्त", 
         "ak (Akan)": "Nisrim", 
@@ -7951,7 +8298,9 @@
         "uz_Latn (o‘zbek)": "Misr", 
         "es (español)": "Egipto", 
         "eu (euskara)": "Egipto", 
-        "currency_code": "[\"EGP\"]", 
+        "currency_code": [
+            "EGP"
+        ], 
         "dz (རྫོང་ཁ)": "ཨི་ཇིབཊ", 
         "mt (Malti)": "Eġittu", 
         "uk (українська)": "Єгипет", 
@@ -8018,7 +8367,9 @@
         "am (አማርኛ)": "ኤርትራ", 
         "it (italiano)": "Eritrea", 
         "ky (кыргызча)": "Эритрея", 
-        "timezones": "[\"Africa/Asmara\"]", 
+        "timezones": [
+            "Africa/Asmara"
+        ], 
         "uz_Cyrl (Ўзбек)": "Эритрея", 
         "mr (मराठी)": "एरिट्रिया", 
         "ak (Akan)": "Ɛritrea", 
@@ -8073,7 +8424,10 @@
         "uz_Latn (o‘zbek)": "Eritreya", 
         "es (español)": "Eritrea", 
         "eu (euskara)": "Eritrea", 
-        "currency_code": "[\"ETB\", \"ERN\"]", 
+        "currency_code": [
+            "ETB", 
+            "ERN"
+        ], 
         "dz (རྫོང་ཁ)": "ཨེ་རི་ཊྲེ་ཡ", 
         "mt (Malti)": "Eritrea", 
         "uk (українська)": "Еритрея", 
@@ -8132,7 +8486,9 @@
         "am (አማርኛ)": "ምዕራባዊ ሳህራ", 
         "it (italiano)": "Sahara occidentale", 
         "ky (кыргызча)": "Батыш Сахара", 
-        "timezones": "[\"Africa/El_Aaiun\"]", 
+        "timezones": [
+            "Africa/El_Aaiun"
+        ], 
         "uz_Cyrl (Ўзбек)": "Ғарбий Саҳрои Кабир", 
         "mr (मराठी)": "पश्चिम सहारा", 
         "nn (nynorsk)": "Vest-Sahara", 
@@ -8182,7 +8538,9 @@
         "uz_Latn (o‘zbek)": "G‘arbiy Sahroi Kabir", 
         "es (español)": "Sáhara Occidental", 
         "eu (euskara)": "Mendebaldeko Sahara", 
-        "currency_code": "[\"MAD\"]", 
+        "currency_code": [
+            "MAD"
+        ], 
         "dz (རྫོང་ཁ)": "ནུབ་ཕྱོགས་ ས་ཧཱ་ར", 
         "mt (Malti)": "Sahara tal-Punent", 
         "uk (українська)": "Західна Сахара", 
@@ -8244,7 +8602,11 @@
         "am (አማርኛ)": "ስፔን", 
         "it (italiano)": "Spagna", 
         "ky (кыргызча)": "Испания", 
-        "timezones": "[\"Europe/Madrid\", \"Africa/Ceuta\", \"Atlantic/Canary\"]", 
+        "timezones": [
+            "Europe/Madrid", 
+            "Africa/Ceuta", 
+            "Atlantic/Canary"
+        ], 
         "uz_Cyrl (Ўзбек)": "Испания", 
         "mr (मराठी)": "स्पेन", 
         "ak (Akan)": "Spain", 
@@ -8299,7 +8661,9 @@
         "uz_Latn (o‘zbek)": "Ispaniya", 
         "es (español)": "España", 
         "eu (euskara)": "Espainia", 
-        "currency_code": "[\"EUR\"]", 
+        "currency_code": [
+            "EUR"
+        ], 
         "dz (རྫོང་ཁ)": "ཨིས་པེན", 
         "mt (Malti)": "Spanja", 
         "uk (українська)": "Іспанія", 
@@ -8366,7 +8730,9 @@
         "am (አማርኛ)": "ኤስቶኒያ", 
         "it (italiano)": "Estonia", 
         "ky (кыргызча)": "Эстония", 
-        "timezones": "[\"Europe/Tallinn\"]", 
+        "timezones": [
+            "Europe/Tallinn"
+        ], 
         "uz_Cyrl (Ўзбек)": "Эстония", 
         "mr (मराठी)": "एस्टोनिया", 
         "ak (Akan)": "Ɛstonia", 
@@ -8421,7 +8787,9 @@
         "uz_Latn (o‘zbek)": "Estoniya", 
         "es (español)": "Estonia", 
         "eu (euskara)": "Estonia", 
-        "currency_code": "[\"EUR\"]", 
+        "currency_code": [
+            "EUR"
+        ], 
         "dz (རྫོང་ཁ)": "ཨེས་ཊོ་ནི་ཡ", 
         "mt (Malti)": "Estonja", 
         "uk (українська)": "Естонія", 
@@ -8487,7 +8855,9 @@
         "am (አማርኛ)": "ኢትዮጵያ", 
         "it (italiano)": "Etiopia", 
         "ky (кыргызча)": "Эфиопия", 
-        "timezones": "[\"Africa/Addis_Ababa\"]", 
+        "timezones": [
+            "Africa/Addis_Ababa"
+        ], 
         "uz_Cyrl (Ўзбек)": "Эфиопия", 
         "mr (मराठी)": "इथिओपिया", 
         "ak (Akan)": "Ithiopia", 
@@ -8543,7 +8913,9 @@
         "uz_Latn (o‘zbek)": "Efiopiya", 
         "es (español)": "Etiopía", 
         "eu (euskara)": "Etiopia", 
-        "currency_code": "[\"ETB\"]", 
+        "currency_code": [
+            "ETB"
+        ], 
         "dz (རྫོང་ཁ)": "ཨི་ཐི་ཡོ་པི་ཡ", 
         "mt (Malti)": "Etijopja", 
         "uk (українська)": "Ефіопія", 
@@ -8610,7 +8982,9 @@
         "am (አማርኛ)": "ፊንላንድ", 
         "it (italiano)": "Finlandia", 
         "ky (кыргызча)": "Финляндия", 
-        "timezones": "[\"Europe/Helsinki\"]", 
+        "timezones": [
+            "Europe/Helsinki"
+        ], 
         "uz_Cyrl (Ўзбек)": "Финляндия", 
         "mr (मराठी)": "फिनलंड", 
         "ak (Akan)": "Finland", 
@@ -8665,7 +9039,9 @@
         "uz_Latn (o‘zbek)": "Finlandiya", 
         "es (español)": "Finlandia", 
         "eu (euskara)": "Finlandia", 
-        "currency_code": "[\"EUR\"]", 
+        "currency_code": [
+            "EUR"
+        ], 
         "dz (རྫོང་ཁ)": "ཕིན་ལེནཌ", 
         "mt (Malti)": "Finlandja", 
         "uk (українська)": "Фінляндія", 
@@ -8732,7 +9108,9 @@
         "am (አማርኛ)": "ፊጂ", 
         "it (italiano)": "Figi", 
         "ky (кыргызча)": "Фиджи", 
-        "timezones": "[\"Pacific/Fiji\"]", 
+        "timezones": [
+            "Pacific/Fiji"
+        ], 
         "uz_Cyrl (Ўзбек)": "Фижи ороллари", 
         "mr (मराठी)": "फिजी", 
         "ak (Akan)": "Figyi", 
@@ -8787,7 +9165,9 @@
         "uz_Latn (o‘zbek)": "Fiji", 
         "es (español)": "Fiyi", 
         "eu (euskara)": "Fiji", 
-        "currency_code": "[\"FJD\"]", 
+        "currency_code": [
+            "FJD"
+        ], 
         "dz (རྫོང་ཁ)": "ཕི་ཇི", 
         "mt (Malti)": "Fiġi", 
         "uk (українська)": "Фіджі", 
@@ -8853,7 +9233,9 @@
         "am (አማርኛ)": "የፎክላንድ ደሴቶች", 
         "it (italiano)": "Isole Falkland", 
         "ky (кыргызча)": "Фолклэнд аралдары", 
-        "timezones": "[\"Atlantic/Stanley\"]", 
+        "timezones": [
+            "Atlantic/Stanley"
+        ], 
         "uz_Cyrl (Ўзбек)": "Фолькленд ороллари", 
         "mr (मराठी)": "फॉकलंड बेटे", 
         "ak (Akan)": "Fɔlkman Aeland", 
@@ -8907,7 +9289,9 @@
         "uz_Latn (o‘zbek)": "Folklend orollari", 
         "es (español)": "Islas Malvinas", 
         "eu (euskara)": "Malvinak", 
-        "currency_code": "[\"FKP\"]", 
+        "currency_code": [
+            "FKP"
+        ], 
         "dz (རྫོང་ཁ)": "ཕལྐ་ལནྜ་གླིང་ཚོམ", 
         "mt (Malti)": "Falkland Islands", 
         "uk (українська)": "Фолклендські острови", 
@@ -8975,7 +9359,9 @@
         "it (italiano)": "Francia", 
         "cu (церковнослове́нскїй)": "га́ллїа", 
         "ky (кыргызча)": "Франция", 
-        "timezones": "[\"Europe/Paris\"]", 
+        "timezones": [
+            "Europe/Paris"
+        ], 
         "uz_Cyrl (Ўзбек)": "Франция", 
         "mr (मराठी)": "फ्रान्स", 
         "ak (Akan)": "Frɛnkyeman", 
@@ -9035,7 +9421,9 @@
         "uz_Latn (o‘zbek)": "Fransiya", 
         "es (español)": "Francia", 
         "eu (euskara)": "Frantzia", 
-        "currency_code": "[\"EUR\"]", 
+        "currency_code": [
+            "EUR"
+        ], 
         "dz (རྫོང་ཁ)": "ཕྲཱནས", 
         "mt (Malti)": "Franza", 
         "uk (українська)": "Франція", 
@@ -9095,7 +9483,9 @@
         "am (አማርኛ)": "የፋሮ ደሴቶች", 
         "it (italiano)": "Isole Fær Øer", 
         "ky (кыргызча)": "Фарер аралдары", 
-        "timezones": "[\"Atlantic/Faroe\"]", 
+        "timezones": [
+            "Atlantic/Faroe"
+        ], 
         "uz_Cyrl (Ўзбек)": "Фарер ороллари", 
         "mr (मराठी)": "फेरो बेटे", 
         "nn (nynorsk)": "Færøyane", 
@@ -9145,7 +9535,9 @@
         "uz_Latn (o‘zbek)": "Farer orollari", 
         "es (español)": "Islas Feroe", 
         "eu (euskara)": "Faroe uharteak", 
-        "currency_code": "[\"DKK\"]", 
+        "currency_code": [
+            "DKK"
+        ], 
         "dz (རྫོང་ཁ)": "ཕཱའེ་རོ་གླིང་ཚོམ", 
         "mt (Malti)": "Gżejjer Faroe", 
         "uk (українська)": "Фарерські острови", 
@@ -9205,7 +9597,11 @@
         "am (አማርኛ)": "ሚክሮኔዢያ", 
         "it (italiano)": "Micronesia", 
         "ky (кыргызча)": "Микронезия", 
-        "timezones": "[\"Pacific/Chuuk\", \"Pacific/Pohnpei\", \"Pacific/Kosrae\"]", 
+        "timezones": [
+            "Pacific/Chuuk", 
+            "Pacific/Pohnpei", 
+            "Pacific/Kosrae"
+        ], 
         "uz_Cyrl (Ўзбек)": "Микронезия", 
         "mr (मराठी)": "मायक्रोनेशिया", 
         "ak (Akan)": "Maekronehyia", 
@@ -9260,7 +9656,9 @@
         "uz_Latn (o‘zbek)": "Mikroneziya", 
         "es (español)": "Micronesia", 
         "eu (euskara)": "Mikronesia", 
-        "currency_code": "[\"USD\"]", 
+        "currency_code": [
+            "USD"
+        ], 
         "dz (རྫོང་ཁ)": "མའི་ཀྲོ་ནི་ཤི་ཡ", 
         "mt (Malti)": "Mikronesja", 
         "uk (українська)": "Мікронезія", 
@@ -9325,7 +9723,9 @@
         "am (አማርኛ)": "ጋቦን", 
         "it (italiano)": "Gabon", 
         "ky (кыргызча)": "Габон", 
-        "timezones": "[\"Africa/Libreville\"]", 
+        "timezones": [
+            "Africa/Libreville"
+        ], 
         "uz_Cyrl (Ўзбек)": "Габон", 
         "mr (मराठी)": "गॅबॉन", 
         "ak (Akan)": "Gabɔn", 
@@ -9380,7 +9780,9 @@
         "uz_Latn (o‘zbek)": "Gabon", 
         "es (español)": "Gabón", 
         "eu (euskara)": "Gabon", 
-        "currency_code": "[\"XAF\"]", 
+        "currency_code": [
+            "XAF"
+        ], 
         "dz (རྫོང་ཁ)": "གྷ་བྷོན", 
         "mt (Malti)": "Gabon", 
         "uk (українська)": "Габон", 
@@ -9447,7 +9849,9 @@
         "it (italiano)": "Regno Unito", 
         "cu (церковнослове́нскїй)": "Вели́каѧ брїта́нїа", 
         "ky (кыргызча)": "Улуу Британия", 
-        "timezones": "[\"Europe/London\"]", 
+        "timezones": [
+            "Europe/London"
+        ], 
         "uz_Cyrl (Ўзбек)": "Бирлашган Қироллик", 
         "mr (मराठी)": "युनायटेड किंगडम", 
         "ak (Akan)": "Ahendiman Nkabom", 
@@ -9508,7 +9912,9 @@
         "uz_Latn (o‘zbek)": "Birlashgan Qirollik", 
         "es (español)": "Reino Unido", 
         "eu (euskara)": "Erresuma Batua", 
-        "currency_code": "[\"GBP\"]", 
+        "currency_code": [
+            "GBP"
+        ], 
         "dz (རྫོང་ཁ)": "ཡུ་ནཱའི་ཊེཌ་ ཀིང་ཌམ", 
         "mt (Malti)": "L-Ingilterra", 
         "uk (українська)": "Велика Британія", 
@@ -9576,7 +9982,9 @@
         "am (አማርኛ)": "ጆርጂያ", 
         "it (italiano)": "Georgia", 
         "ky (кыргызча)": "Грузия", 
-        "timezones": "[\"Asia/Tbilisi\"]", 
+        "timezones": [
+            "Asia/Tbilisi"
+        ], 
         "uz_Cyrl (Ўзбек)": "Грузия", 
         "mr (मराठी)": "जॉर्जिया", 
         "ak (Akan)": "Gyɔgyea", 
@@ -9631,7 +10039,9 @@
         "uz_Latn (o‘zbek)": "Gruziya", 
         "es (español)": "Georgia", 
         "eu (euskara)": "Georgia", 
-        "currency_code": "[\"GEL\"]", 
+        "currency_code": [
+            "GEL"
+        ], 
         "dz (རྫོང་ཁ)": "ཇཽར་ཇཱ", 
         "mt (Malti)": "Ġeorġja", 
         "uk (українська)": "Грузія", 
@@ -9690,7 +10100,9 @@
         "am (አማርኛ)": "ጉርነሲ", 
         "it (italiano)": "Guernsey", 
         "ky (кыргызча)": "Гернси", 
-        "timezones": "[\"Europe/Guernsey\"]", 
+        "timezones": [
+            "Europe/Guernsey"
+        ], 
         "uz_Cyrl (Ўзбек)": "Гернси", 
         "mr (मराठी)": "ग्वेर्नसे", 
         "nn (nynorsk)": "Guernsey", 
@@ -9740,7 +10152,9 @@
         "uz_Latn (o‘zbek)": "Gernsi", 
         "es (español)": "Guernesey", 
         "eu (euskara)": "Guernesey", 
-        "currency_code": "[\"GBP\"]", 
+        "currency_code": [
+            "GBP"
+        ], 
         "dz (རྫོང་ཁ)": "གུ་ཨེརྣ་སི", 
         "uk (українська)": "Гернсі", 
         "ks (کٲشُر)": "گیوَنَرسے", 
@@ -9801,7 +10215,9 @@
         "am (አማርኛ)": "ጋና", 
         "it (italiano)": "Ghana", 
         "ky (кыргызча)": "Гана", 
-        "timezones": "[\"Africa/Accra\"]", 
+        "timezones": [
+            "Africa/Accra"
+        ], 
         "uz_Cyrl (Ўзбек)": "Гана", 
         "mr (मराठी)": "घाना", 
         "ak (Akan)": "Gaana", 
@@ -9856,7 +10272,9 @@
         "uz_Latn (o‘zbek)": "Gana", 
         "es (español)": "Ghana", 
         "eu (euskara)": "Ghana", 
-        "currency_code": "[\"GHS\"]", 
+        "currency_code": [
+            "GHS"
+        ], 
         "dz (རྫོང་ཁ)": "གྷ་ན", 
         "mt (Malti)": "Gana", 
         "uk (українська)": "Гана", 
@@ -9923,7 +10341,9 @@
         "am (አማርኛ)": "ጂብራልተር", 
         "it (italiano)": "Gibilterra", 
         "ky (кыргызча)": "Гибралтар", 
-        "timezones": "[\"Europe/Gibraltar\"]", 
+        "timezones": [
+            "Europe/Gibraltar"
+        ], 
         "uz_Cyrl (Ўзбек)": "Гибралтар", 
         "mr (मराठी)": "जिब्राल्टर", 
         "ak (Akan)": "Gyebralta", 
@@ -9977,7 +10397,9 @@
         "uz_Latn (o‘zbek)": "Gibraltar", 
         "es (español)": "Gibraltar", 
         "eu (euskara)": "Gibraltar", 
-        "currency_code": "[\"GIP\"]", 
+        "currency_code": [
+            "GIP"
+        ], 
         "dz (རྫོང་ཁ)": "ཇིབ་རཱལ་ཊར", 
         "mt (Malti)": "Gibraltar", 
         "uk (українська)": "Гібралтар", 
@@ -10043,7 +10465,9 @@
         "am (አማርኛ)": "ጊኒ", 
         "it (italiano)": "Guinea", 
         "ky (кыргызча)": "Гвинея", 
-        "timezones": "[\"Africa/Conakry\"]", 
+        "timezones": [
+            "Africa/Conakry"
+        ], 
         "uz_Cyrl (Ўзбек)": "Гвинея", 
         "mr (मराठी)": "गिनी", 
         "ak (Akan)": "Gini", 
@@ -10098,7 +10522,9 @@
         "uz_Latn (o‘zbek)": "Gvineya", 
         "es (español)": "Guinea", 
         "eu (euskara)": "Ginea", 
-        "currency_code": "[\"GNF\"]", 
+        "currency_code": [
+            "GNF"
+        ], 
         "dz (རྫོང་ཁ)": "གྷི་ནི", 
         "mt (Malti)": "Ginea", 
         "uk (українська)": "Гвінея", 
@@ -10164,7 +10590,9 @@
         "am (አማርኛ)": "ጉዋደሉፕ", 
         "it (italiano)": "Guadalupa", 
         "ky (кыргызча)": "Гваделупа", 
-        "timezones": "[\"America/Guadeloupe\"]", 
+        "timezones": [
+            "America/Guadeloupe"
+        ], 
         "uz_Cyrl (Ўзбек)": "Гваделупе", 
         "mr (मराठी)": "ग्वाडेलोउपे", 
         "ak (Akan)": "Guwadelup", 
@@ -10218,7 +10646,9 @@
         "uz_Latn (o‘zbek)": "Gvadelupe", 
         "es (español)": "Guadalupe", 
         "eu (euskara)": "Guadalupe", 
-        "currency_code": "[\"EUR\"]", 
+        "currency_code": [
+            "EUR"
+        ], 
         "dz (རྫོང་ཁ)": "གོ་ཌེ་ལུ་པེ", 
         "mt (Malti)": "Gwadelupe", 
         "uk (українська)": "Гваделупа", 
@@ -10284,7 +10714,9 @@
         "am (አማርኛ)": "ጋምቢያ", 
         "it (italiano)": "Gambia", 
         "ky (кыргызча)": "Гамбия", 
-        "timezones": "[\"Africa/Banjul\"]", 
+        "timezones": [
+            "Africa/Banjul"
+        ], 
         "uz_Cyrl (Ўзбек)": "Гамбия", 
         "mr (मराठी)": "गाम्बिया", 
         "ak (Akan)": "Gambia", 
@@ -10339,7 +10771,9 @@
         "uz_Latn (o‘zbek)": "Gambiya", 
         "es (español)": "Gambia", 
         "eu (euskara)": "Gambia", 
-        "currency_code": "[\"GMD\"]", 
+        "currency_code": [
+            "GMD"
+        ], 
         "dz (རྫོང་ཁ)": "གྷེམ་བི་ཡ", 
         "mt (Malti)": "Gambja", 
         "uk (українська)": "Гамбія", 
@@ -10405,7 +10839,9 @@
         "am (አማርኛ)": "ጊኒ ቢሳኦ", 
         "it (italiano)": "Guinea-Bissau", 
         "ky (кыргызча)": "Гвинея-Бисау", 
-        "timezones": "[\"Africa/Bissau\"]", 
+        "timezones": [
+            "Africa/Bissau"
+        ], 
         "uz_Cyrl (Ўзбек)": "Гвинея-Бисау", 
         "mr (मराठी)": "गिनी-बिसाउ", 
         "ak (Akan)": "Gini Bisaw", 
@@ -10460,7 +10896,9 @@
         "uz_Latn (o‘zbek)": "Gvineya-Bisau", 
         "es (español)": "Guinea-Bisáu", 
         "eu (euskara)": "Ginea-Bissau", 
-        "currency_code": "[\"XOF\"]", 
+        "currency_code": [
+            "XOF"
+        ], 
         "dz (རྫོང་ཁ)": "གྷི་ནི་ བྷི་སཱའུ", 
         "mt (Malti)": "Ginea-Bissaw", 
         "uk (українська)": "Гвінея-Бісау", 
@@ -10525,7 +10963,9 @@
         "am (አማርኛ)": "ኢኳቶሪያል ጊኒ", 
         "it (italiano)": "Guinea Equatoriale", 
         "ky (кыргызча)": "Экваториалдык Гвинея", 
-        "timezones": "[\"Africa/Malabo\"]", 
+        "timezones": [
+            "Africa/Malabo"
+        ], 
         "uz_Cyrl (Ўзбек)": "Экваториал Гвинея", 
         "mr (मराठी)": "इक्वेटोरियल गिनी", 
         "ak (Akan)": "Gini Ikuweta", 
@@ -10580,7 +11020,9 @@
         "uz_Latn (o‘zbek)": "Ekvatorial Gvineya", 
         "es (español)": "Guinea Ecuatorial", 
         "eu (euskara)": "Ekuatore Ginea", 
-        "currency_code": "[\"XAF\"]", 
+        "currency_code": [
+            "XAF"
+        ], 
         "dz (རྫོང་ཁ)": "ཨེ་ཀུ་ཊོ་རེལ་ གི་ནི", 
         "mt (Malti)": "Ginea Ekwatorjali", 
         "uk (українська)": "Екваторіальна Гвінея", 
@@ -10645,7 +11087,9 @@
         "am (አማርኛ)": "ግሪክ", 
         "it (italiano)": "Grecia", 
         "ky (кыргызча)": "Греция", 
-        "timezones": "[\"Europe/Athens\"]", 
+        "timezones": [
+            "Europe/Athens"
+        ], 
         "uz_Cyrl (Ўзбек)": "Греция", 
         "mr (मराठी)": "ग्रीस", 
         "ak (Akan)": "Greekman", 
@@ -10700,7 +11144,9 @@
         "uz_Latn (o‘zbek)": "Gretsiya", 
         "es (español)": "Grecia", 
         "eu (euskara)": "Grezia", 
-        "currency_code": "[\"EUR\"]", 
+        "currency_code": [
+            "EUR"
+        ], 
         "dz (རྫོང་ཁ)": "གིརིས྄", 
         "mt (Malti)": "Greċja", 
         "uk (українська)": "Греція", 
@@ -10767,7 +11213,9 @@
         "am (አማርኛ)": "ግሬናዳ", 
         "it (italiano)": "Grenada", 
         "ky (кыргызча)": "Гренада", 
-        "timezones": "[\"America/Grenada\"]", 
+        "timezones": [
+            "America/Grenada"
+        ], 
         "uz_Cyrl (Ўзбек)": "Гренада", 
         "mr (मराठी)": "ग्रेनेडा", 
         "ak (Akan)": "Grenada", 
@@ -10821,7 +11269,9 @@
         "uz_Latn (o‘zbek)": "Grenada", 
         "es (español)": "Granada", 
         "eu (euskara)": "Grenada", 
-        "currency_code": "[\"XCD\"]", 
+        "currency_code": [
+            "XCD"
+        ], 
         "dz (རྫོང་ཁ)": "གྲྀ་ན་ཌ", 
         "mt (Malti)": "Grenada", 
         "uk (українська)": "Гренада", 
@@ -10886,7 +11336,12 @@
         "am (አማርኛ)": "ግሪንላንድ", 
         "it (italiano)": "Groenlandia", 
         "ky (кыргызча)": "Гренландия", 
-        "timezones": "[\"America/Godthab\", \"America/Danmarkshavn\", \"America/Scoresbysund\", \"America/Thule\"]", 
+        "timezones": [
+            "America/Godthab", 
+            "America/Danmarkshavn", 
+            "America/Scoresbysund", 
+            "America/Thule"
+        ], 
         "uz_Cyrl (Ўзбек)": "Гренландия", 
         "mr (मराठी)": "ग्रीनलंड", 
         "ak (Akan)": "Greenman", 
@@ -10940,7 +11395,9 @@
         "uz_Latn (o‘zbek)": "Grenlandiya", 
         "es (español)": "Groenlandia", 
         "eu (euskara)": "Groenlandia", 
-        "currency_code": "[\"DKK\"]", 
+        "currency_code": [
+            "DKK"
+        ], 
         "dz (རྫོང་ཁ)": "གིརཱིན་ལནཌ྄", 
         "mt (Malti)": "Grinlandja", 
         "uk (українська)": "Гренландія", 
@@ -11006,7 +11463,9 @@
         "am (አማርኛ)": "ጉዋቲማላ", 
         "it (italiano)": "Guatemala", 
         "ky (кыргызча)": "Гватемала", 
-        "timezones": "[\"America/Guatemala\"]", 
+        "timezones": [
+            "America/Guatemala"
+        ], 
         "uz_Cyrl (Ўзбек)": "Гватемала", 
         "mr (मराठी)": "ग्वाटेमाला", 
         "ak (Akan)": "Guwatemala", 
@@ -11061,7 +11520,9 @@
         "uz_Latn (o‘zbek)": "Gvatemala", 
         "es (español)": "Guatemala", 
         "eu (euskara)": "Guatemala", 
-        "currency_code": "[\"GTQ\"]", 
+        "currency_code": [
+            "GTQ"
+        ], 
         "dz (རྫོང་ཁ)": "གྷོ་ཊ་མ་ལ", 
         "mt (Malti)": "Gwatemala", 
         "uk (українська)": "Гватемала", 
@@ -11127,7 +11588,9 @@
         "am (አማርኛ)": "የፈረንሳይ ጉዊአና", 
         "it (italiano)": "Guyana francese", 
         "ky (кыргызча)": "Гвиана (Франция)", 
-        "timezones": "[\"America/Cayenne\"]", 
+        "timezones": [
+            "America/Cayenne"
+        ], 
         "uz_Cyrl (Ўзбек)": "Француз Гвианаси", 
         "mr (मराठी)": "फ्रेंच गयाना", 
         "ak (Akan)": "Frɛnkye Gayana", 
@@ -11181,7 +11644,9 @@
         "uz_Latn (o‘zbek)": "Fransuz Gvianasi", 
         "es (español)": "Guayana Francesa", 
         "eu (euskara)": "Guyana Frantsesa", 
-        "currency_code": "[\"EUR\"]", 
+        "currency_code": [
+            "EUR"
+        ], 
         "dz (རྫོང་ཁ)": "གུའི་ཡ་ན་ ཕྲནས྄་མངའ་ཁོངས", 
         "mt (Malti)": "Gujana Franċiża", 
         "uk (українська)": "Французька Гвіана", 
@@ -11245,7 +11710,9 @@
         "am (አማርኛ)": "ጉዋም", 
         "it (italiano)": "Guam", 
         "ky (кыргызча)": "Гуам", 
-        "timezones": "[\"Pacific/Guam\"]", 
+        "timezones": [
+            "Pacific/Guam"
+        ], 
         "uz_Cyrl (Ўзбек)": "Гуам", 
         "mr (मराठी)": "गुआम", 
         "ak (Akan)": "Guam", 
@@ -11300,7 +11767,9 @@
         "uz_Latn (o‘zbek)": "Guam", 
         "es (español)": "Guam", 
         "eu (euskara)": "Guam", 
-        "currency_code": "[\"USD\"]", 
+        "currency_code": [
+            "USD"
+        ], 
         "dz (རྫོང་ཁ)": "གུ་འམ་ མཚོ་གླིང", 
         "mt (Malti)": "Gwam", 
         "uk (українська)": "Гуам", 
@@ -11366,7 +11835,9 @@
         "am (አማርኛ)": "ጉያና", 
         "it (italiano)": "Guyana", 
         "ky (кыргызча)": "Гайана", 
-        "timezones": "[\"America/Guyana\"]", 
+        "timezones": [
+            "America/Guyana"
+        ], 
         "uz_Cyrl (Ўзбек)": "Гаяна", 
         "mr (मराठी)": "गयाना", 
         "ak (Akan)": "Gayana", 
@@ -11421,7 +11892,9 @@
         "uz_Latn (o‘zbek)": "Gayana", 
         "es (español)": "Guyana", 
         "eu (euskara)": "Guyana", 
-        "currency_code": "[\"GYD\"]", 
+        "currency_code": [
+            "GYD"
+        ], 
         "dz (རྫོང་ཁ)": "གྷ་ཡ་ན", 
         "mt (Malti)": "Gujana", 
         "uk (українська)": "Гаяна", 
@@ -11481,7 +11954,9 @@
         "am (አማርኛ)": "ሆንግ ኮንግ SAR ቻይና", 
         "it (italiano)": "RAS di Hong Kong", 
         "ky (кыргызча)": "Гонконг Кытай ААА", 
-        "timezones": "[\"Asia/Hong_Kong\"]", 
+        "timezones": [
+            "Asia/Hong_Kong"
+        ], 
         "uz_Cyrl (Ўзбек)": "Гонконг Хитой ММҲ", 
         "mr (मराठी)": "हाँगकाँग एसएआर चीन", 
         "nn (nynorsk)": "Hongkong S.A.R. Kina", 
@@ -11532,7 +12007,9 @@
         "uz_Latn (o‘zbek)": "Gonkong (Xitoy MMH)", 
         "es (español)": "RAE de Hong Kong (China)", 
         "eu (euskara)": "Hong Kong AEB Txina", 
-        "currency_code": "[\"HKD\"]", 
+        "currency_code": [
+            "HKD"
+        ], 
         "dz (རྫོང་ཁ)": "ཧོང་ཀོང་ཅཱའི་ན", 
         "mt (Malti)": "Ħong Kong S.A.R. Ċina", 
         "uk (українська)": "Гонконг, О.А.Р. Китаю", 
@@ -11587,7 +12064,9 @@
         "am (አማርኛ)": "ኽርድ ደሴቶችና ማክዶናልድ ደሴቶች", 
         "it (italiano)": "Isole Heard e McDonald", 
         "ky (кыргызча)": "Херд жана Макдоналд аралдары", 
-        "timezones": "[\"Asia/Hong_Kong\"]", 
+        "timezones": [
+            "Asia/Hong_Kong"
+        ], 
         "uz_Cyrl (Ўзбек)": "Герд ороли ва МакДоналд ороллари", 
         "mr (मराठी)": "हर्ड आणि मॅक्डोनाल्ड बेटे", 
         "nn (nynorsk)": "Heard- og McDonaldsøyane", 
@@ -11639,7 +12118,9 @@
         "uz_Latn (o‘zbek)": "Xerd va Makdonald orollari", 
         "es (español)": "Islas Heard y McDonald", 
         "eu (euskara)": "Heard eta McDonald uharteak", 
-        "currency_code": "[\"AUD\"]", 
+        "currency_code": [
+            "AUD"
+        ], 
         "dz (རྫོང་ཁ)": "ཧཱརཌ་མཚོ་གླིང་ དང་ མེཀ་ཌོ་ནལཌ྄་གླིང་ཚོམ", 
         "mt (Malti)": "Heard Island and McDonald Islands", 
         "uk (українська)": "Острови Херд і Мак-Дональд", 
@@ -11700,7 +12181,9 @@
         "am (አማርኛ)": "ሆንዱራስ", 
         "it (italiano)": "Honduras", 
         "ky (кыргызча)": "Гондурас", 
-        "timezones": "[\"America/Tegucigalpa\"]", 
+        "timezones": [
+            "America/Tegucigalpa"
+        ], 
         "uz_Cyrl (Ўзбек)": "Гондурас", 
         "mr (मराठी)": "होंडुरास", 
         "ak (Akan)": "Hɔnduras", 
@@ -11755,7 +12238,9 @@
         "uz_Latn (o‘zbek)": "Gonduras", 
         "es (español)": "Honduras", 
         "eu (euskara)": "Honduras", 
-        "currency_code": "[\"HNL\"]", 
+        "currency_code": [
+            "HNL"
+        ], 
         "dz (རྫོང་ཁ)": "ཧཱན་ཌུ་རཱས྄", 
         "mt (Malti)": "Ħonduras", 
         "uk (українська)": "Гондурас", 
@@ -11822,7 +12307,9 @@
         "am (አማርኛ)": "ክሮኤሽያ", 
         "it (italiano)": "Croazia", 
         "ky (кыргызча)": "Хорватия", 
-        "timezones": "[\"Europe/Zagreb\"]", 
+        "timezones": [
+            "Europe/Zagreb"
+        ], 
         "uz_Cyrl (Ўзбек)": "Хорватия", 
         "mr (मराठी)": "क्रोएशिया", 
         "ak (Akan)": "Krowehyia", 
@@ -11877,7 +12364,9 @@
         "uz_Latn (o‘zbek)": "Xorvatiya", 
         "es (español)": "Croacia", 
         "eu (euskara)": "Kroazia", 
-        "currency_code": "[\"HRK\"]", 
+        "currency_code": [
+            "HRK"
+        ], 
         "dz (རྫོང་ཁ)": "ཀྲོ་ཨེ་ཤ", 
         "mt (Malti)": "Kroazja", 
         "uk (українська)": "Хорватія", 
@@ -11944,7 +12433,9 @@
         "am (አማርኛ)": "ሀይቲ", 
         "it (italiano)": "Haiti", 
         "ky (кыргызча)": "Гаити", 
-        "timezones": "[\"America/Port-au-Prince\"]", 
+        "timezones": [
+            "America/Port-au-Prince"
+        ], 
         "uz_Cyrl (Ўзбек)": "Гаити", 
         "mr (मराठी)": "हैती", 
         "ak (Akan)": "Heiti", 
@@ -11999,7 +12490,10 @@
         "uz_Latn (o‘zbek)": "Gaiti", 
         "es (español)": "Haití", 
         "eu (euskara)": "Haiti", 
-        "currency_code": "[\"HTG\", \"USD\"]", 
+        "currency_code": [
+            "HTG", 
+            "USD"
+        ], 
         "dz (རྫོང་ཁ)": "ཧེ་ཊི", 
         "mt (Malti)": "Ħaiti", 
         "uk (українська)": "Гаїті", 
@@ -12065,7 +12559,9 @@
         "am (አማርኛ)": "ሀንጋሪ", 
         "it (italiano)": "Ungheria", 
         "ky (кыргызча)": "Венгрия", 
-        "timezones": "[\"Europe/Budapest\"]", 
+        "timezones": [
+            "Europe/Budapest"
+        ], 
         "uz_Cyrl (Ўзбек)": "Венгрия", 
         "mr (मराठी)": "हंगेरी", 
         "ak (Akan)": "Hangari", 
@@ -12119,7 +12615,9 @@
         "uz_Latn (o‘zbek)": "Vengriya", 
         "es (español)": "Hungría", 
         "eu (euskara)": "Hungaria", 
-        "currency_code": "[\"HUF\"]", 
+        "currency_code": [
+            "HUF"
+        ], 
         "dz (རྫོང་ཁ)": "ཧཱང་གྷ་རི", 
         "mt (Malti)": "Ungerija", 
         "uk (українська)": "Угорщина", 
@@ -12186,7 +12684,12 @@
         "am (አማርኛ)": "ኢንዶኔዢያ", 
         "it (italiano)": "Indonesia", 
         "ky (кыргызча)": "Индонезия", 
-        "timezones": "[\"Asia/Jakarta\", \"Asia/Pontianak\", \"Asia/Makassar\", \"Asia/Jayapura\"]", 
+        "timezones": [
+            "Asia/Jakarta", 
+            "Asia/Pontianak", 
+            "Asia/Makassar", 
+            "Asia/Jayapura"
+        ], 
         "uz_Cyrl (Ўзбек)": "Индонезия", 
         "mr (मराठी)": "इंडोनेशिया", 
         "ak (Akan)": "Indɔnehyia", 
@@ -12241,7 +12744,9 @@
         "uz_Latn (o‘zbek)": "Indoneziya", 
         "es (español)": "Indonesia", 
         "eu (euskara)": "Indonesia", 
-        "currency_code": "[\"IDR\"]", 
+        "currency_code": [
+            "IDR"
+        ], 
         "dz (རྫོང་ཁ)": "ཨིན་ཌོ་ནེ་ཤི་ཡ", 
         "mt (Malti)": "Indoneżja", 
         "uk (українська)": "Індонезія", 
@@ -12301,7 +12806,9 @@
         "am (አማርኛ)": "አይል ኦፍ ማን", 
         "it (italiano)": "Isola di Man", 
         "ky (кыргызча)": "Мэн аралы", 
-        "timezones": "[\"Europe/Isle_of_Man\"]", 
+        "timezones": [
+            "Europe/Isle_of_Man"
+        ], 
         "uz_Cyrl (Ўзбек)": "Мэн ороли", 
         "mr (मराठी)": "इस्ले ऑफ मॅन", 
         "nn (nynorsk)": "Man", 
@@ -12351,7 +12858,9 @@
         "uz_Latn (o‘zbek)": "Men oroli", 
         "es (español)": "Isla de Man", 
         "eu (euskara)": "Man uhartea", 
-        "currency_code": "[\"GBP\"]", 
+        "currency_code": [
+            "GBP"
+        ], 
         "dz (རྫོང་ཁ)": "ཨ་ཡུལ་ ཨོཕ་ མཱན", 
         "mt (Malti)": "Isle of Man", 
         "uk (українська)": "Острів Мен", 
@@ -12415,7 +12924,9 @@
         "it (italiano)": "India", 
         "cu (церковнослове́нскїй)": "і҆́ндїа", 
         "ky (кыргызча)": "Индия", 
-        "timezones": "[\"Asia/Kolkata\"]", 
+        "timezones": [
+            "Asia/Kolkata"
+        ], 
         "uz_Cyrl (Ўзбек)": "Ҳиндистон", 
         "mr (मराठी)": "भारत", 
         "ak (Akan)": "India", 
@@ -12475,7 +12986,9 @@
         "uz_Latn (o‘zbek)": "Hindiston", 
         "es (español)": "India", 
         "eu (euskara)": "India", 
-        "currency_code": "[\"INR\"]", 
+        "currency_code": [
+            "INR"
+        ], 
         "dz (རྫོང་ཁ)": "རྒྱ་གར", 
         "mt (Malti)": "L-Indja", 
         "uk (українська)": "Індія", 
@@ -12542,7 +13055,9 @@
         "am (አማርኛ)": "የብሪታኒያ ህንድ ውቂያኖስ ግዛት", 
         "it (italiano)": "Territorio britannico dell’Oceano Indiano", 
         "ky (кыргызча)": "Британиянын Индия океанындагы аймагы", 
-        "timezones": "[\"Indian/Chagos\"]", 
+        "timezones": [
+            "Indian/Chagos"
+        ], 
         "uz_Cyrl (Ўзбек)": "Британия Ҳинд океани ҳудуди", 
         "mr (मराठी)": "ब्रिटिश हिंदी महासागर क्षेत्र", 
         "ak (Akan)": "Britenfo Hɔn Man Wɔ India Po No Mu", 
@@ -12596,7 +13111,9 @@
         "uz_Latn (o‘zbek)": "Britaniyaning Hind okeanidagi hududi", 
         "es (español)": "Territorio Británico del Océano Índico", 
         "eu (euskara)": "Indiako Ozeanoko lurralde britainiarra", 
-        "currency_code": "[\"USD\"]", 
+        "currency_code": [
+            "USD"
+        ], 
         "dz (རྫོང་ཁ)": "བྲི་ཊིཤ་རྒྱ་གར་གྱི་རྒྱ་མཚོ་ས་ཁོངས", 
         "mt (Malti)": "British Indian Ocean Territory", 
         "uk (українська)": "Британські території в Індійському океані", 
@@ -12661,7 +13178,9 @@
         "am (አማርኛ)": "አየርላንድ", 
         "it (italiano)": "Irlanda", 
         "ky (кыргызча)": "Ирландия", 
-        "timezones": "[\"Europe/Dublin\"]", 
+        "timezones": [
+            "Europe/Dublin"
+        ], 
         "uz_Cyrl (Ўзбек)": "Ирландия", 
         "mr (मराठी)": "आयर्लंड", 
         "ak (Akan)": "Aereland", 
@@ -12715,7 +13234,9 @@
         "uz_Latn (o‘zbek)": "Irlandiya", 
         "es (español)": "Irlanda", 
         "eu (euskara)": "Irlanda", 
-        "currency_code": "[\"EUR\"]", 
+        "currency_code": [
+            "EUR"
+        ], 
         "dz (རྫོང་ཁ)": "ཨཱ་ཡ་ལེནཌ", 
         "mt (Malti)": "Irlanda", 
         "uk (українська)": "Ірландія", 
@@ -12781,7 +13302,9 @@
         "am (አማርኛ)": "ኢራን", 
         "it (italiano)": "Iran", 
         "ky (кыргызча)": "Иран", 
-        "timezones": "[\"Asia/Tehran\"]", 
+        "timezones": [
+            "Asia/Tehran"
+        ], 
         "uz_Cyrl (Ўзбек)": "Эрон", 
         "mr (मराठी)": "इराण", 
         "ak (Akan)": "Iran", 
@@ -12836,7 +13359,9 @@
         "uz_Latn (o‘zbek)": "Eron", 
         "es (español)": "Irán", 
         "eu (euskara)": "Iran", 
-        "currency_code": "[\"IRR\"]", 
+        "currency_code": [
+            "IRR"
+        ], 
         "dz (རྫོང་ཁ)": "ཨི་རཱན", 
         "mt (Malti)": "Iran", 
         "uk (українська)": "Іран", 
@@ -12903,7 +13428,9 @@
         "am (አማርኛ)": "ኢራቅ", 
         "it (italiano)": "Iraq", 
         "ky (кыргызча)": "Ирак", 
-        "timezones": "[\"Asia/Baghdad\"]", 
+        "timezones": [
+            "Asia/Baghdad"
+        ], 
         "uz_Cyrl (Ўзбек)": "Ироқ", 
         "mr (मराठी)": "इराक", 
         "ak (Akan)": "Irak", 
@@ -12958,7 +13485,9 @@
         "uz_Latn (o‘zbek)": "Iroq", 
         "es (español)": "Irak", 
         "eu (euskara)": "Irak", 
-        "currency_code": "[\"IQD\"]", 
+        "currency_code": [
+            "IQD"
+        ], 
         "dz (རྫོང་ཁ)": "ཨི་རཱཀ", 
         "mt (Malti)": "Iraq", 
         "uk (українська)": "Ірак", 
@@ -13025,7 +13554,9 @@
         "am (አማርኛ)": "አይስላንድ", 
         "it (italiano)": "Islanda", 
         "ky (кыргызча)": "Исландия", 
-        "timezones": "[\"Atlantic/Reykjavik\"]", 
+        "timezones": [
+            "Atlantic/Reykjavik"
+        ], 
         "uz_Cyrl (Ўзбек)": "Исландия", 
         "mr (मराठी)": "आइसलँड", 
         "ak (Akan)": "Aesland", 
@@ -13080,7 +13611,9 @@
         "uz_Latn (o‘zbek)": "Islandiya", 
         "es (español)": "Islandia", 
         "eu (euskara)": "Islandia", 
-        "currency_code": "[\"ISK\"]", 
+        "currency_code": [
+            "ISK"
+        ], 
         "dz (རྫོང་ཁ)": "ཨཱའིས་ལེནཌ", 
         "mt (Malti)": "Islanda", 
         "uk (українська)": "Ісландія", 
@@ -13147,7 +13680,9 @@
         "am (አማርኛ)": "እስራኤል", 
         "it (italiano)": "Israele", 
         "ky (кыргызча)": "Израиль", 
-        "timezones": "[\"Asia/Jerusalem\"]", 
+        "timezones": [
+            "Asia/Jerusalem"
+        ], 
         "uz_Cyrl (Ўзбек)": "Исроил", 
         "mr (मराठी)": "इस्त्राइल", 
         "ak (Akan)": "Israel", 
@@ -13202,7 +13737,9 @@
         "uz_Latn (o‘zbek)": "Isroil", 
         "es (español)": "Israel", 
         "eu (euskara)": "Israel", 
-        "currency_code": "[\"ILS\"]", 
+        "currency_code": [
+            "ILS"
+        ], 
         "dz (རྫོང་ཁ)": "ཨིས་ར་ཡེལ", 
         "mt (Malti)": "Iżrael", 
         "uk (українська)": "Ізраїль", 
@@ -13271,7 +13808,9 @@
         "it (italiano)": "Italia", 
         "cu (церковнослове́нскїй)": "і҆та́лїа", 
         "ky (кыргызча)": "Италия", 
-        "timezones": "[\"Europe/Rome\"]", 
+        "timezones": [
+            "Europe/Rome"
+        ], 
         "uz_Cyrl (Ўзбек)": "Италия", 
         "mr (मराठी)": "इटली", 
         "ak (Akan)": "Itali", 
@@ -13331,7 +13870,9 @@
         "uz_Latn (o‘zbek)": "Italiya", 
         "es (español)": "Italia", 
         "eu (euskara)": "Italia", 
-        "currency_code": "[\"EUR\"]", 
+        "currency_code": [
+            "EUR"
+        ], 
         "dz (རྫོང་ཁ)": "ཨི་ཊ་ལི", 
         "mt (Malti)": "L-Italja", 
         "uk (українська)": "Італія", 
@@ -13399,7 +13940,9 @@
         "am (አማርኛ)": "ጃማይካ", 
         "it (italiano)": "Giamaica", 
         "ky (кыргызча)": "Ямайка", 
-        "timezones": "[\"America/Jamaica\"]", 
+        "timezones": [
+            "America/Jamaica"
+        ], 
         "uz_Cyrl (Ўзбек)": "Ямайка", 
         "mr (मराठी)": "जमैका", 
         "ak (Akan)": "Gyameka", 
@@ -13453,7 +13996,9 @@
         "uz_Latn (o‘zbek)": "Yamayka", 
         "es (español)": "Jamaica", 
         "eu (euskara)": "Jamaika", 
-        "currency_code": "[\"JMD\"]", 
+        "currency_code": [
+            "JMD"
+        ], 
         "dz (རྫོང་ཁ)": "ཇཱ་མཻ་ཀ", 
         "mt (Malti)": "Ġamajka", 
         "uk (українська)": "Ямайка", 
@@ -13513,7 +14058,9 @@
         "am (አማርኛ)": "ጀርሲ", 
         "it (italiano)": "Jersey", 
         "ky (кыргызча)": "Жерси", 
-        "timezones": "[\"Europe/Jersey\"]", 
+        "timezones": [
+            "Europe/Jersey"
+        ], 
         "uz_Cyrl (Ўзбек)": "Джерси", 
         "mr (मराठी)": "जर्सी", 
         "nn (nynorsk)": "Jersey", 
@@ -13562,7 +14109,9 @@
         "uz_Latn (o‘zbek)": "Jersi", 
         "es (español)": "Jersey", 
         "eu (euskara)": "Jersey", 
-        "currency_code": "[\"GBP\"]", 
+        "currency_code": [
+            "GBP"
+        ], 
         "dz (རྫོང་ཁ)": "ཇེར་སི", 
         "uk (українська)": "Джерсі", 
         "ks (کٲشُر)": "جٔرسی", 
@@ -13623,7 +14172,9 @@
         "am (አማርኛ)": "ጆርዳን", 
         "it (italiano)": "Giordania", 
         "ky (кыргызча)": "Иордания", 
-        "timezones": "[\"Asia/Amman\"]", 
+        "timezones": [
+            "Asia/Amman"
+        ], 
         "uz_Cyrl (Ўзбек)": "Иордания", 
         "mr (मराठी)": "जॉर्डन", 
         "ak (Akan)": "Gyɔdan", 
@@ -13678,7 +14229,9 @@
         "uz_Latn (o‘zbek)": "Iordaniya", 
         "es (español)": "Jordania", 
         "eu (euskara)": "Jordania", 
-        "currency_code": "[\"JOD\"]", 
+        "currency_code": [
+            "JOD"
+        ], 
         "dz (རྫོང་ཁ)": "ཇོར་ཌན", 
         "mt (Malti)": "Ġordan", 
         "uk (українська)": "Йорданія", 
@@ -13745,7 +14298,9 @@
         "it (italiano)": "Giappone", 
         "cu (церковнослове́нскїй)": "ꙗ҆пѡ́нїа", 
         "ky (кыргызча)": "Япония", 
-        "timezones": "[\"Asia/Tokyo\"]", 
+        "timezones": [
+            "Asia/Tokyo"
+        ], 
         "uz_Cyrl (Ўзбек)": "Япония", 
         "mr (मराठी)": "जपान", 
         "ak (Akan)": "Gyapan", 
@@ -13804,7 +14359,9 @@
         "uz_Latn (o‘zbek)": "Yaponiya", 
         "es (español)": "Japón", 
         "eu (euskara)": "Japonia", 
-        "currency_code": "[\"JPY\"]", 
+        "currency_code": [
+            "JPY"
+        ], 
         "dz (རྫོང་ཁ)": "ཇ་པཱན", 
         "mt (Malti)": "Il-Ġappun", 
         "uk (українська)": "Японія", 
@@ -13873,7 +14430,14 @@
         "it (italiano)": "Kazakistan", 
         "cu (церковнослове́нскїй)": "казахста́нъ", 
         "ky (кыргызча)": "Казакстан", 
-        "timezones": "[\"Asia/Almaty\", \"Asia/Qyzylorda\", \"Asia/Aqtobe\", \"Asia/Aqtau\", \"Asia/Atyrau\", \"Asia/Oral\"]", 
+        "timezones": [
+            "Asia/Almaty", 
+            "Asia/Qyzylorda", 
+            "Asia/Aqtobe", 
+            "Asia/Aqtau", 
+            "Asia/Atyrau", 
+            "Asia/Oral"
+        ], 
         "uz_Cyrl (Ўзбек)": "Қозоғистон", 
         "mr (मराठी)": "कझाकस्तान", 
         "ak (Akan)": "Kazakstan", 
@@ -13927,7 +14491,9 @@
         "uz_Latn (o‘zbek)": "Qozogʻiston", 
         "es (español)": "Kazajistán", 
         "eu (euskara)": "Kazakhstan", 
-        "currency_code": "[\"KZT\"]", 
+        "currency_code": [
+            "KZT"
+        ], 
         "dz (རྫོང་ཁ)": "ཀ་ཛགས་སཏཱན", 
         "mt (Malti)": "Każakstan", 
         "uk (українська)": "Казахстан", 
@@ -13993,7 +14559,9 @@
         "am (አማርኛ)": "ኬንያ", 
         "it (italiano)": "Kenya", 
         "ky (кыргызча)": "Кения", 
-        "timezones": "[\"Africa/Nairobi\"]", 
+        "timezones": [
+            "Africa/Nairobi"
+        ], 
         "uz_Cyrl (Ўзбек)": "Кения", 
         "mr (मराठी)": "केनिया", 
         "ak (Akan)": "Kɛnya", 
@@ -14049,7 +14617,9 @@
         "uz_Latn (o‘zbek)": "Keniya", 
         "es (español)": "Kenia", 
         "eu (euskara)": "Kenya", 
-        "currency_code": "[\"KES\"]", 
+        "currency_code": [
+            "KES"
+        ], 
         "dz (རྫོང་ཁ)": "ཀེན་ཡ", 
         "mt (Malti)": "Kenja", 
         "uk (українська)": "Кенія", 
@@ -14116,7 +14686,9 @@
         "it (italiano)": "Kirghizistan", 
         "cu (церковнослове́нскїй)": "кирги́зїа", 
         "ky (кыргызча)": "Кыргызстан", 
-        "timezones": "[\"Asia/Bishkek\"]", 
+        "timezones": [
+            "Asia/Bishkek"
+        ], 
         "uz_Cyrl (Ўзбек)": "Қирғизистон", 
         "mr (मराठी)": "किरगिझस्तान", 
         "ak (Akan)": "Kɛɛgestan", 
@@ -14170,7 +14742,9 @@
         "uz_Latn (o‘zbek)": "Qirgʻiziston", 
         "es (español)": "Kirguistán", 
         "eu (euskara)": "Kirgizistan", 
-        "currency_code": "[\"KGS\"]", 
+        "currency_code": [
+            "KGS"
+        ], 
         "dz (རྫོང་ཁ)": "ཀིར་གིས་སཏཱན", 
         "mt (Malti)": "Kirgistan", 
         "uk (українська)": "Киргизстан", 
@@ -14235,7 +14809,9 @@
         "am (አማርኛ)": "ካምቦዲያ", 
         "it (italiano)": "Cambogia", 
         "ky (кыргызча)": "Камбоджа", 
-        "timezones": "[\"Asia/Phnom_Penh\"]", 
+        "timezones": [
+            "Asia/Phnom_Penh"
+        ], 
         "uz_Cyrl (Ўзбек)": "Камбоджа", 
         "mr (मराठी)": "कंबोडिया", 
         "ak (Akan)": "Kambodia", 
@@ -14290,7 +14866,9 @@
         "uz_Latn (o‘zbek)": "Kambodja", 
         "es (español)": "Camboya", 
         "eu (euskara)": "Kanbodia", 
-        "currency_code": "[\"KHR\"]", 
+        "currency_code": [
+            "KHR"
+        ], 
         "dz (རྫོང་ཁ)": "ཀམ་བྷོ་ཌི་ཡ", 
         "mt (Malti)": "Kambodja", 
         "uk (українська)": "Камбоджа", 
@@ -14357,7 +14935,11 @@
         "am (አማርኛ)": "ኪሪባቲ", 
         "it (italiano)": "Kiribati", 
         "ky (кыргызча)": "Кирибати", 
-        "timezones": "[\"Pacific/Tarawa\", \"Pacific/Enderbury\", \"Pacific/Kiritimati\"]", 
+        "timezones": [
+            "Pacific/Tarawa", 
+            "Pacific/Enderbury", 
+            "Pacific/Kiritimati"
+        ], 
         "uz_Cyrl (Ўзбек)": "Кирибати", 
         "mr (मराठी)": "किरीबाटी", 
         "ak (Akan)": "Kiribati", 
@@ -14412,7 +14994,9 @@
         "uz_Latn (o‘zbek)": "Kiribati", 
         "es (español)": "Kiribati", 
         "eu (euskara)": "Kiribati", 
-        "currency_code": "[\"AUD\"]", 
+        "currency_code": [
+            "AUD"
+        ], 
         "dz (རྫོང་ཁ)": "ཀི་རི་བ་ཏི་མཚོ་གླིང", 
         "mt (Malti)": "Kiribati", 
         "uk (українська)": "Кірибаті", 
@@ -14478,7 +15062,9 @@
         "am (አማርኛ)": "ቅዱስ ኪትስ እና ኔቪስ", 
         "it (italiano)": "Saint Kitts e Nevis", 
         "ky (кыргызча)": "Сент-Китс жана Невис", 
-        "timezones": "[\"America/St_Kitts\"]", 
+        "timezones": [
+            "America/St_Kitts"
+        ], 
         "uz_Cyrl (Ўзбек)": "Сент-Китс ва Невис", 
         "mr (मराठी)": "सेंट किट्स आणि नेव्हिस", 
         "ak (Akan)": "Saint Kitts ne Nɛves", 
@@ -14533,7 +15119,9 @@
         "uz_Latn (o‘zbek)": "Sent-Kits va Nevis", 
         "es (español)": "San Cristóbal y Nieves", 
         "eu (euskara)": "Saint Kitts eta Nevis", 
-        "currency_code": "[\"XCD\"]", 
+        "currency_code": [
+            "XCD"
+        ], 
         "dz (རྫོང་ཁ)": "སེནཊ་ ཀིཊས་ དང་ ནེ་བིས", 
         "mt (Malti)": "Saint Kitts and Nevis", 
         "uk (українська)": "Сент-Кітс і Невіс", 
@@ -14599,7 +15187,9 @@
         "am (አማርኛ)": "ደቡብ ኮሪያ", 
         "it (italiano)": "Corea del Sud", 
         "ky (кыргызча)": "Түштүк Корея", 
-        "timezones": "[\"Asia/Seoul\"]", 
+        "timezones": [
+            "Asia/Seoul"
+        ], 
         "uz_Cyrl (Ўзбек)": "Жанубий Корея", 
         "mr (मराठी)": "दक्षिण कोरिया", 
         "ak (Akan)": "Anaafo Koria", 
@@ -14654,7 +15244,9 @@
         "uz_Latn (o‘zbek)": "Janubiy Koreya", 
         "es (español)": "Corea del Sur", 
         "eu (euskara)": "Hego Korea", 
-        "currency_code": "[\"KRW\"]", 
+        "currency_code": [
+            "KRW"
+        ], 
         "dz (རྫོང་ཁ)": "ལྷོ་ ཀོ་རི་ཡ", 
         "mt (Malti)": "Koreja t’Isfel", 
         "uk (українська)": "Південна Корея", 
@@ -14720,7 +15312,9 @@
         "am (አማርኛ)": "ክዌት", 
         "it (italiano)": "Kuwait", 
         "ky (кыргызча)": "Кувейт", 
-        "timezones": "[\"Asia/Kuwait\"]", 
+        "timezones": [
+            "Asia/Kuwait"
+        ], 
         "uz_Cyrl (Ўзбек)": "Кувайт", 
         "mr (मराठी)": "कुवेत", 
         "ak (Akan)": "Kuwete", 
@@ -14775,7 +15369,9 @@
         "uz_Latn (o‘zbek)": "Quvayt", 
         "es (español)": "Kuwait", 
         "eu (euskara)": "Kuwait", 
-        "currency_code": "[\"KWD\"]", 
+        "currency_code": [
+            "KWD"
+        ], 
         "dz (རྫོང་ཁ)": "ཀུ་ཝེཊ", 
         "mt (Malti)": "Kuwajt", 
         "uk (українська)": "Кувейт", 
@@ -14842,7 +15438,9 @@
         "am (አማርኛ)": "ላኦስ", 
         "it (italiano)": "Laos", 
         "ky (кыргызча)": "Лаос", 
-        "timezones": "[\"Asia/Vientiane\"]", 
+        "timezones": [
+            "Asia/Vientiane"
+        ], 
         "uz_Cyrl (Ўзбек)": "Лаос", 
         "mr (मराठी)": "लाओस", 
         "ak (Akan)": "Laos", 
@@ -14897,7 +15495,9 @@
         "uz_Latn (o‘zbek)": "Laos", 
         "es (español)": "Laos", 
         "eu (euskara)": "Laos", 
-        "currency_code": "[\"LAK\"]", 
+        "currency_code": [
+            "LAK"
+        ], 
         "dz (རྫོང་ཁ)": "ལཱ་ཝོས", 
         "mt (Malti)": "Laos", 
         "uk (українська)": "Лаос", 
@@ -14964,7 +15564,9 @@
         "am (አማርኛ)": "ሊባኖስ", 
         "it (italiano)": "Libano", 
         "ky (кыргызча)": "Ливан", 
-        "timezones": "[\"Asia/Beirut\"]", 
+        "timezones": [
+            "Asia/Beirut"
+        ], 
         "uz_Cyrl (Ўзбек)": "Ливан", 
         "mr (मराठी)": "लेबनॉन", 
         "ak (Akan)": "Lɛbanɔn", 
@@ -15019,7 +15621,9 @@
         "uz_Latn (o‘zbek)": "Livan", 
         "es (español)": "Líbano", 
         "eu (euskara)": "Libano", 
-        "currency_code": "[\"LBP\"]", 
+        "currency_code": [
+            "LBP"
+        ], 
         "dz (རྫོང་ཁ)": "ལེ་བ་ནོན", 
         "mt (Malti)": "Libanu", 
         "uk (українська)": "Ліван", 
@@ -15086,7 +15690,9 @@
         "am (አማርኛ)": "ላይቤሪያ", 
         "it (italiano)": "Liberia", 
         "ky (кыргызча)": "Либерия", 
-        "timezones": "[\"Africa/Monrovia\"]", 
+        "timezones": [
+            "Africa/Monrovia"
+        ], 
         "uz_Cyrl (Ўзбек)": "Либерия", 
         "mr (मराठी)": "लायबेरिया", 
         "ak (Akan)": "Laeberia", 
@@ -15141,7 +15747,9 @@
         "uz_Latn (o‘zbek)": "Liberiya", 
         "es (español)": "Liberia", 
         "eu (euskara)": "Liberia", 
-        "currency_code": "[\"LRD\"]", 
+        "currency_code": [
+            "LRD"
+        ], 
         "dz (རྫོང་ཁ)": "ལཱའི་བེ་རི་ཡ", 
         "mt (Malti)": "Liberja", 
         "uk (українська)": "Ліберія", 
@@ -15209,7 +15817,9 @@
         "am (አማርኛ)": "ሊቢያ", 
         "it (italiano)": "Libia", 
         "ky (кыргызча)": "Ливия", 
-        "timezones": "[\"Africa/Tripoli\"]", 
+        "timezones": [
+            "Africa/Tripoli"
+        ], 
         "uz_Cyrl (Ўзбек)": "Ливия", 
         "mr (मराठी)": "लिबिया", 
         "ak (Akan)": "Libya", 
@@ -15263,7 +15873,9 @@
         "uz_Latn (o‘zbek)": "Liviya", 
         "es (español)": "Libia", 
         "eu (euskara)": "Libia", 
-        "currency_code": "[\"LYD\"]", 
+        "currency_code": [
+            "LYD"
+        ], 
         "dz (རྫོང་ཁ)": "ལི་བི་ཡ", 
         "mt (Malti)": "Libja", 
         "uk (українська)": "Лівія", 
@@ -15330,7 +15942,9 @@
         "am (አማርኛ)": "ሴንት ሉቺያ", 
         "it (italiano)": "Saint Lucia", 
         "ky (кыргызча)": "Сент-Люсия", 
-        "timezones": "[\"America/St_Lucia\"]", 
+        "timezones": [
+            "America/St_Lucia"
+        ], 
         "uz_Cyrl (Ўзбек)": "Сент-Люсия", 
         "mr (मराठी)": "सेंट ल्यूसिया", 
         "ak (Akan)": "Saint Lucia", 
@@ -15384,7 +15998,9 @@
         "uz_Latn (o‘zbek)": "Sent-Lyusiya", 
         "es (español)": "Santa Lucía", 
         "eu (euskara)": "Santa Luzia", 
-        "currency_code": "[\"XCD\"]", 
+        "currency_code": [
+            "XCD"
+        ], 
         "dz (རྫོང་ཁ)": "སེནཊ་ ལུ་སི་ཡ", 
         "mt (Malti)": "Santa Luċija", 
         "uk (українська)": "Сент-Люсія", 
@@ -15450,7 +16066,9 @@
         "am (አማርኛ)": "ሊችተንስታይን", 
         "it (italiano)": "Liechtenstein", 
         "ky (кыргызча)": "Лихтенштейн", 
-        "timezones": "[\"Europe/Vaduz\"]", 
+        "timezones": [
+            "Europe/Vaduz"
+        ], 
         "uz_Cyrl (Ўзбек)": "Лихтенштейн", 
         "mr (मराठी)": "लिक्टेनस्टाइन", 
         "ak (Akan)": "Lektenstaen", 
@@ -15505,7 +16123,9 @@
         "uz_Latn (o‘zbek)": "Lixtenshteyn", 
         "es (español)": "Liechtenstein", 
         "eu (euskara)": "Liechtenstein", 
-        "currency_code": "[\"CHF\"]", 
+        "currency_code": [
+            "CHF"
+        ], 
         "dz (རྫོང་ཁ)": "ལིཀ་ཏནས་ཏ་ཡིན", 
         "mt (Malti)": "Liechtenstein", 
         "uk (українська)": "Ліхтенштейн", 
@@ -15571,7 +16191,9 @@
         "am (አማርኛ)": "ሲሪላንካ", 
         "it (italiano)": "Sri Lanka", 
         "ky (кыргызча)": "Шри-Ланка", 
-        "timezones": "[\"Asia/Colombo\"]", 
+        "timezones": [
+            "Asia/Colombo"
+        ], 
         "uz_Cyrl (Ўзбек)": "Шри-Ланка", 
         "mr (मराठी)": "श्रीलंका", 
         "ak (Akan)": "Sri Lanka", 
@@ -15626,7 +16248,9 @@
         "uz_Latn (o‘zbek)": "Shri-Lanka", 
         "es (español)": "Sri Lanka", 
         "eu (euskara)": "Sri Lanka", 
-        "currency_code": "[\"LKR\"]", 
+        "currency_code": [
+            "LKR"
+        ], 
         "dz (རྫོང་ཁ)": "ཤྲཱི་ལང་ཀ", 
         "mt (Malti)": "Sri Lanka", 
         "uk (українська)": "Шрі-Ланка", 
@@ -15692,7 +16316,9 @@
         "am (አማርኛ)": "ሌሶቶ", 
         "it (italiano)": "Lesotho", 
         "ky (кыргызча)": "Лесото", 
-        "timezones": "[\"Africa/Maseru\"]", 
+        "timezones": [
+            "Africa/Maseru"
+        ], 
         "uz_Cyrl (Ўзбек)": "Лесото", 
         "mr (मराठी)": "लेसोथो", 
         "ak (Akan)": "Lɛsutu", 
@@ -15747,7 +16373,10 @@
         "uz_Latn (o‘zbek)": "Lesoto", 
         "es (español)": "Lesoto", 
         "eu (euskara)": "Lesotho", 
-        "currency_code": "[\"LSL\", \"ZAR\"]", 
+        "currency_code": [
+            "LSL", 
+            "ZAR"
+        ], 
         "dz (རྫོང་ཁ)": "ལཻ་སོ་ཐོ", 
         "mt (Malti)": "Lesoto", 
         "uk (українська)": "Лесото", 
@@ -15813,7 +16442,9 @@
         "am (አማርኛ)": "ሊቱዌኒያ", 
         "it (italiano)": "Lituania", 
         "ky (кыргызча)": "Литва", 
-        "timezones": "[\"Europe/Vilnius\"]", 
+        "timezones": [
+            "Europe/Vilnius"
+        ], 
         "uz_Cyrl (Ўзбек)": "Литва", 
         "mr (मराठी)": "लिथुआनिया", 
         "ak (Akan)": "Lituwenia", 
@@ -15868,7 +16499,9 @@
         "uz_Latn (o‘zbek)": "Litva", 
         "es (español)": "Lituania", 
         "eu (euskara)": "Lituania", 
-        "currency_code": "[\"LTL\"]", 
+        "currency_code": [
+            "LTL"
+        ], 
         "dz (རྫོང་ཁ)": "ལི་ཐུ་ཝེ་ནི་ཡ", 
         "mt (Malti)": "Litwanja", 
         "uk (українська)": "Литва", 
@@ -15934,7 +16567,9 @@
         "am (አማርኛ)": "ሉክሰምበርግ", 
         "it (italiano)": "Lussemburgo", 
         "ky (кыргызча)": "Люксембург", 
-        "timezones": "[\"Europe/Luxembourg\"]", 
+        "timezones": [
+            "Europe/Luxembourg"
+        ], 
         "uz_Cyrl (Ўзбек)": "Люксембург", 
         "mr (मराठी)": "लक्झेंबर्ग", 
         "ak (Akan)": "Laksembɛg", 
@@ -15989,7 +16624,9 @@
         "uz_Latn (o‘zbek)": "Lyuksemburg", 
         "es (español)": "Luxemburgo", 
         "eu (euskara)": "Luxenburgo", 
-        "currency_code": "[\"EUR\"]", 
+        "currency_code": [
+            "EUR"
+        ], 
         "dz (རྫོང་ཁ)": "ལག་ཛམ་བོརྒ", 
         "mt (Malti)": "Lussemburgu", 
         "uk (українська)": "Люксембург", 
@@ -16055,7 +16692,9 @@
         "am (አማርኛ)": "ላትቪያ", 
         "it (italiano)": "Lettonia", 
         "ky (кыргызча)": "Латвия", 
-        "timezones": "[\"Europe/Riga\"]", 
+        "timezones": [
+            "Europe/Riga"
+        ], 
         "uz_Cyrl (Ўзбек)": "Латвия", 
         "mr (मराठी)": "लात्विया", 
         "ak (Akan)": "Latvia", 
@@ -16110,7 +16749,9 @@
         "uz_Latn (o‘zbek)": "Latviya", 
         "es (español)": "Letonia", 
         "eu (euskara)": "Letonia", 
-        "currency_code": "[\"EUR\"]", 
+        "currency_code": [
+            "EUR"
+        ], 
         "dz (རྫོང་ཁ)": "ལཊ་བི་ཡ", 
         "mt (Malti)": "Latvja", 
         "uk (українська)": "Латвія", 
@@ -16170,7 +16811,9 @@
         "am (አማርኛ)": "ማካኡ ልዩ የአስተዳደር ክልል ቻይና", 
         "it (italiano)": "RAS di Macao", 
         "ky (кыргызча)": "Макау Кытай ААА", 
-        "timezones": "[\"Asia/Macau\"]", 
+        "timezones": [
+            "Asia/Macau"
+        ], 
         "uz_Cyrl (Ўзбек)": "Макао Хитой ММҲ", 
         "mr (मराठी)": "मकाओ एसएआर चीन", 
         "nn (nynorsk)": "Macao S.A.R. Kina", 
@@ -16221,7 +16864,9 @@
         "uz_Latn (o‘zbek)": "Makao (Xitoy MMH)", 
         "es (español)": "RAE de Macao (China)", 
         "eu (euskara)": "Macau AEB Txina", 
-        "currency_code": "[\"MOP\"]", 
+        "currency_code": [
+            "MOP"
+        ], 
         "dz (རྫོང་ཁ)": "མཀ་ཨའུ་ཅཱའི་ན", 
         "mt (Malti)": "Macao S.A.R., China", 
         "uk (українська)": "Макао, О.А.Р Китаю", 
@@ -16276,7 +16921,9 @@
         "am (አማርኛ)": "ሴንት ማርቲን", 
         "it (italiano)": "Saint Martin", 
         "ky (кыргызча)": "Сент-Мартин", 
-        "timezones": "[\"America/Marigot\"]", 
+        "timezones": [
+            "America/Marigot"
+        ], 
         "uz_Cyrl (Ўзбек)": "Сент-Мартин", 
         "mr (मराठी)": "सेंट मार्टिन", 
         "nn (nynorsk)": "Saint Martin", 
@@ -16325,7 +16972,9 @@
         "uz_Latn (o‘zbek)": "Sent-Martin", 
         "es (español)": "San Martín", 
         "eu (euskara)": "Saint Martin", 
-        "currency_code": "[\"EUR\"]", 
+        "currency_code": [
+            "EUR"
+        ], 
         "dz (རྫོང་ཁ)": "སེནཊ་ མཱར་ཊིན", 
         "uk (українська)": "Сен-Мартен", 
         "ks (کٲشُر)": "سینٛٹ مارٹِن", 
@@ -16386,7 +17035,9 @@
         "am (አማርኛ)": "ሞሮኮ", 
         "it (italiano)": "Marocco", 
         "ky (кыргызча)": "Марокко", 
-        "timezones": "[\"Africa/Casablanca\"]", 
+        "timezones": [
+            "Africa/Casablanca"
+        ], 
         "uz_Cyrl (Ўзбек)": "Марокаш", 
         "mr (मराठी)": "मोरोक्को", 
         "ak (Akan)": "Moroko", 
@@ -16441,7 +17092,9 @@
         "uz_Latn (o‘zbek)": "Marokash", 
         "es (español)": "Marruecos", 
         "eu (euskara)": "Maroko", 
-        "currency_code": "[\"MAD\"]", 
+        "currency_code": [
+            "MAD"
+        ], 
         "dz (རྫོང་ཁ)": "མོ་རོ་ཀོ", 
         "mt (Malti)": "Marokk", 
         "uk (українська)": "Марокко", 
@@ -16508,7 +17161,9 @@
         "am (አማርኛ)": "ሞናኮ", 
         "it (italiano)": "Monaco", 
         "ky (кыргызча)": "Монако", 
-        "timezones": "[\"Europe/Monaco\"]", 
+        "timezones": [
+            "Europe/Monaco"
+        ], 
         "uz_Cyrl (Ўзбек)": "Монако", 
         "mr (मराठी)": "मोनॅको", 
         "ak (Akan)": "Mɔnako", 
@@ -16563,7 +17218,9 @@
         "uz_Latn (o‘zbek)": "Monako", 
         "es (español)": "Mónaco", 
         "eu (euskara)": "Monako", 
-        "currency_code": "[\"EUR\"]", 
+        "currency_code": [
+            "EUR"
+        ], 
         "dz (རྫོང་ཁ)": "མོ་ན་ཀོ", 
         "mt (Malti)": "Monako", 
         "uk (українська)": "Монако", 
@@ -16628,7 +17285,9 @@
         "am (አማርኛ)": "ሞልዶቫ", 
         "it (italiano)": "Moldavia", 
         "ky (кыргызча)": "Молдова", 
-        "timezones": "[\"Europe/Chisinau\"]", 
+        "timezones": [
+            "Europe/Chisinau"
+        ], 
         "uz_Cyrl (Ўзбек)": "Молдова", 
         "mr (मराठी)": "मोल्डोव्हा", 
         "ak (Akan)": "Mɔldova", 
@@ -16683,7 +17342,9 @@
         "uz_Latn (o‘zbek)": "Moldova", 
         "es (español)": "Moldavia", 
         "eu (euskara)": "Moldavia", 
-        "currency_code": "[\"MDL\"]", 
+        "currency_code": [
+            "MDL"
+        ], 
         "dz (རྫོང་ཁ)": "མོལ་དོ་བཱ", 
         "mt (Malti)": "Moldova", 
         "uk (українська)": "Молдова", 
@@ -16749,7 +17410,9 @@
         "am (አማርኛ)": "ማዳጋስካር", 
         "it (italiano)": "Madagascar", 
         "ky (кыргызча)": "Мадагаскар", 
-        "timezones": "[\"Indian/Antananarivo\"]", 
+        "timezones": [
+            "Indian/Antananarivo"
+        ], 
         "uz_Cyrl (Ўзбек)": "Мадагаскар", 
         "mr (मराठी)": "मादागास्कर", 
         "ak (Akan)": "Madagaska", 
@@ -16804,7 +17467,9 @@
         "uz_Latn (o‘zbek)": "Madagaskar", 
         "es (español)": "Madagascar", 
         "eu (euskara)": "Madagaskar", 
-        "currency_code": "[\"MGA\"]", 
+        "currency_code": [
+            "MGA"
+        ], 
         "dz (རྫོང་ཁ)": "མ་དཱ་གེས་ཀར", 
         "mt (Malti)": "Madagaskar", 
         "uk (українська)": "Мадагаскар", 
@@ -16871,7 +17536,9 @@
         "am (አማርኛ)": "ማልዲቭስ", 
         "it (italiano)": "Maldive", 
         "ky (кыргызча)": "Малдив аралдары", 
-        "timezones": "[\"Indian/Maldives\"]", 
+        "timezones": [
+            "Indian/Maldives"
+        ], 
         "uz_Cyrl (Ўзбек)": "Мальдив ороллари", 
         "mr (मराठी)": "मालदीव", 
         "ak (Akan)": "Maldives", 
@@ -16926,7 +17593,9 @@
         "uz_Latn (o‘zbek)": "Maldiv orollari", 
         "es (español)": "Maldivas", 
         "eu (euskara)": "Maldivak", 
-        "currency_code": "[\"MVR\"]", 
+        "currency_code": [
+            "MVR"
+        ], 
         "dz (རྫོང་ཁ)": "མཱལ་དིབས", 
         "mt (Malti)": "Maldives", 
         "uk (українська)": "Мальдіви", 
@@ -16992,7 +17661,19 @@
         "it (italiano)": "Messico", 
         "cu (церковнослове́нскїй)": "Ме́ѯїко", 
         "ky (кыргызча)": "Мексика", 
-        "timezones": "[\"America/Mexico_City\", \"America/Cancun\", \"America/Merida\", \"America/Monterrey\", \"America/Matamoros\", \"America/Mazatlan\", \"America/Chihuahua\", \"America/Ojinaga\", \"America/Hermosillo\", \"America/Tijuana\", \"America/Bahia_Banderas\"]", 
+        "timezones": [
+            "America/Mexico_City", 
+            "America/Cancun", 
+            "America/Merida", 
+            "America/Monterrey", 
+            "America/Matamoros", 
+            "America/Mazatlan", 
+            "America/Chihuahua", 
+            "America/Ojinaga", 
+            "America/Hermosillo", 
+            "America/Tijuana", 
+            "America/Bahia_Banderas"
+        ], 
         "uz_Cyrl (Ўзбек)": "Мексика", 
         "mr (मराठी)": "मेक्सिको", 
         "ak (Akan)": "Mɛksiko", 
@@ -17047,7 +17728,9 @@
         "uz_Latn (o‘zbek)": "Meksika", 
         "es (español)": "México", 
         "eu (euskara)": "Mexiko", 
-        "currency_code": "[\"MXN\"]", 
+        "currency_code": [
+            "MXN"
+        ], 
         "dz (རྫོང་ཁ)": "མེཀ་སི་ཀོ", 
         "mt (Malti)": "Messiku", 
         "uk (українська)": "Мексика", 
@@ -17113,7 +17796,10 @@
         "am (አማርኛ)": "ማርሻል አይላንድ", 
         "it (italiano)": "Isole Marshall", 
         "ky (кыргызча)": "Маршалл аралдары", 
-        "timezones": "[\"Pacific/Majuro\", \"Pacific/Kwajalein\"]", 
+        "timezones": [
+            "Pacific/Majuro", 
+            "Pacific/Kwajalein"
+        ], 
         "uz_Cyrl (Ўзбек)": "Маршал ороллари", 
         "mr (मराठी)": "मार्शल बेटे", 
         "ak (Akan)": "Marshall Islands", 
@@ -17168,7 +17854,9 @@
         "uz_Latn (o‘zbek)": "Marshall orollari", 
         "es (español)": "Islas Marshall", 
         "eu (euskara)": "Marshall uharteak", 
-        "currency_code": "[\"USD\"]", 
+        "currency_code": [
+            "USD"
+        ], 
         "dz (རྫོང་ཁ)": "མར་ཤེལ་གླིང་ཚོམ", 
         "mt (Malti)": "Gżejjer ta’ Marshall", 
         "uk (українська)": "Маршаллові Острови", 
@@ -17232,7 +17920,9 @@
         "am (አማርኛ)": "መቄዶንያ", 
         "it (italiano)": "Repubblica di Macedonia", 
         "ky (кыргызча)": "Македония", 
-        "timezones": "[\"Europe/Skopje\"]", 
+        "timezones": [
+            "Europe/Skopje"
+        ], 
         "uz_Cyrl (Ўзбек)": "Македония", 
         "mr (मराठी)": "मॅसेडोनिया", 
         "ak (Akan)": "Masedonia", 
@@ -17287,7 +17977,9 @@
         "uz_Latn (o‘zbek)": "Makedoniya", 
         "es (español)": "Macedonia", 
         "eu (euskara)": "Mazedonia", 
-        "currency_code": "[\"MKD\"]", 
+        "currency_code": [
+            "MKD"
+        ], 
         "dz (རྫོང་ཁ)": "མ་སེ་ཌོ་ནི་ཡ", 
         "mt (Malti)": "Maċedonja", 
         "uk (українська)": "Македонія", 
@@ -17353,7 +18045,9 @@
         "am (አማርኛ)": "ማሊ", 
         "it (italiano)": "Mali", 
         "ky (кыргызча)": "Мали", 
-        "timezones": "[\"Africa/Bamako\"]", 
+        "timezones": [
+            "Africa/Bamako"
+        ], 
         "uz_Cyrl (Ўзбек)": "Мали", 
         "mr (मराठी)": "माली", 
         "ak (Akan)": "Mali", 
@@ -17408,7 +18102,9 @@
         "uz_Latn (o‘zbek)": "Mali", 
         "es (español)": "Mali", 
         "eu (euskara)": "Mali", 
-        "currency_code": "[\"XOF\"]", 
+        "currency_code": [
+            "XOF"
+        ], 
         "dz (རྫོང་ཁ)": "མཱ་ལི", 
         "mt (Malti)": "Mali", 
         "uk (українська)": "Малі", 
@@ -17474,7 +18170,9 @@
         "am (አማርኛ)": "ማልታ", 
         "it (italiano)": "Malta", 
         "ky (кыргызча)": "Мальта", 
-        "timezones": "[\"Europe/Malta\"]", 
+        "timezones": [
+            "Europe/Malta"
+        ], 
         "uz_Cyrl (Ўзбек)": "Мальта", 
         "mr (मराठी)": "माल्टा", 
         "ak (Akan)": "Mɔlta", 
@@ -17529,7 +18227,9 @@
         "uz_Latn (o‘zbek)": "Malta", 
         "es (español)": "Malta", 
         "eu (euskara)": "Malta", 
-        "currency_code": "[\"EUR\"]", 
+        "currency_code": [
+            "EUR"
+        ], 
         "dz (རྫོང་ཁ)": "མཱལ་ཊ", 
         "mt (Malti)": "Malta", 
         "uk (українська)": "Мальта", 
@@ -17595,7 +18295,9 @@
         "am (አማርኛ)": "ማይናማር(በርማ)", 
         "it (italiano)": "Myanmar (Birmania)", 
         "ky (кыргызча)": "Мьянма (Бирма)", 
-        "timezones": "[\"Asia/Yangon\"]", 
+        "timezones": [
+            "Asia/Yangon"
+        ], 
         "uz_Cyrl (Ўзбек)": "Мьянма (Бирма)", 
         "mr (मराठी)": "म्यानमार (बर्मा)", 
         "ak (Akan)": "Miyanma", 
@@ -17650,7 +18352,9 @@
         "uz_Latn (o‘zbek)": "Myanma (Birma)", 
         "es (español)": "Myanmar (Birmania)", 
         "eu (euskara)": "Myanmar", 
-        "currency_code": "[\"MMK\"]", 
+        "currency_code": [
+            "MMK"
+        ], 
         "dz (རྫོང་ཁ)": "མི་ཡཱན་མར་ (བྷར་མ)", 
         "mt (Malti)": "Mjanmar", 
         "uk (українська)": "Мʼянма (Бірма)", 
@@ -17709,7 +18413,9 @@
         "am (አማርኛ)": "ሞንተኔግሮ", 
         "it (italiano)": "Montenegro", 
         "ky (кыргызча)": "Черногория", 
-        "timezones": "[\"Europe/Podgorica\"]", 
+        "timezones": [
+            "Europe/Podgorica"
+        ], 
         "uz_Cyrl (Ўзбек)": "Черногория", 
         "mr (मराठी)": "मोंटेनेग्रो", 
         "nn (nynorsk)": "Montenegro", 
@@ -17758,7 +18464,9 @@
         "uz_Latn (o‘zbek)": "Chernogoriya", 
         "es (español)": "Montenegro", 
         "eu (euskara)": "Montenegro", 
-        "currency_code": "[\"EUR\"]", 
+        "currency_code": [
+            "EUR"
+        ], 
         "dz (རྫོང་ཁ)": "མོན་ཊི་ནེག་རོ", 
         "uk (українська)": "Чорногорія", 
         "ks (کٲشُر)": "موٹونیٛگِریو", 
@@ -17819,7 +18527,11 @@
         "am (አማርኛ)": "ሞንጎሊያ", 
         "it (italiano)": "Mongolia", 
         "ky (кыргызча)": "Монголия", 
-        "timezones": "[\"Asia/Ulaanbaatar\", \"Asia/Hovd\", \"Asia/Choibalsan\"]", 
+        "timezones": [
+            "Asia/Ulaanbaatar", 
+            "Asia/Hovd", 
+            "Asia/Choibalsan"
+        ], 
         "uz_Cyrl (Ўзбек)": "Муғулистон", 
         "mr (मराठी)": "मंगोलिया", 
         "ak (Akan)": "Mɔngolia", 
@@ -17873,7 +18585,9 @@
         "uz_Latn (o‘zbek)": "Mongoliya", 
         "es (español)": "Mongolia", 
         "eu (euskara)": "Mongolia", 
-        "currency_code": "[\"MNT\"]", 
+        "currency_code": [
+            "MNT"
+        ], 
         "dz (རྫོང་ཁ)": "སོག་པོ་ཡུལ", 
         "mt (Malti)": "Mongolja", 
         "uk (українська)": "Монголія", 
@@ -17938,7 +18652,9 @@
         "am (አማርኛ)": "የሰሜናዊ ማሪያና ደሴቶች", 
         "it (italiano)": "Isole Marianne settentrionali", 
         "ky (кыргызча)": "Түндүк Мариана аралдары", 
-        "timezones": "[\"Pacific/Saipan\"]", 
+        "timezones": [
+            "Pacific/Saipan"
+        ], 
         "uz_Cyrl (Ўзбек)": "Шимолий Марианна ороллари", 
         "mr (मराठी)": "उत्तरी मारियाना बेटे", 
         "ak (Akan)": "Northern Mariana Islands", 
@@ -17993,7 +18709,9 @@
         "uz_Latn (o‘zbek)": "Shimoliy Mariana orollari", 
         "es (español)": "Islas Marianas del Norte", 
         "eu (euskara)": "Iparraldeko Mariana uharteak", 
-        "currency_code": "[\"USD\"]", 
+        "currency_code": [
+            "USD"
+        ], 
         "dz (རྫོང་ཁ)": "བྱང་ཕྱོགས་ཀྱི་མ་ར་ཡ་ན་གླིང་ཚོམ", 
         "mt (Malti)": "Gżejjer Marjana ta’ Fuq", 
         "uk (українська)": "Північні Маріанські острови", 
@@ -18058,7 +18776,9 @@
         "am (አማርኛ)": "ሞዛምቢክ", 
         "it (italiano)": "Mozambico", 
         "ky (кыргызча)": "Мозамбик", 
-        "timezones": "[\"Africa/Maputo\"]", 
+        "timezones": [
+            "Africa/Maputo"
+        ], 
         "uz_Cyrl (Ўзбек)": "Мозамбик", 
         "mr (मराठी)": "मोझाम्बिक", 
         "ak (Akan)": "Mozambik", 
@@ -18113,7 +18833,9 @@
         "uz_Latn (o‘zbek)": "Mozambik", 
         "es (español)": "Mozambique", 
         "eu (euskara)": "Mozambike", 
-        "currency_code": "[\"MZN\"]", 
+        "currency_code": [
+            "MZN"
+        ], 
         "dz (རྫོང་ཁ)": "མོ་ཛམ་བྷིཀ", 
         "mt (Malti)": "Możambik", 
         "uk (українська)": "Мозамбік", 
@@ -18179,7 +18901,9 @@
         "am (አማርኛ)": "ሞሪቴኒያ", 
         "it (italiano)": "Mauritania", 
         "ky (кыргызча)": "Мавритания", 
-        "timezones": "[\"Africa/Nouakchott\"]", 
+        "timezones": [
+            "Africa/Nouakchott"
+        ], 
         "uz_Cyrl (Ўзбек)": "Мавритания", 
         "mr (मराठी)": "मॉरिटानिया", 
         "ak (Akan)": "Mɔretenia", 
@@ -18234,7 +18958,9 @@
         "uz_Latn (o‘zbek)": "Mavritaniya", 
         "es (español)": "Mauritania", 
         "eu (euskara)": "Mauritania", 
-        "currency_code": "[\"MRO\"]", 
+        "currency_code": [
+            "MRO"
+        ], 
         "dz (རྫོང་ཁ)": "མོ་རི་ཊེ་ནི་ཡ", 
         "mt (Malti)": "Mawritanja", 
         "uk (українська)": "Мавританія", 
@@ -18299,7 +19025,9 @@
         "am (አማርኛ)": "ሞንትሴራት", 
         "it (italiano)": "Montserrat", 
         "ky (кыргызча)": "Монсеррат", 
-        "timezones": "[\"America/Montserrat\"]", 
+        "timezones": [
+            "America/Montserrat"
+        ], 
         "uz_Cyrl (Ўзбек)": "Монтсеррат", 
         "mr (मराठी)": "मॉन्ट्सेराट", 
         "ak (Akan)": "Mantserat", 
@@ -18353,7 +19081,9 @@
         "uz_Latn (o‘zbek)": "Montserrat", 
         "es (español)": "Montserrat", 
         "eu (euskara)": "Montserrat", 
-        "currency_code": "[\"XCD\"]", 
+        "currency_code": [
+            "XCD"
+        ], 
         "dz (རྫོང་ཁ)": "མོན་ས་རཊ", 
         "mt (Malti)": "Montserrat", 
         "uk (українська)": "Монтсеррат", 
@@ -18418,7 +19148,9 @@
         "am (አማርኛ)": "ማርቲኒክ", 
         "it (italiano)": "Martinica", 
         "ky (кыргызча)": "Мартиника", 
-        "timezones": "[\"America/Martinique\"]", 
+        "timezones": [
+            "America/Martinique"
+        ], 
         "uz_Cyrl (Ўзбек)": "Мартиника", 
         "mr (मराठी)": "मार्टिनिक", 
         "ak (Akan)": "Matinik", 
@@ -18472,7 +19204,9 @@
         "uz_Latn (o‘zbek)": "Martinika", 
         "es (español)": "Martinica", 
         "eu (euskara)": "Martinika", 
-        "currency_code": "[\"EUR\"]", 
+        "currency_code": [
+            "EUR"
+        ], 
         "dz (རྫོང་ཁ)": "མཱར་ཊི་ནིཀ", 
         "mt (Malti)": "Martinik", 
         "uk (українська)": "Мартиніка", 
@@ -18538,7 +19272,9 @@
         "am (አማርኛ)": "ሞሪሸስ", 
         "it (italiano)": "Mauritius", 
         "ky (кыргызча)": "Маврикий", 
-        "timezones": "[\"Indian/Mauritius\"]", 
+        "timezones": [
+            "Indian/Mauritius"
+        ], 
         "uz_Cyrl (Ўзбек)": "Маврикий", 
         "mr (मराठी)": "मॉरिशस", 
         "ak (Akan)": "Mɔrehyeɔs", 
@@ -18593,7 +19329,9 @@
         "uz_Latn (o‘zbek)": "Mavrikiy", 
         "es (español)": "Mauricio", 
         "eu (euskara)": "Maurizio", 
-        "currency_code": "[\"MUR\"]", 
+        "currency_code": [
+            "MUR"
+        ], 
         "dz (རྫོང་ཁ)": "མོ་རི་ཤཱས", 
         "mt (Malti)": "Mawrizju", 
         "uk (українська)": "Маврикій", 
@@ -18659,7 +19397,9 @@
         "am (አማርኛ)": "ማላዊ", 
         "it (italiano)": "Malawi", 
         "ky (кыргызча)": "Малави", 
-        "timezones": "[\"Africa/Blantyre\"]", 
+        "timezones": [
+            "Africa/Blantyre"
+        ], 
         "uz_Cyrl (Ўзбек)": "Малави", 
         "mr (मराठी)": "मलावी", 
         "ak (Akan)": "Malawi", 
@@ -18714,7 +19454,9 @@
         "uz_Latn (o‘zbek)": "Malavi", 
         "es (español)": "Malaui", 
         "eu (euskara)": "Malawi", 
-        "currency_code": "[\"MWK\"]", 
+        "currency_code": [
+            "MWK"
+        ], 
         "dz (རྫོང་ཁ)": "མ་ལ་ཝི", 
         "mt (Malti)": "Malawi", 
         "uk (українська)": "Малаві", 
@@ -18780,7 +19522,10 @@
         "am (አማርኛ)": "ማሌዢያ", 
         "it (italiano)": "Malaysia", 
         "ky (кыргызча)": "Малайзия", 
-        "timezones": "[\"Asia/Kuala_Lumpur\", \"Asia/Kuching\"]", 
+        "timezones": [
+            "Asia/Kuala_Lumpur", 
+            "Asia/Kuching"
+        ], 
         "uz_Cyrl (Ўзбек)": "Малайзия", 
         "mr (मराठी)": "मलेशिया", 
         "ak (Akan)": "Malehyia", 
@@ -18834,7 +19579,9 @@
         "uz_Latn (o‘zbek)": "Malayziya", 
         "es (español)": "Malasia", 
         "eu (euskara)": "Malaysia", 
-        "currency_code": "[\"MYR\"]", 
+        "currency_code": [
+            "MYR"
+        ], 
         "dz (རྫོང་ཁ)": "མ་ལེ་ཤི་ཡ", 
         "mt (Malti)": "Malasja", 
         "uk (українська)": "Малайзія", 
@@ -18900,7 +19647,9 @@
         "am (አማርኛ)": "ሜይኦቴ", 
         "it (italiano)": "Mayotte", 
         "ky (кыргызча)": "Майотта", 
-        "timezones": "[\"Indian/Mayotte\"]", 
+        "timezones": [
+            "Indian/Mayotte"
+        ], 
         "uz_Cyrl (Ўзбек)": "Майотта", 
         "mr (मराठी)": "मायोट्टे", 
         "ak (Akan)": "Mayɔte", 
@@ -18954,7 +19703,9 @@
         "uz_Latn (o‘zbek)": "Mayotta", 
         "es (español)": "Mayotte", 
         "eu (euskara)": "Mayotte", 
-        "currency_code": "[\"EUR\"]", 
+        "currency_code": [
+            "EUR"
+        ], 
         "dz (རྫོང་ཁ)": "མེ་ཡོཊ", 
         "mt (Malti)": "Majotte", 
         "uk (українська)": "Майотта", 
@@ -19020,7 +19771,9 @@
         "am (አማርኛ)": "ናሚቢያ", 
         "it (italiano)": "Namibia", 
         "ky (кыргызча)": "Намибия", 
-        "timezones": "[\"Africa/Windhoek\"]", 
+        "timezones": [
+            "Africa/Windhoek"
+        ], 
         "uz_Cyrl (Ўзбек)": "Намибия", 
         "mr (मराठी)": "नामिबिया", 
         "ak (Akan)": "Namibia", 
@@ -19075,7 +19828,10 @@
         "uz_Latn (o‘zbek)": "Namibiya", 
         "es (español)": "Namibia", 
         "eu (euskara)": "Namibia", 
-        "currency_code": "[\"NAD\", \"ZAR\"]", 
+        "currency_code": [
+            "NAD", 
+            "ZAR"
+        ], 
         "dz (རྫོང་ཁ)": "ན་མི་བི་ཡ", 
         "mt (Malti)": "Namibja", 
         "uk (українська)": "Намібія", 
@@ -19140,7 +19896,9 @@
         "am (አማርኛ)": "ኒው ካሌዶኒያ", 
         "it (italiano)": "Nuova Caledonia", 
         "ky (кыргызча)": "Жаӊы Каледония", 
-        "timezones": "[\"Pacific/Noumea\"]", 
+        "timezones": [
+            "Pacific/Noumea"
+        ], 
         "uz_Cyrl (Ўзбек)": "Янги Каледония", 
         "mr (मराठी)": "न्यू कॅलेडोनिया", 
         "ak (Akan)": "Kaledonia Foforo", 
@@ -19195,7 +19953,9 @@
         "uz_Latn (o‘zbek)": "Yangi Kaledoniya", 
         "es (español)": "Nueva Caledonia", 
         "eu (euskara)": "Kaledonia Berria", 
-        "currency_code": "[\"XPF\"]", 
+        "currency_code": [
+            "XPF"
+        ], 
         "dz (རྫོང་ཁ)": "ནིའུ་ཀ་ལི་དོ་ནི་ཡ", 
         "mt (Malti)": "New Caledonia", 
         "uk (українська)": "Нова Каледонія", 
@@ -19261,7 +20021,9 @@
         "am (አማርኛ)": "ኒጀር", 
         "it (italiano)": "Niger", 
         "ky (кыргызча)": "Нигер", 
-        "timezones": "[\"Africa/Niamey\"]", 
+        "timezones": [
+            "Africa/Niamey"
+        ], 
         "uz_Cyrl (Ўзбек)": "Нигер", 
         "mr (मराठी)": "नाइजर", 
         "ak (Akan)": "Nigyɛ", 
@@ -19316,7 +20078,9 @@
         "uz_Latn (o‘zbek)": "Niger", 
         "es (español)": "Níger", 
         "eu (euskara)": "Niger", 
-        "currency_code": "[\"XOF\"]", 
+        "currency_code": [
+            "XOF"
+        ], 
         "dz (རྫོང་ཁ)": "ནཱའི་ཇཱ", 
         "mt (Malti)": "Niġer", 
         "uk (українська)": "Нігер", 
@@ -19381,7 +20145,9 @@
         "am (አማርኛ)": "ኖርፎልክ ደሴት", 
         "it (italiano)": "Isola Norfolk", 
         "ky (кыргызча)": "Норфолк аралы", 
-        "timezones": "[\"Pacific/Norfolk\"]", 
+        "timezones": [
+            "Pacific/Norfolk"
+        ], 
         "uz_Cyrl (Ўзбек)": "Норфолк ороллари", 
         "mr (मराठी)": "नॉरफॉक बेट", 
         "ak (Akan)": "Nɔfolk Aeland", 
@@ -19436,7 +20202,9 @@
         "uz_Latn (o‘zbek)": "Norfolk oroli", 
         "es (español)": "Isla Norfolk", 
         "eu (euskara)": "Norfolk uhartea", 
-        "currency_code": "[\"AUD\"]", 
+        "currency_code": [
+            "AUD"
+        ], 
         "dz (རྫོང་ཁ)": "ནོར་ཕོལཀ་མཚོ་གླིང༌", 
         "mt (Malti)": "Norfolk Island", 
         "uk (українська)": "Острів Норфолк", 
@@ -19502,7 +20270,9 @@
         "am (አማርኛ)": "ናይጄሪያ", 
         "it (italiano)": "Nigeria", 
         "ky (кыргызча)": "Нигерия", 
-        "timezones": "[\"Africa/Lagos\"]", 
+        "timezones": [
+            "Africa/Lagos"
+        ], 
         "uz_Cyrl (Ўзбек)": "Нигерия", 
         "mr (मराठी)": "नायजेरिया", 
         "ak (Akan)": "Naegyeria", 
@@ -19557,7 +20327,9 @@
         "uz_Latn (o‘zbek)": "Nigeriya", 
         "es (español)": "Nigeria", 
         "eu (euskara)": "Nigeria", 
-        "currency_code": "[\"NGN\"]", 
+        "currency_code": [
+            "NGN"
+        ], 
         "dz (རྫོང་ཁ)": "ནཱའི་ཇི་རི་ཡ", 
         "mt (Malti)": "Niġerja", 
         "uk (українська)": "Нігерія", 
@@ -19624,7 +20396,9 @@
         "am (አማርኛ)": "ኒካራጓ", 
         "it (italiano)": "Nicaragua", 
         "ky (кыргызча)": "Никарагуа", 
-        "timezones": "[\"America/Managua\"]", 
+        "timezones": [
+            "America/Managua"
+        ], 
         "uz_Cyrl (Ўзбек)": "Никарагуа", 
         "mr (मराठी)": "निकाराग्वा", 
         "ak (Akan)": "Nekaraguwa", 
@@ -19679,7 +20453,9 @@
         "uz_Latn (o‘zbek)": "Nikaragua", 
         "es (español)": "Nicaragua", 
         "eu (euskara)": "Nikaragua", 
-        "currency_code": "[\"NIO\"]", 
+        "currency_code": [
+            "NIO"
+        ], 
         "dz (རྫོང་ཁ)": "ནི་ཀྲ་ཝ་ག", 
         "mt (Malti)": "Nikaragwa", 
         "uk (українська)": "Нікарагуа", 
@@ -19746,7 +20522,9 @@
         "am (አማርኛ)": "ኒኡይ", 
         "it (italiano)": "Niue", 
         "ky (кыргызча)": "Ниуэ", 
-        "timezones": "[\"Pacific/Niue\"]", 
+        "timezones": [
+            "Pacific/Niue"
+        ], 
         "uz_Cyrl (Ўзбек)": "Ниуе", 
         "mr (मराठी)": "नीयू", 
         "ak (Akan)": "Niyu", 
@@ -19800,7 +20578,9 @@
         "uz_Latn (o‘zbek)": "Niue", 
         "es (español)": "Niue", 
         "eu (euskara)": "Niue", 
-        "currency_code": "[\"NZD\"]", 
+        "currency_code": [
+            "NZD"
+        ], 
         "dz (རྫོང་ཁ)": "ནི་ཨུ་ཨཻ", 
         "mt (Malti)": "Niue", 
         "uk (українська)": "Ніуе", 
@@ -19866,7 +20646,9 @@
         "am (አማርኛ)": "ኔዘርላንድ", 
         "it (italiano)": "Paesi Bassi", 
         "ky (кыргызча)": "Нидерланддар", 
-        "timezones": "[\"Europe/Amsterdam\"]", 
+        "timezones": [
+            "Europe/Amsterdam"
+        ], 
         "uz_Cyrl (Ўзбек)": "Нидерландия", 
         "mr (मराठी)": "नेदरलँड", 
         "ak (Akan)": "Nɛdɛland", 
@@ -19921,7 +20703,9 @@
         "uz_Latn (o‘zbek)": "Niderlandiya", 
         "es (español)": "Países Bajos", 
         "eu (euskara)": "Herbehereak", 
-        "currency_code": "[\"EUR\"]", 
+        "currency_code": [
+            "EUR"
+        ], 
         "dz (རྫོང་ཁ)": "ནེ་དར་ལནཌས྄", 
         "mt (Malti)": "Olanda", 
         "uk (українська)": "Нідерланди", 
@@ -19988,7 +20772,9 @@
         "am (አማርኛ)": "ኖርዌይ", 
         "it (italiano)": "Norvegia", 
         "ky (кыргызча)": "Норвегия", 
-        "timezones": "[\"Europe/Oslo\"]", 
+        "timezones": [
+            "Europe/Oslo"
+        ], 
         "uz_Cyrl (Ўзбек)": "Норвегия", 
         "mr (मराठी)": "नॉर्वे", 
         "ak (Akan)": "Nɔɔwe", 
@@ -20043,7 +20829,9 @@
         "uz_Latn (o‘zbek)": "Norvegiya", 
         "es (español)": "Noruega", 
         "eu (euskara)": "Norvegia", 
-        "currency_code": "[\"NOK\"]", 
+        "currency_code": [
+            "NOK"
+        ], 
         "dz (རྫོང་ཁ)": "ནོར་ཝེ", 
         "mt (Malti)": "Norveġja", 
         "uk (українська)": "Норвегія", 
@@ -20110,7 +20898,9 @@
         "am (አማርኛ)": "ኔፓል", 
         "it (italiano)": "Nepal", 
         "ky (кыргызча)": "Непал", 
-        "timezones": "[\"Asia/Kathmandu\"]", 
+        "timezones": [
+            "Asia/Kathmandu"
+        ], 
         "uz_Cyrl (Ўзбек)": "Непал", 
         "mr (मराठी)": "नेपाळ", 
         "ak (Akan)": "Nɛpɔl", 
@@ -20165,7 +20955,9 @@
         "uz_Latn (o‘zbek)": "Nepal", 
         "es (español)": "Nepal", 
         "eu (euskara)": "Nepal", 
-        "currency_code": "[\"NPR\"]", 
+        "currency_code": [
+            "NPR"
+        ], 
         "dz (རྫོང་ཁ)": "བལ་ཡུལ", 
         "mt (Malti)": "Nepal", 
         "uk (українська)": "Непал", 
@@ -20232,7 +21024,9 @@
         "am (አማርኛ)": "ናኡሩ", 
         "it (italiano)": "Nauru", 
         "ky (кыргызча)": "Науру", 
-        "timezones": "[\"Pacific/Nauru\"]", 
+        "timezones": [
+            "Pacific/Nauru"
+        ], 
         "uz_Cyrl (Ўзбек)": "Науру", 
         "mr (मराठी)": "नाउरू", 
         "ak (Akan)": "Naworu", 
@@ -20287,7 +21081,9 @@
         "uz_Latn (o‘zbek)": "Nauru", 
         "es (español)": "Nauru", 
         "eu (euskara)": "Nauru", 
-        "currency_code": "[\"AUD\"]", 
+        "currency_code": [
+            "AUD"
+        ], 
         "dz (རྫོང་ཁ)": "ནའུ་རུ་", 
         "mt (Malti)": "Nauru", 
         "uk (українська)": "Науру", 
@@ -20353,7 +21149,10 @@
         "am (አማርኛ)": "ኒው ዚላንድ", 
         "it (italiano)": "Nuova Zelanda", 
         "ky (кыргызча)": "Жаӊы Зеландия", 
-        "timezones": "[\"Pacific/Auckland\", \"Pacific/Chatham\"]", 
+        "timezones": [
+            "Pacific/Auckland", 
+            "Pacific/Chatham"
+        ], 
         "uz_Cyrl (Ўзбек)": "Янги Зеландия", 
         "mr (मराठी)": "न्यूझीलंड", 
         "ak (Akan)": "Ziland Foforo", 
@@ -20407,7 +21206,9 @@
         "uz_Latn (o‘zbek)": "Yangi Zelandiya", 
         "es (español)": "Nueva Zelanda", 
         "eu (euskara)": "Zeelanda Berria", 
-        "currency_code": "[\"NZD\"]", 
+        "currency_code": [
+            "NZD"
+        ], 
         "dz (རྫོང་ཁ)": "ནིའུ་ཛི་ལེནཌ", 
         "mt (Malti)": "New Zealand", 
         "uk (українська)": "Нова Зеландія", 
@@ -20474,7 +21275,9 @@
         "am (አማርኛ)": "ኦማን", 
         "it (italiano)": "Oman", 
         "ky (кыргызча)": "Оман", 
-        "timezones": "[\"Asia/Muscat\"]", 
+        "timezones": [
+            "Asia/Muscat"
+        ], 
         "uz_Cyrl (Ўзбек)": "Уммон", 
         "mr (मराठी)": "ओमान", 
         "ak (Akan)": "Oman", 
@@ -20529,7 +21332,9 @@
         "uz_Latn (o‘zbek)": "Ummon", 
         "es (español)": "Omán", 
         "eu (euskara)": "Oman", 
-        "currency_code": "[\"OMR\"]", 
+        "currency_code": [
+            "OMR"
+        ], 
         "dz (རྫོང་ཁ)": "ཨོ་མཱན", 
         "mt (Malti)": "Oman", 
         "uk (українська)": "Оман", 
@@ -20595,7 +21400,9 @@
         "am (አማርኛ)": "ፓኪስታን", 
         "it (italiano)": "Pakistan", 
         "ky (кыргызча)": "Пакистан", 
-        "timezones": "[\"Asia/Karachi\"]", 
+        "timezones": [
+            "Asia/Karachi"
+        ], 
         "uz_Cyrl (Ўзбек)": "Покистон", 
         "mr (मराठी)": "पाकिस्तान", 
         "ak (Akan)": "Pakistan", 
@@ -20651,7 +21458,9 @@
         "uz_Latn (o‘zbek)": "Pokiston", 
         "es (español)": "Pakistán", 
         "eu (euskara)": "Pakistan", 
-        "currency_code": "[\"PKR\"]", 
+        "currency_code": [
+            "PKR"
+        ], 
         "dz (རྫོང་ཁ)": "པ་ཀི་སཏཱན", 
         "mt (Malti)": "Pakistan", 
         "uk (українська)": "Пакистан", 
@@ -20719,7 +21528,9 @@
         "am (አማርኛ)": "ፓናማ", 
         "it (italiano)": "Panamá", 
         "ky (кыргызча)": "Панама", 
-        "timezones": "[\"America/Panama\"]", 
+        "timezones": [
+            "America/Panama"
+        ], 
         "uz_Cyrl (Ўзбек)": "Панама", 
         "mr (मराठी)": "पनामा", 
         "ak (Akan)": "Panama", 
@@ -20774,7 +21585,10 @@
         "uz_Latn (o‘zbek)": "Panama", 
         "es (español)": "Panamá", 
         "eu (euskara)": "Panama", 
-        "currency_code": "[\"PAB\", \"USD\"]", 
+        "currency_code": [
+            "PAB", 
+            "USD"
+        ], 
         "dz (རྫོང་ཁ)": "པ་ན་མ", 
         "mt (Malti)": "Panama", 
         "uk (українська)": "Панама", 
@@ -20839,7 +21653,9 @@
         "am (አማርኛ)": "ፒትካኢርን አይስላንድ", 
         "it (italiano)": "Isole Pitcairn", 
         "ky (кыргызча)": "Питкэрн аралдары", 
-        "timezones": "[\"Pacific/Pitcairn\"]", 
+        "timezones": [
+            "Pacific/Pitcairn"
+        ], 
         "uz_Cyrl (Ўзбек)": "Питкарин ороллари", 
         "mr (मराठी)": "पिटकैर्न बेटे", 
         "ak (Akan)": "Pitcairn", 
@@ -20894,7 +21710,9 @@
         "uz_Latn (o‘zbek)": "Pitkern orollari", 
         "es (español)": "Islas Pitcairn", 
         "eu (euskara)": "Pitcairn uharteak", 
-        "currency_code": "[\"NZD\"]", 
+        "currency_code": [
+            "NZD"
+        ], 
         "dz (རྫོང་ཁ)": "པིཊ་ཀེ་ཡེརན་གླིང་ཚོམ", 
         "mt (Malti)": "Pitcairn", 
         "uk (українська)": "Острови Піткерн", 
@@ -20959,7 +21777,9 @@
         "am (አማርኛ)": "ፔሩ", 
         "it (italiano)": "Perù", 
         "ky (кыргызча)": "Перу", 
-        "timezones": "[\"America/Lima\"]", 
+        "timezones": [
+            "America/Lima"
+        ], 
         "uz_Cyrl (Ўзбек)": "Перу", 
         "mr (मराठी)": "पेरू", 
         "ak (Akan)": "Peru", 
@@ -21014,7 +21834,9 @@
         "uz_Latn (o‘zbek)": "Peru", 
         "es (español)": "Perú", 
         "eu (euskara)": "Peru", 
-        "currency_code": "[\"PEN\"]", 
+        "currency_code": [
+            "PEN"
+        ], 
         "dz (རྫོང་ཁ)": "པེ་རུ", 
         "mt (Malti)": "Peru", 
         "uk (українська)": "Перу", 
@@ -21080,7 +21902,9 @@
         "am (አማርኛ)": "ፊሊፒንስ", 
         "it (italiano)": "Filippine", 
         "ky (кыргызча)": "Филлипин", 
-        "timezones": "[\"Asia/Manila\"]", 
+        "timezones": [
+            "Asia/Manila"
+        ], 
         "uz_Cyrl (Ўзбек)": "Филиппин", 
         "mr (मराठी)": "फिलिपिन्स", 
         "ak (Akan)": "Philippines", 
@@ -21135,7 +21959,9 @@
         "uz_Latn (o‘zbek)": "Filippin", 
         "es (español)": "Filipinas", 
         "eu (euskara)": "Filipinak", 
-        "currency_code": "[\"PHP\"]", 
+        "currency_code": [
+            "PHP"
+        ], 
         "dz (རྫོང་ཁ)": "ཕི་ལི་པིནས", 
         "mt (Malti)": "Filippini", 
         "uk (українська)": "Філіппіни", 
@@ -21200,7 +22026,9 @@
         "am (አማርኛ)": "ፓላው", 
         "it (italiano)": "Palau", 
         "ky (кыргызча)": "Палау", 
-        "timezones": "[\"Pacific/Palau\"]", 
+        "timezones": [
+            "Pacific/Palau"
+        ], 
         "uz_Cyrl (Ўзбек)": "Палау", 
         "mr (मराठी)": "पलाऊ", 
         "ak (Akan)": "Palau", 
@@ -21255,7 +22083,9 @@
         "uz_Latn (o‘zbek)": "Palau", 
         "es (español)": "Palaos", 
         "eu (euskara)": "Palau", 
-        "currency_code": "[\"USD\"]", 
+        "currency_code": [
+            "USD"
+        ], 
         "dz (རྫོང་ཁ)": "པ་ལའུ", 
         "mt (Malti)": "Palau", 
         "uk (українська)": "Палау", 
@@ -21321,7 +22151,10 @@
         "am (አማርኛ)": "ፓፑዋ ኒው ጊኒ", 
         "it (italiano)": "Papua Nuova Guinea", 
         "ky (кыргызча)": "Папуа Жаңы-Гвинея", 
-        "timezones": "[\"Pacific/Port_Moresby\", \"Pacific/Bougainville\"]", 
+        "timezones": [
+            "Pacific/Port_Moresby", 
+            "Pacific/Bougainville"
+        ], 
         "uz_Cyrl (Ўзбек)": "Папуа Янги Гвинея", 
         "mr (मराठी)": "पापुआ न्यू गिनी", 
         "ak (Akan)": "Papua Guinea Foforo", 
@@ -21376,7 +22209,9 @@
         "uz_Latn (o‘zbek)": "Papua – Yangi Gvineya", 
         "es (español)": "Papúa Nueva Guinea", 
         "eu (euskara)": "Papua Ginea Berria", 
-        "currency_code": "[\"PGK\"]", 
+        "currency_code": [
+            "PGK"
+        ], 
         "dz (རྫོང་ཁ)": "པ་པུ་ ནིའུ་གི་ནི", 
         "mt (Malti)": "Papwa-Ginea Ġdida", 
         "uk (українська)": "Папуа Нова Гвінея", 
@@ -21442,7 +22277,9 @@
         "am (አማርኛ)": "ፖላንድ", 
         "it (italiano)": "Polonia", 
         "ky (кыргызча)": "Польша", 
-        "timezones": "[\"Europe/Warsaw\"]", 
+        "timezones": [
+            "Europe/Warsaw"
+        ], 
         "uz_Cyrl (Ўзбек)": "Польша", 
         "mr (मराठी)": "पोलंड", 
         "ak (Akan)": "Poland", 
@@ -21497,7 +22334,9 @@
         "uz_Latn (o‘zbek)": "Polsha", 
         "es (español)": "Polonia", 
         "eu (euskara)": "Polonia", 
-        "currency_code": "[\"PLN\"]", 
+        "currency_code": [
+            "PLN"
+        ], 
         "dz (རྫོང་ཁ)": "པོ་ལེནཌ", 
         "mt (Malti)": "Polonja", 
         "uk (українська)": "Польща", 
@@ -21563,7 +22402,9 @@
         "am (አማርኛ)": "ፖርታ ሪኮ", 
         "it (italiano)": "Portorico", 
         "ky (кыргызча)": "Пуэрто-Рико", 
-        "timezones": "[\"America/Puerto_Rico\"]", 
+        "timezones": [
+            "America/Puerto_Rico"
+        ], 
         "uz_Cyrl (Ўзбек)": "Пуэрто-Рико", 
         "mr (मराठी)": "प्युएर्तो रिको", 
         "ak (Akan)": "Puɛto Riko", 
@@ -21618,7 +22459,9 @@
         "uz_Latn (o‘zbek)": "Puerto-Riko", 
         "es (español)": "Puerto Rico", 
         "eu (euskara)": "Puerto Rico", 
-        "currency_code": "[\"USD\"]", 
+        "currency_code": [
+            "USD"
+        ], 
         "dz (རྫོང་ཁ)": "པུ་འེར་ཊོ་རི་ཁོ", 
         "mt (Malti)": "Puerto Rico", 
         "uk (українська)": "Пуерто-Рико", 
@@ -21683,7 +22526,9 @@
         "am (አማርኛ)": "ሰሜን ኮሪያ", 
         "it (italiano)": "Corea del Nord", 
         "ky (кыргызча)": "Түндүк Корея", 
-        "timezones": "[\"Asia/Pyongyang\"]", 
+        "timezones": [
+            "Asia/Pyongyang"
+        ], 
         "uz_Cyrl (Ўзбек)": "Шимолий Корея", 
         "mr (मराठी)": "उत्तर कोरिया", 
         "ak (Akan)": "Etifi Koria", 
@@ -21738,7 +22583,9 @@
         "uz_Latn (o‘zbek)": "Shimoliy Koreya", 
         "es (español)": "Corea del Norte", 
         "eu (euskara)": "Ipar Korea", 
-        "currency_code": "[\"KPW\"]", 
+        "currency_code": [
+            "KPW"
+        ], 
         "dz (རྫོང་ཁ)": "བྱང་ ཀོ་རི་ཡ", 
         "mt (Malti)": "Koreja ta’ Fuq", 
         "uk (українська)": "Північна Корея", 
@@ -21804,7 +22651,11 @@
         "am (አማርኛ)": "ፖርቱጋል", 
         "it (italiano)": "Portogallo", 
         "ky (кыргызча)": "Португалия", 
-        "timezones": "[\"Europe/Lisbon\", \"Atlantic/Madeira\", \"Atlantic/Azores\"]", 
+        "timezones": [
+            "Europe/Lisbon", 
+            "Atlantic/Madeira", 
+            "Atlantic/Azores"
+        ], 
         "uz_Cyrl (Ўзбек)": "Португалия", 
         "mr (मराठी)": "पोर्तुगाल", 
         "ak (Akan)": "Pɔtugal", 
@@ -21859,7 +22710,9 @@
         "uz_Latn (o‘zbek)": "Portugaliya", 
         "es (español)": "Portugal", 
         "eu (euskara)": "Portugal", 
-        "currency_code": "[\"EUR\"]", 
+        "currency_code": [
+            "EUR"
+        ], 
         "dz (རྫོང་ཁ)": "པོར་ཅུ་གཱལ", 
         "mt (Malti)": "Portugall", 
         "uk (українська)": "Португалія", 
@@ -21926,7 +22779,9 @@
         "am (አማርኛ)": "ፓራጓይ", 
         "it (italiano)": "Paraguay", 
         "ky (кыргызча)": "Парагвай", 
-        "timezones": "[\"America/Asuncion\"]", 
+        "timezones": [
+            "America/Asuncion"
+        ], 
         "uz_Cyrl (Ўзбек)": "Парагвай", 
         "mr (मराठी)": "पराग्वे", 
         "ak (Akan)": "Paraguay", 
@@ -21981,7 +22836,9 @@
         "uz_Latn (o‘zbek)": "Paragvay", 
         "es (español)": "Paraguay", 
         "eu (euskara)": "Paraguai", 
-        "currency_code": "[\"PYG\"]", 
+        "currency_code": [
+            "PYG"
+        ], 
         "dz (རྫོང་ཁ)": "པ་ར་གུ་ཝའི", 
         "mt (Malti)": "Paragwaj", 
         "uk (українська)": "Парагвай", 
@@ -22045,7 +22902,10 @@
         "am (አማርኛ)": "የፍልስጤም ግዛት", 
         "it (italiano)": "Territori palestinesi", 
         "ky (кыргызча)": "Палестина аймактары", 
-        "timezones": "[\"Asia/Gaza\", \"Asia/Hebron\"]", 
+        "timezones": [
+            "Asia/Gaza", 
+            "Asia/Hebron"
+        ], 
         "uz_Cyrl (Ўзбек)": "Фаластин ҳудуди", 
         "mr (मराठी)": "पॅलेस्टिनियन प्रदेश", 
         "ak (Akan)": "Palestaen West Bank ne Gaza", 
@@ -22165,7 +23025,11 @@
         "am (አማርኛ)": "የፈረንሳይ ፖሊኔዢያ", 
         "it (italiano)": "Polinesia francese", 
         "ky (кыргызча)": "Француз Полинезиясы", 
-        "timezones": "[\"Pacific/Tahiti\", \"Pacific/Marquesas\", \"Pacific/Gambier\"]", 
+        "timezones": [
+            "Pacific/Tahiti", 
+            "Pacific/Marquesas", 
+            "Pacific/Gambier"
+        ], 
         "uz_Cyrl (Ўзбек)": "Француз Полинезияси", 
         "mr (मराठी)": "फ्रेंच पॉलिनेशिया", 
         "ak (Akan)": "Frɛnkye Pɔlenehyia", 
@@ -22220,7 +23084,9 @@
         "uz_Latn (o‘zbek)": "Fransuz Polineziyasi", 
         "es (español)": "Polinesia Francesa", 
         "eu (euskara)": "Polinesia Frantsesa", 
-        "currency_code": "[\"XPF\"]", 
+        "currency_code": [
+            "XPF"
+        ], 
         "dz (རྫོང་ཁ)": "ཕྲཱནས྄་ཀྱི་པོ་ལི་ནི་ཤི་ཡ", 
         "mt (Malti)": "Polinesja Franċiża", 
         "uk (українська)": "Французька Полінезія", 
@@ -22285,7 +23151,9 @@
         "am (አማርኛ)": "ኳታር", 
         "it (italiano)": "Qatar", 
         "ky (кыргызча)": "Катар", 
-        "timezones": "[\"Asia/Qatar\"]", 
+        "timezones": [
+            "Asia/Qatar"
+        ], 
         "uz_Cyrl (Ўзбек)": "Қатар", 
         "mr (मराठी)": "कतार", 
         "ak (Akan)": "Kata", 
@@ -22340,7 +23208,9 @@
         "uz_Latn (o‘zbek)": "Qatar", 
         "es (español)": "Catar", 
         "eu (euskara)": "Qatar", 
-        "currency_code": "[\"QAR\"]", 
+        "currency_code": [
+            "QAR"
+        ], 
         "dz (རྫོང་ཁ)": "ཀ་ཊར", 
         "mt (Malti)": "Qatar", 
         "uk (українська)": "Катар", 
@@ -22405,7 +23275,9 @@
         "am (አማርኛ)": "ሪዩኒየን", 
         "it (italiano)": "Riunione", 
         "ky (кыргызча)": "Реюнион", 
-        "timezones": "[\"Indian/Reunion\"]", 
+        "timezones": [
+            "Indian/Reunion"
+        ], 
         "uz_Cyrl (Ўзбек)": "Реюньон", 
         "mr (मराठी)": "रियुनियन", 
         "ak (Akan)": "Reyuniɔn", 
@@ -22459,7 +23331,9 @@
         "uz_Latn (o‘zbek)": "Reyunion", 
         "es (español)": "Reunión", 
         "eu (euskara)": "Reunion", 
-        "currency_code": "[\"EUR\"]", 
+        "currency_code": [
+            "EUR"
+        ], 
         "dz (རྫོང་ཁ)": "རེ་ཡུ་ནི་ཡོན", 
         "mt (Malti)": "Réunion", 
         "uk (українська)": "Реюньйон", 
@@ -22525,7 +23399,9 @@
         "am (አማርኛ)": "ሮሜኒያ", 
         "it (italiano)": "Romania", 
         "ky (кыргызча)": "Румыния", 
-        "timezones": "[\"Europe/Bucharest\"]", 
+        "timezones": [
+            "Europe/Bucharest"
+        ], 
         "uz_Cyrl (Ўзбек)": "Руминия", 
         "mr (मराठी)": "रोमानिया", 
         "ak (Akan)": "Romenia", 
@@ -22579,7 +23455,9 @@
         "uz_Latn (o‘zbek)": "Ruminiya", 
         "es (español)": "Rumanía", 
         "eu (euskara)": "Errumania", 
-        "currency_code": "[\"RON\"]", 
+        "currency_code": [
+            "RON"
+        ], 
         "dz (རྫོང་ཁ)": "རོ་མེ་ནི་ཡ", 
         "mt (Malti)": "Rumanija", 
         "uk (українська)": "Румунія", 
@@ -22647,7 +23525,35 @@
         "it (italiano)": "Russia", 
         "cu (церковнослове́нскїй)": "рѡссі́а", 
         "ky (кыргызча)": "Россия", 
-        "timezones": "[\"Europe/Kaliningrad\", \"Europe/Moscow\", \"Europe/Simferopol\", \"Europe/Volgograd\", \"Europe/Kirov\", \"Europe/Astrakhan\", \"Europe/Saratov\", \"Europe/Ulyanovsk\", \"Europe/Samara\", \"Asia/Yekaterinburg\", \"Asia/Omsk\", \"Asia/Novosibirsk\", \"Asia/Barnaul\", \"Asia/Tomsk\", \"Asia/Novokuznetsk\", \"Asia/Krasnoyarsk\", \"Asia/Irkutsk\", \"Asia/Chita\", \"Asia/Yakutsk\", \"Asia/Khandyga\", \"Asia/Vladivostok\", \"Asia/Ust-Nera\", \"Asia/Magadan\", \"Asia/Sakhalin\", \"Asia/Srednekolymsk\", \"Asia/Kamchatka\", \"Asia/Anadyr\"]", 
+        "timezones": [
+            "Europe/Kaliningrad", 
+            "Europe/Moscow", 
+            "Europe/Simferopol", 
+            "Europe/Volgograd", 
+            "Europe/Kirov", 
+            "Europe/Astrakhan", 
+            "Europe/Saratov", 
+            "Europe/Ulyanovsk", 
+            "Europe/Samara", 
+            "Asia/Yekaterinburg", 
+            "Asia/Omsk", 
+            "Asia/Novosibirsk", 
+            "Asia/Barnaul", 
+            "Asia/Tomsk", 
+            "Asia/Novokuznetsk", 
+            "Asia/Krasnoyarsk", 
+            "Asia/Irkutsk", 
+            "Asia/Chita", 
+            "Asia/Yakutsk", 
+            "Asia/Khandyga", 
+            "Asia/Vladivostok", 
+            "Asia/Ust-Nera", 
+            "Asia/Magadan", 
+            "Asia/Sakhalin", 
+            "Asia/Srednekolymsk", 
+            "Asia/Kamchatka", 
+            "Asia/Anadyr"
+        ], 
         "uz_Cyrl (Ўзбек)": "Россия", 
         "mr (मराठी)": "रशिया", 
         "ak (Akan)": "Rɔhyea", 
@@ -22707,7 +23613,9 @@
         "uz_Latn (o‘zbek)": "Rossiya", 
         "es (español)": "Rusia", 
         "eu (euskara)": "Errusia", 
-        "currency_code": "[\"RUB\"]", 
+        "currency_code": [
+            "RUB"
+        ], 
         "dz (རྫོང་ཁ)": "ཨུ་རུ་སུ", 
         "mt (Malti)": "Ir-Russja", 
         "uk (українська)": "Росія", 
@@ -22775,7 +23683,9 @@
         "am (አማርኛ)": "ሩዋንዳ", 
         "it (italiano)": "Ruanda", 
         "ky (кыргызча)": "Руанда", 
-        "timezones": "[\"Africa/Kigali\"]", 
+        "timezones": [
+            "Africa/Kigali"
+        ], 
         "uz_Cyrl (Ўзбек)": "Руанда", 
         "mr (मराठी)": "रवांडा", 
         "ak (Akan)": "Rwanda", 
@@ -22831,7 +23741,9 @@
         "rw (Kinyarwanda)": "Rwanda", 
         "es (español)": "Ruanda", 
         "eu (euskara)": "Ruanda", 
-        "currency_code": "[\"RWF\"]", 
+        "currency_code": [
+            "RWF"
+        ], 
         "dz (རྫོང་ཁ)": "རུ་ཝན་ཌ", 
         "mt (Malti)": "Rwanda", 
         "uk (українська)": "Руанда", 
@@ -22898,7 +23810,9 @@
         "am (አማርኛ)": "ሳውድአረቢያ", 
         "it (italiano)": "Arabia Saudita", 
         "ky (кыргызча)": "Сауд Арабиясы", 
-        "timezones": "[\"Asia/Riyadh\"]", 
+        "timezones": [
+            "Asia/Riyadh"
+        ], 
         "uz_Cyrl (Ўзбек)": "Саудия Арабистони", 
         "mr (मराठी)": "सौदी अरब", 
         "ak (Akan)": "Saudi Arabia", 
@@ -22953,7 +23867,9 @@
         "uz_Latn (o‘zbek)": "Saudiya Arabistoni", 
         "es (español)": "Arabia Saudí", 
         "eu (euskara)": "Saudi Arabia", 
-        "currency_code": "[\"SAR\"]", 
+        "currency_code": [
+            "SAR"
+        ], 
         "dz (རྫོང་ཁ)": "སཱཝ་དི་ ཨ་རེ་བྷི་ཡ", 
         "mt (Malti)": "Għarabja Sawdita", 
         "uk (українська)": "Саудівська Аравія", 
@@ -23020,7 +23936,9 @@
         "am (አማርኛ)": "ሱዳን", 
         "it (italiano)": "Sudan", 
         "ky (кыргызча)": "Судан", 
-        "timezones": "[\"Africa/Khartoum\"]", 
+        "timezones": [
+            "Africa/Khartoum"
+        ], 
         "uz_Cyrl (Ўзбек)": "Судан", 
         "mr (मराठी)": "सुदान", 
         "ak (Akan)": "Sudan", 
@@ -23075,7 +23993,9 @@
         "uz_Latn (o‘zbek)": "Sudan", 
         "es (español)": "Sudán", 
         "eu (euskara)": "Sudan", 
-        "currency_code": "[\"SDG\"]", 
+        "currency_code": [
+            "SDG"
+        ], 
         "dz (རྫོང་ཁ)": "སུ་ཌཱན", 
         "mt (Malti)": "Sudan", 
         "uk (українська)": "Судан", 
@@ -23141,7 +24061,9 @@
         "am (አማርኛ)": "ሴኔጋል", 
         "it (italiano)": "Senegal", 
         "ky (кыргызча)": "Сенегал", 
-        "timezones": "[\"Africa/Dakar\"]", 
+        "timezones": [
+            "Africa/Dakar"
+        ], 
         "uz_Cyrl (Ўзбек)": "Сенегал", 
         "mr (मराठी)": "सेनेगल", 
         "ak (Akan)": "Senegal", 
@@ -23196,7 +24118,9 @@
         "uz_Latn (o‘zbek)": "Senegal", 
         "es (español)": "Senegal", 
         "eu (euskara)": "Senegal", 
-        "currency_code": "[\"XOF\"]", 
+        "currency_code": [
+            "XOF"
+        ], 
         "dz (རྫོང་ཁ)": "སེ་ནི་གྷལ", 
         "mt (Malti)": "Senegal", 
         "uk (українська)": "Сенегал", 
@@ -23262,7 +24186,9 @@
         "am (አማርኛ)": "ሲንጋፖር", 
         "it (italiano)": "Singapore", 
         "ky (кыргызча)": "Сингапур", 
-        "timezones": "[\"Asia/Singapore\"]", 
+        "timezones": [
+            "Asia/Singapore"
+        ], 
         "uz_Cyrl (Ўзбек)": "Сингапур", 
         "mr (मराठी)": "सिंगापूर", 
         "ak (Akan)": "Singapɔ", 
@@ -23317,7 +24243,9 @@
         "uz_Latn (o‘zbek)": "Singapur", 
         "es (español)": "Singapur", 
         "eu (euskara)": "Singapur", 
-        "currency_code": "[\"SGD\"]", 
+        "currency_code": [
+            "SGD"
+        ], 
         "dz (རྫོང་ཁ)": "སིང་ག་པོར", 
         "mt (Malti)": "Singapor", 
         "uk (українська)": "Сінгапур", 
@@ -23376,7 +24304,9 @@
         "am (አማርኛ)": "ደቡብ ጆርጂያ እና የደቡብ ሳንድዊች ደሴቶች", 
         "it (italiano)": "Georgia del Sud e isole Sandwich australi", 
         "ky (кыргызча)": "Түштүк Жоржия жана Түштүк Сэндвич аралдары", 
-        "timezones": "[\"Atlantic/South_Georgia\"]", 
+        "timezones": [
+            "Atlantic/South_Georgia"
+        ], 
         "uz_Cyrl (Ўзбек)": "Жанубий Джорджия ва Жанубий Сендвич ороллари", 
         "mr (मराठी)": "दक्षिण जॉर्जिया आणि दक्षिण सँडविच बेटे", 
         "nn (nynorsk)": "Sør-Georgia og Sør-Sandwich-øyane", 
@@ -23427,7 +24357,9 @@
         "uz_Latn (o‘zbek)": "Janubiy Georgiya va Janubiy Sendvich orollari", 
         "es (español)": "Islas Georgia del Sur y Sandwich del Sur", 
         "eu (euskara)": "Hegoaldeko Georgia eta Hegoaldeko Sandwich uharteak", 
-        "currency_code": "[\"GBP\"]", 
+        "currency_code": [
+            "GBP"
+        ], 
         "dz (རྫོང་ཁ)": "སཱའུཐ་ཇཽར་ཇཱ་ དང་ སཱའུཐ་སེནཌ྄་ཝིཅ་གླིང་ཚོམ", 
         "mt (Malti)": "South Georgia and the South Sandwich Islands", 
         "uk (українська)": "Південна Джорджія та Південні Сандвічеві острови", 
@@ -23488,7 +24420,9 @@
         "am (አማርኛ)": "ሴንት ሄለና", 
         "it (italiano)": "Sant’Elena", 
         "ky (кыргызча)": "Ыйык Елена", 
-        "timezones": "[\"Atlantic/St_Helena\"]", 
+        "timezones": [
+            "Atlantic/St_Helena"
+        ], 
         "uz_Cyrl (Ўзбек)": "Муқаддас Елена ороллари", 
         "mr (मराठी)": "सेंट हेलेना", 
         "ak (Akan)": "Saint Helena", 
@@ -23542,7 +24476,9 @@
         "uz_Latn (o‘zbek)": "Muqaddas Yelena oroli", 
         "es (español)": "Santa Elena", 
         "eu (euskara)": "Saint Helena", 
-        "currency_code": "[\"SHP\"]", 
+        "currency_code": [
+            "SHP"
+        ], 
         "dz (རྫོང་ཁ)": "སེནཊ་ ཧེ་ལི་ན", 
         "mt (Malti)": "Saint Helena", 
         "uk (українська)": "Острів Святої Єлени", 
@@ -23601,7 +24537,9 @@
         "am (አማርኛ)": "ስቫልባርድ እና ጃን ማየን", 
         "it (italiano)": "Svalbard e Jan Mayen", 
         "ky (кыргызча)": "Свалбард жана Жан Майен", 
-        "timezones": "[\"Arctic/Longyearbyen\"]", 
+        "timezones": [
+            "Arctic/Longyearbyen"
+        ], 
         "uz_Cyrl (Ўзбек)": "Савльбард ва Жан Маен", 
         "mr (मराठी)": "स्वालबर्ड आणि जान मायेन", 
         "nn (nynorsk)": "Svalbard og Jan Mayen", 
@@ -23651,7 +24589,9 @@
         "uz_Latn (o‘zbek)": "Svalbard va Yan-Mayen", 
         "es (español)": "Svalbard y Jan Mayen", 
         "eu (euskara)": "Svalbard eta Jan Mayen uharteak", 
-        "currency_code": "[\"NOK\"]", 
+        "currency_code": [
+            "NOK"
+        ], 
         "dz (རྫོང་ཁ)": "སྭཱལ་བྷརྡ་ ཨེནཌ་ ཇཱན་མ་ཡེན", 
         "mt (Malti)": "Svalbard and Jan Mayen", 
         "uk (українська)": "Острови Свальбард і Ян-Маєн", 
@@ -23713,7 +24653,9 @@
         "am (አማርኛ)": "ሰሎሞን ደሴት", 
         "it (italiano)": "Isole Salomone", 
         "ky (кыргызча)": "Соломон аралдары", 
-        "timezones": "[\"Pacific/Guadalcanal\"]", 
+        "timezones": [
+            "Pacific/Guadalcanal"
+        ], 
         "uz_Cyrl (Ўзбек)": "Соломон ороллари", 
         "mr (मराठी)": "सोलोमन बेटे", 
         "ak (Akan)": "Solomon Islands", 
@@ -23767,7 +24709,9 @@
         "uz_Latn (o‘zbek)": "Solomon orollari", 
         "es (español)": "Islas Salomón", 
         "eu (euskara)": "Salomon uharteak", 
-        "currency_code": "[\"SBD\"]", 
+        "currency_code": [
+            "SBD"
+        ], 
         "dz (རྫོང་ཁ)": "སོ་ལོ་མོན་ གླིང་ཚོམ", 
         "mt (Malti)": "Solomon Islands", 
         "uk (українська)": "Соломонові Острови", 
@@ -23832,7 +24776,9 @@
         "am (አማርኛ)": "ሴራሊዮን", 
         "it (italiano)": "Sierra Leone", 
         "ky (кыргызча)": "Сьерра-Леоне", 
-        "timezones": "[\"Africa/Freetown\"]", 
+        "timezones": [
+            "Africa/Freetown"
+        ], 
         "uz_Cyrl (Ўзбек)": "Сьерра-Леоне", 
         "mr (मराठी)": "सिएरा लिओन", 
         "ak (Akan)": "Sierra Leone", 
@@ -23887,7 +24833,9 @@
         "uz_Latn (o‘zbek)": "Syerra-Leone", 
         "es (español)": "Sierra Leona", 
         "eu (euskara)": "Sierra Leona", 
-        "currency_code": "[\"SLL\"]", 
+        "currency_code": [
+            "SLL"
+        ], 
         "dz (རྫོང་ཁ)": "སི་ར་ ལི་འོན", 
         "mt (Malti)": "Sierra Leone", 
         "uk (українська)": "Сьєрра-Леоне", 
@@ -23953,7 +24901,9 @@
         "am (አማርኛ)": "ኤል ሳልቫዶር", 
         "it (italiano)": "El Salvador", 
         "ky (кыргызча)": "Эл Салвадор", 
-        "timezones": "[\"America/El_Salvador\"]", 
+        "timezones": [
+            "America/El_Salvador"
+        ], 
         "uz_Cyrl (Ўзбек)": "Эль-Сальвадор", 
         "mr (मराठी)": "अल साल्वाडोर", 
         "ak (Akan)": "Ɛl Salvadɔ", 
@@ -24008,7 +24958,9 @@
         "uz_Latn (o‘zbek)": "Salvador", 
         "es (español)": "El Salvador", 
         "eu (euskara)": "El Salvador", 
-        "currency_code": "[\"USD\"]", 
+        "currency_code": [
+            "USD"
+        ], 
         "dz (རྫོང་ཁ)": "ཨེལ་སལ་བ་ཌོར", 
         "mt (Malti)": "El Salvador", 
         "uk (українська)": "Сальвадор", 
@@ -24075,7 +25027,9 @@
         "am (አማርኛ)": "ሳን ማሪኖ", 
         "it (italiano)": "San Marino", 
         "ky (кыргызча)": "Сан Марино", 
-        "timezones": "[\"Europe/San_Marino\"]", 
+        "timezones": [
+            "Europe/San_Marino"
+        ], 
         "uz_Cyrl (Ўзбек)": "Сан-Марино", 
         "mr (मराठी)": "सॅन मरीनो", 
         "ak (Akan)": "San Marino", 
@@ -24130,7 +25084,9 @@
         "uz_Latn (o‘zbek)": "San-Marino", 
         "es (español)": "San Marino", 
         "eu (euskara)": "San Marino", 
-        "currency_code": "[\"EUR\"]", 
+        "currency_code": [
+            "EUR"
+        ], 
         "dz (རྫོང་ཁ)": "སཱན་མ་རི་ནོ", 
         "mt (Malti)": "San Marino", 
         "uk (українська)": "Сан-Марино", 
@@ -24196,7 +25152,9 @@
         "am (አማርኛ)": "ሱማሌ", 
         "it (italiano)": "Somalia", 
         "ky (кыргызча)": "Сомали", 
-        "timezones": "[\"Africa/Mogadishu\"]", 
+        "timezones": [
+            "Africa/Mogadishu"
+        ], 
         "uz_Cyrl (Ўзбек)": "Сомали", 
         "mr (मराठी)": "सोमालिया", 
         "ak (Akan)": "Somalia", 
@@ -24251,7 +25209,9 @@
         "uz_Latn (o‘zbek)": "Somali", 
         "es (español)": "Somalia", 
         "eu (euskara)": "Somalia", 
-        "currency_code": "[\"SOS\"]", 
+        "currency_code": [
+            "SOS"
+        ], 
         "dz (རྫོང་ཁ)": "སོ་མ་ལི་ཡ", 
         "mt (Malti)": "Somalja", 
         "uk (українська)": "Сомалі", 
@@ -24316,7 +25276,9 @@
         "am (አማርኛ)": "ቅዱስ ፒዬር እና ሚኩኤሎን", 
         "it (italiano)": "Saint Pierre e Miquelon", 
         "ky (кыргызча)": "Сен-Пьер жана Микелон", 
-        "timezones": "[\"America/Miquelon\"]", 
+        "timezones": [
+            "America/Miquelon"
+        ], 
         "uz_Cyrl (Ўзбек)": "Сент-Пьер ва Микелон", 
         "mr (मराठी)": "सेंट पियरे आणि मिक्वेलोन", 
         "ak (Akan)": "Saint Pierre ne Miquelon", 
@@ -24371,7 +25333,9 @@
         "uz_Latn (o‘zbek)": "Sent-Pyer va Mikelon", 
         "es (español)": "San Pedro y Miquelón", 
         "eu (euskara)": "Saint-Pierre eta Mikelune", 
-        "currency_code": "[\"EUR\"]", 
+        "currency_code": [
+            "EUR"
+        ], 
         "dz (རྫོང་ཁ)": "སིནཊ་པི་ཡེར་ ཨེནཌ་ མིཀོ་ལེན", 
         "mt (Malti)": "Saint Pierre and Miquelon", 
         "uk (українська)": "Сен-Пʼєр і Мікелон", 
@@ -24431,7 +25395,9 @@
         "am (አማርኛ)": "ሰርብያ", 
         "it (italiano)": "Serbia", 
         "ky (кыргызча)": "Сербия", 
-        "timezones": "[\"Europe/Belgrade\"]", 
+        "timezones": [
+            "Europe/Belgrade"
+        ], 
         "uz_Cyrl (Ўзбек)": "Сербия", 
         "mr (मराठी)": "सर्बिया", 
         "nn (nynorsk)": "Serbia", 
@@ -24481,7 +25447,9 @@
         "uz_Latn (o‘zbek)": "Serbiya", 
         "es (español)": "Serbia", 
         "eu (euskara)": "Serbia", 
-        "currency_code": "[\"RSD\"]", 
+        "currency_code": [
+            "RSD"
+        ], 
         "dz (རྫོང་ཁ)": "སཱར་བྷི་ཡ", 
         "uk (українська)": "Сербія", 
         "ks (کٲشُر)": "سَربِیا", 
@@ -24536,7 +25504,9 @@
         "am (አማርኛ)": "ደቡብ ሱዳን", 
         "it (italiano)": "Sud Sudan", 
         "ky (кыргызча)": "Түштүк Судан", 
-        "timezones": "[\"Africa/Juba\"]", 
+        "timezones": [
+            "Africa/Juba"
+        ], 
         "uz_Cyrl (Ўзбек)": "Жанубий Судан", 
         "mr (मराठी)": "दक्षिण सुदान", 
         "nn (nynorsk)": "Sør-Sudan", 
@@ -24586,7 +25556,9 @@
         "uz_Latn (o‘zbek)": "Janubiy Sudan", 
         "es (español)": "Sudán del Sur", 
         "eu (euskara)": "Hego Sudan", 
-        "currency_code": "[\"SSP\"]", 
+        "currency_code": [
+            "SSP"
+        ], 
         "dz (རྫོང་ཁ)": "སཱའུཐ་ སུ་ཌཱན", 
         "uk (українська)": "Південний Судан", 
         "cs (čeština)": "Jižní Súdán", 
@@ -24648,7 +25620,9 @@
         "am (አማርኛ)": "ሳኦ ቶሜ እና ፕሪንሲፔ", 
         "it (italiano)": "São Tomé e Príncipe", 
         "ky (кыргызча)": "Сан-Томе жана Принсипи", 
-        "timezones": "[\"Africa/Sao_Tome\"]", 
+        "timezones": [
+            "Africa/Sao_Tome"
+        ], 
         "uz_Cyrl (Ўзбек)": "Сан-Томе ва Принсипи", 
         "mr (मराठी)": "साओ टोम आणि प्रिंसिपे", 
         "ak (Akan)": "São Tomé and Príncipe", 
@@ -24703,7 +25677,9 @@
         "uz_Latn (o‘zbek)": "San-Tome va Prinsipi", 
         "es (español)": "Santo Tomé y Príncipe", 
         "eu (euskara)": "Sao Tome eta Principe", 
-        "currency_code": "[\"STD\"]", 
+        "currency_code": [
+            "STD"
+        ], 
         "dz (རྫོང་ཁ)": "སཝ་ ཊོ་མེ་ ཨེནཌ་ པྲྀན་སི་པེ", 
         "mt (Malti)": "Sao Tome and Principe", 
         "uk (українська)": "Сан-Томе і Прінсіпі", 
@@ -24769,7 +25745,9 @@
         "am (አማርኛ)": "ሱሪናም", 
         "it (italiano)": "Suriname", 
         "ky (кыргызча)": "Суринаме", 
-        "timezones": "[\"America/Paramaribo\"]", 
+        "timezones": [
+            "America/Paramaribo"
+        ], 
         "uz_Cyrl (Ўзбек)": "Суринам", 
         "mr (मराठी)": "सुरिनाम", 
         "ak (Akan)": "Suriname", 
@@ -24824,7 +25802,9 @@
         "uz_Latn (o‘zbek)": "Surinam", 
         "es (español)": "Surinam", 
         "eu (euskara)": "Surinam", 
-        "currency_code": "[\"SRD\"]", 
+        "currency_code": [
+            "SRD"
+        ], 
         "dz (རྫོང་ཁ)": "སུ་རི་ནཱམ", 
         "mt (Malti)": "Surinam", 
         "uk (українська)": "Суринам", 
@@ -24890,7 +25870,9 @@
         "am (አማርኛ)": "ስሎቫኪያ", 
         "it (italiano)": "Slovacchia", 
         "ky (кыргызча)": "Словакия", 
-        "timezones": "[\"Europe/Bratislava\"]", 
+        "timezones": [
+            "Europe/Bratislava"
+        ], 
         "uz_Cyrl (Ўзбек)": "Словакия", 
         "mr (मराठी)": "स्लोव्हाकिया", 
         "ak (Akan)": "Slovakia", 
@@ -24945,7 +25927,9 @@
         "uz_Latn (o‘zbek)": "Slovakiya", 
         "es (español)": "Eslovaquia", 
         "eu (euskara)": "Eslovakia", 
-        "currency_code": "[\"EUR\"]", 
+        "currency_code": [
+            "EUR"
+        ], 
         "dz (རྫོང་ཁ)": "སུ་ལོ་བཱ་ཀི་ཡ", 
         "mt (Malti)": "Slovakkja", 
         "uk (українська)": "Словаччина", 
@@ -25011,7 +25995,9 @@
         "am (አማርኛ)": "ስሎቬኒያ", 
         "it (italiano)": "Slovenia", 
         "ky (кыргызча)": "Словения", 
-        "timezones": "[\"Europe/Ljubljana\"]", 
+        "timezones": [
+            "Europe/Ljubljana"
+        ], 
         "uz_Cyrl (Ўзбек)": "Словения", 
         "mr (मराठी)": "स्लोव्हेनिया", 
         "ak (Akan)": "Slovinia", 
@@ -25066,7 +26052,9 @@
         "uz_Latn (o‘zbek)": "Sloveniya", 
         "es (español)": "Eslovenia", 
         "eu (euskara)": "Eslovenia", 
-        "currency_code": "[\"EUR\"]", 
+        "currency_code": [
+            "EUR"
+        ], 
         "dz (རྫོང་ཁ)": "སུ་ལོ་བི་ནི་ཡ", 
         "mt (Malti)": "Slovenja", 
         "uk (українська)": "Словенія", 
@@ -25132,7 +26120,9 @@
         "am (አማርኛ)": "ስዊድን", 
         "it (italiano)": "Svezia", 
         "ky (кыргызча)": "Швеция", 
-        "timezones": "[\"Europe/Stockholm\"]", 
+        "timezones": [
+            "Europe/Stockholm"
+        ], 
         "uz_Cyrl (Ўзбек)": "Швеция", 
         "mr (मराठी)": "स्वीडन", 
         "ak (Akan)": "Sweden", 
@@ -25187,7 +26177,9 @@
         "uz_Latn (o‘zbek)": "Shvetsiya", 
         "es (español)": "Suecia", 
         "eu (euskara)": "Suedia", 
-        "currency_code": "[\"SEK\"]", 
+        "currency_code": [
+            "SEK"
+        ], 
         "dz (རྫོང་ཁ)": "སུའི་ཌེན", 
         "mt (Malti)": "Żvezja", 
         "uk (українська)": "Швеція", 
@@ -25253,7 +26245,9 @@
         "am (አማርኛ)": "ሱዋዚላንድ", 
         "it (italiano)": "Swaziland", 
         "ky (кыргызча)": "Свазиленд", 
-        "timezones": "[\"Africa/Mbabane\"]", 
+        "timezones": [
+            "Africa/Mbabane"
+        ], 
         "uz_Cyrl (Ўзбек)": "Свазиленд", 
         "mr (मराठी)": "स्वाझिलँड", 
         "ak (Akan)": "Swaziland", 
@@ -25308,7 +26302,9 @@
         "uz_Latn (o‘zbek)": "Svazilend", 
         "es (español)": "Suazilandia", 
         "eu (euskara)": "Swazilandia", 
-        "currency_code": "[\"SZL\"]", 
+        "currency_code": [
+            "SZL"
+        ], 
         "dz (རྫོང་ཁ)": "སུ་ཝ་ཛི་ལེནཌ", 
         "mt (Malti)": "Sważiland", 
         "uk (українська)": "Свазіленд", 
@@ -25365,7 +26361,9 @@
         "am (አማርኛ)": "ሲንት ማርተን", 
         "it (italiano)": "Sint Maarten", 
         "ky (кыргызча)": "Синт Маартен", 
-        "timezones": "[\"America/Lower_Princes\"]", 
+        "timezones": [
+            "America/Lower_Princes"
+        ], 
         "uz_Cyrl (Ўзбек)": "Синт-Маартен", 
         "mr (मराठी)": "सिंट मार्टेन", 
         "nn (nynorsk)": "Nederlandsk St. Martin", 
@@ -25414,7 +26412,9 @@
         "uz_Latn (o‘zbek)": "Sint-Marten", 
         "es (español)": "Sint Maarten", 
         "eu (euskara)": "Sint Maarten", 
-        "currency_code": "[\"ANG\"]", 
+        "currency_code": [
+            "ANG"
+        ], 
         "dz (རྫོང་ཁ)": "སིནཊ་ མཱར་ཊེན", 
         "uk (українська)": "Сінт-Мартен", 
         "cs (čeština)": "Svatý Martin (Nizozemsko)", 
@@ -25472,7 +26472,9 @@
         "am (አማርኛ)": "ሲሼልስ", 
         "it (italiano)": "Seychelles", 
         "ky (кыргызча)": "Сейшелдер", 
-        "timezones": "[\"Indian/Mahe\"]", 
+        "timezones": [
+            "Indian/Mahe"
+        ], 
         "uz_Cyrl (Ўзбек)": "Сейшел ороллари", 
         "mr (मराठी)": "सेशेल्स", 
         "ak (Akan)": "Seyhyɛl", 
@@ -25527,7 +26529,9 @@
         "uz_Latn (o‘zbek)": "Seyshel orollari", 
         "es (español)": "Seychelles", 
         "eu (euskara)": "Seychelleak", 
-        "currency_code": "[\"SCR\"]", 
+        "currency_code": [
+            "SCR"
+        ], 
         "dz (རྫོང་ཁ)": "སེ་ཤཱལས", 
         "mt (Malti)": "Seychelles", 
         "uk (українська)": "Сейшельські острови", 
@@ -25591,7 +26595,9 @@
         "am (አማርኛ)": "ሲሪያ", 
         "it (italiano)": "Siria", 
         "ky (кыргызча)": "Сирия", 
-        "timezones": "[\"Asia/Damascus\"]", 
+        "timezones": [
+            "Asia/Damascus"
+        ], 
         "uz_Cyrl (Ўзбек)": "Сурия", 
         "mr (मराठी)": "सीरिया", 
         "ak (Akan)": "Siria", 
@@ -25646,7 +26652,9 @@
         "uz_Latn (o‘zbek)": "Suriya", 
         "es (español)": "Siria", 
         "eu (euskara)": "Siria", 
-        "currency_code": "[\"SYP\"]", 
+        "currency_code": [
+            "SYP"
+        ], 
         "dz (རྫོང་ཁ)": "སི་རི་ཡ", 
         "mt (Malti)": "Sirja", 
         "uk (українська)": "Сирія", 
@@ -25712,7 +26720,9 @@
         "am (አማርኛ)": "የቱርኮችና የካኢኮስ ደሴቶች", 
         "it (italiano)": "Isole Turks e Caicos", 
         "ky (кыргызча)": "Түркс жана Кайкос аралдары", 
-        "timezones": "[\"America/Grand_Turk\"]", 
+        "timezones": [
+            "America/Grand_Turk"
+        ], 
         "uz_Cyrl (Ўзбек)": "Туркс ва Кайкос ороллари", 
         "mr (मराठी)": "टर्क्स आणि कैकोस बेटे", 
         "ak (Akan)": "Turks ne Caicos Islands", 
@@ -25766,7 +26776,9 @@
         "uz_Latn (o‘zbek)": "Turks va Kaykos orollari", 
         "es (español)": "Islas Turcas y Caicos", 
         "eu (euskara)": "Turk eta Caicos uharteak", 
-        "currency_code": "[\"USD\"]", 
+        "currency_code": [
+            "USD"
+        ], 
         "dz (རྫོང་ཁ)": "ཏུརྐས྄་ ཨེནཌ་ ཀ་ཀོས་གླིང་ཚོམ", 
         "mt (Malti)": "Turks and Caicos Islands", 
         "uk (українська)": "Острови Теркс і Кайкос", 
@@ -25831,7 +26843,9 @@
         "am (አማርኛ)": "ቻድ", 
         "it (italiano)": "Ciad", 
         "ky (кыргызча)": "Чад", 
-        "timezones": "[\"Africa/Ndjamena\"]", 
+        "timezones": [
+            "Africa/Ndjamena"
+        ], 
         "uz_Cyrl (Ўзбек)": "Чад", 
         "mr (मराठी)": "चाड", 
         "ak (Akan)": "Kyad", 
@@ -25886,7 +26900,9 @@
         "uz_Latn (o‘zbek)": "Chad", 
         "es (español)": "Chad", 
         "eu (euskara)": "Txad", 
-        "currency_code": "[\"XAF\"]", 
+        "currency_code": [
+            "XAF"
+        ], 
         "dz (རྫོང་ཁ)": "ཅཱཌ", 
         "mt (Malti)": "Ċad", 
         "uk (українська)": "Чад", 
@@ -25951,7 +26967,9 @@
         "am (አማርኛ)": "ቶጐ", 
         "it (italiano)": "Togo", 
         "ky (кыргызча)": "Того", 
-        "timezones": "[\"Africa/Lome\"]", 
+        "timezones": [
+            "Africa/Lome"
+        ], 
         "uz_Cyrl (Ўзбек)": "Того", 
         "mr (मराठी)": "टोगो", 
         "ak (Akan)": "Togo", 
@@ -26006,7 +27024,9 @@
         "uz_Latn (o‘zbek)": "Togo", 
         "es (español)": "Togo", 
         "eu (euskara)": "Togo", 
-        "currency_code": "[\"XOF\"]", 
+        "currency_code": [
+            "XOF"
+        ], 
         "dz (རྫོང་ཁ)": "ཊོ་གྷོ", 
         "mt (Malti)": "Togo", 
         "uk (українська)": "Того", 
@@ -26071,7 +27091,9 @@
         "am (አማርኛ)": "ታይላንድ", 
         "it (italiano)": "Thailandia", 
         "ky (кыргызча)": "Таиланд", 
-        "timezones": "[\"Asia/Bangkok\"]", 
+        "timezones": [
+            "Asia/Bangkok"
+        ], 
         "uz_Cyrl (Ўзбек)": "Тайланд", 
         "mr (मराठी)": "थायलंड", 
         "ak (Akan)": "Taeland", 
@@ -26126,7 +27148,9 @@
         "uz_Latn (o‘zbek)": "Tailand", 
         "es (español)": "Tailandia", 
         "eu (euskara)": "Thailandia", 
-        "currency_code": "[\"THB\"]", 
+        "currency_code": [
+            "THB"
+        ], 
         "dz (རྫོང་ཁ)": "ཐཱའི་ལེནཌ", 
         "mt (Malti)": "Tajlandja", 
         "uk (українська)": "Таїланд", 
@@ -26191,7 +27215,9 @@
         "am (አማርኛ)": "ታጃኪስታን", 
         "it (italiano)": "Tagikistan", 
         "ky (кыргызча)": "Тажикстан", 
-        "timezones": "[\"Asia/Dushanbe\"]", 
+        "timezones": [
+            "Asia/Dushanbe"
+        ], 
         "uz_Cyrl (Ўзбек)": "Тожикистон", 
         "mr (मराठी)": "ताजिकिस्तान", 
         "ak (Akan)": "Tajikistan", 
@@ -26246,7 +27272,9 @@
         "uz_Latn (o‘zbek)": "Tojikiston", 
         "es (español)": "Tayikistán", 
         "eu (euskara)": "Tajikistan", 
-        "currency_code": "[\"TJS\"]", 
+        "currency_code": [
+            "TJS"
+        ], 
         "dz (རྫོང་ཁ)": "ཏ་ཇིག་གི་སཏཱན", 
         "mt (Malti)": "Taġikistan", 
         "uk (українська)": "Таджикистан", 
@@ -26312,7 +27340,9 @@
         "am (አማርኛ)": "ቶክላው", 
         "it (italiano)": "Tokelau", 
         "ky (кыргызча)": "Токелау", 
-        "timezones": "[\"Pacific/Fakaofo\"]", 
+        "timezones": [
+            "Pacific/Fakaofo"
+        ], 
         "uz_Cyrl (Ўзбек)": "Токелау", 
         "mr (मराठी)": "तोकेलाउ", 
         "ak (Akan)": "Tokelau", 
@@ -26366,7 +27396,9 @@
         "uz_Latn (o‘zbek)": "Tokelau", 
         "es (español)": "Tokelau", 
         "eu (euskara)": "Tokelau", 
-        "currency_code": "[\"NZD\"]", 
+        "currency_code": [
+            "NZD"
+        ], 
         "dz (རྫོང་ཁ)": "ཏོ་ཀེ་ལའུ་ མཚོ་གླིང", 
         "mt (Malti)": "Tokelaw", 
         "uk (українська)": "Токелау", 
@@ -26431,7 +27463,9 @@
         "am (አማርኛ)": "ቱርክሜኒስታን", 
         "it (italiano)": "Turkmenistan", 
         "ky (кыргызча)": "Түркмөнстан", 
-        "timezones": "[\"Asia/Ashgabat\"]", 
+        "timezones": [
+            "Asia/Ashgabat"
+        ], 
         "uz_Cyrl (Ўзбек)": "Туркманистон", 
         "mr (मराठी)": "तुर्कमेनिस्तान", 
         "ak (Akan)": "Tɛkmɛnistan", 
@@ -26485,7 +27519,9 @@
         "uz_Latn (o‘zbek)": "Turkmaniston", 
         "es (español)": "Turkmenistán", 
         "eu (euskara)": "Turkmenistan", 
-        "currency_code": "[\"TMT\"]", 
+        "currency_code": [
+            "TMT"
+        ], 
         "dz (རྫོང་ཁ)": "ཊཱརཀ་མེནའི་སཏཱན", 
         "mt (Malti)": "Turkmenistan", 
         "uk (українська)": "Туркменістан", 
@@ -26551,7 +27587,9 @@
         "am (አማርኛ)": "ምስራቅ ሌስት", 
         "it (italiano)": "Timor Leste", 
         "ky (кыргызча)": "Тимор-Лесте", 
-        "timezones": "[\"Asia/Dili\"]", 
+        "timezones": [
+            "Asia/Dili"
+        ], 
         "uz_Cyrl (Ўзбек)": "Шарқий-Тимор", 
         "mr (मराठी)": "पूर्व तिमोर", 
         "ak (Akan)": "Timɔ Boka", 
@@ -26606,7 +27644,9 @@
         "uz_Latn (o‘zbek)": "Timor", 
         "es (español)": "Timor Oriental", 
         "eu (euskara)": "Ekialdeko Timor", 
-        "currency_code": "[\"USD\"]", 
+        "currency_code": [
+            "USD"
+        ], 
         "dz (རྫོང་ཁ)": "ཏི་་མོར་ལེ་ཨེསཊ", 
         "mt (Malti)": "Timor tal-Lvant", 
         "uk (українська)": "Тимор-Лешті", 
@@ -26671,7 +27711,9 @@
         "am (አማርኛ)": "ቶንጋ", 
         "it (italiano)": "Tonga", 
         "ky (кыргызча)": "Тонга", 
-        "timezones": "[\"Pacific/Tongatapu\"]", 
+        "timezones": [
+            "Pacific/Tongatapu"
+        ], 
         "uz_Cyrl (Ўзбек)": "Тонга", 
         "mr (मराठी)": "टोंगा", 
         "ak (Akan)": "Tonga", 
@@ -26727,7 +27769,9 @@
         "rw (Kinyarwanda)": "Igitonga", 
         "es (español)": "Tonga", 
         "eu (euskara)": "Tonga", 
-        "currency_code": "[\"TOP\"]", 
+        "currency_code": [
+            "TOP"
+        ], 
         "dz (རྫོང་ཁ)": "ཊོང་གྷ", 
         "mt (Malti)": "Tonga", 
         "uk (українська)": "Тонга", 
@@ -26792,7 +27836,9 @@
         "am (አማርኛ)": "ትሪናዳድ እና ቶቤጎ", 
         "it (italiano)": "Trinidad e Tobago", 
         "ky (кыргызча)": "Тринидад жана Тобаго", 
-        "timezones": "[\"America/Port_of_Spain\"]", 
+        "timezones": [
+            "America/Port_of_Spain"
+        ], 
         "uz_Cyrl (Ўзбек)": "Тринидад ва Тобаго", 
         "mr (मराठी)": "त्रिनिदाद आणि टोबॅगो", 
         "ak (Akan)": "Trinidad ne Tobago", 
@@ -26847,7 +27893,9 @@
         "uz_Latn (o‘zbek)": "Trinidad va Tobago", 
         "es (español)": "Trinidad y Tobago", 
         "eu (euskara)": "Trinidad eta Tobago", 
-        "currency_code": "[\"TTD\"]", 
+        "currency_code": [
+            "TTD"
+        ], 
         "dz (རྫོང་ཁ)": "ཊི་ནི་ཌཱཌ་ ཨེནཌ་ ཊོ་བྷེ་གྷོ", 
         "mt (Malti)": "Trinidad u Tobago", 
         "uk (українська)": "Тринідад і Тобаго", 
@@ -26912,7 +27960,9 @@
         "am (አማርኛ)": "ቱኒዚያ", 
         "it (italiano)": "Tunisia", 
         "ky (кыргызча)": "Тунис", 
-        "timezones": "[\"Africa/Tunis\"]", 
+        "timezones": [
+            "Africa/Tunis"
+        ], 
         "uz_Cyrl (Ўзбек)": "Тунис", 
         "mr (मराठी)": "ट्यूनिशिया", 
         "ak (Akan)": "Tunihyia", 
@@ -26967,7 +28017,9 @@
         "uz_Latn (o‘zbek)": "Tunis", 
         "es (español)": "Túnez", 
         "eu (euskara)": "Tunisia", 
-        "currency_code": "[\"TND\"]", 
+        "currency_code": [
+            "TND"
+        ], 
         "dz (རྫོང་ཁ)": "ཊུ་ནི་ཤི་ཡ", 
         "mt (Malti)": "Tuneż", 
         "uk (українська)": "Туніс", 
@@ -27033,7 +28085,9 @@
         "am (አማርኛ)": "ቱርክ", 
         "it (italiano)": "Turchia", 
         "ky (кыргызча)": "Түркия", 
-        "timezones": "[\"Europe/Istanbul\"]", 
+        "timezones": [
+            "Europe/Istanbul"
+        ], 
         "uz_Cyrl (Ўзбек)": "Туркия", 
         "mr (मराठी)": "तुर्की", 
         "ak (Akan)": "Tɛɛki", 
@@ -27088,7 +28142,9 @@
         "uz_Latn (o‘zbek)": "Turkiya", 
         "es (español)": "Turquía", 
         "eu (euskara)": "Turkia", 
-        "currency_code": "[\"TRY\"]", 
+        "currency_code": [
+            "TRY"
+        ], 
         "dz (རྫོང་ཁ)": "ཊཱར་ཀི", 
         "mt (Malti)": "Turkija", 
         "uk (українська)": "Туреччина", 
@@ -27155,7 +28211,9 @@
         "am (አማርኛ)": "ቱቫሉ", 
         "it (italiano)": "Tuvalu", 
         "ky (кыргызча)": "Тувалу", 
-        "timezones": "[\"Pacific/Funafuti\"]", 
+        "timezones": [
+            "Pacific/Funafuti"
+        ], 
         "uz_Cyrl (Ўзбек)": "Тувалу", 
         "mr (मराठी)": "टुवालु", 
         "ak (Akan)": "Tuvalu", 
@@ -27209,7 +28267,10 @@
         "uz_Latn (o‘zbek)": "Tuvalu", 
         "es (español)": "Tuvalu", 
         "eu (euskara)": "Tuvalu", 
-        "currency_code": "[\"TVD\", \"AUD\"]", 
+        "currency_code": [
+            "TVD", 
+            "AUD"
+        ], 
         "dz (རྫོང་ཁ)": "ཏུ་ཝ་ལུ", 
         "mt (Malti)": "Tuvalu", 
         "uk (українська)": "Тувалу", 
@@ -27274,7 +28335,9 @@
         "am (አማርኛ)": "ታይዋን", 
         "it (italiano)": "Taiwan", 
         "ky (кыргызча)": "Тайвань", 
-        "timezones": "[\"Asia/Taipei\"]", 
+        "timezones": [
+            "Asia/Taipei"
+        ], 
         "uz_Cyrl (Ўзбек)": "Тайван", 
         "mr (मराठी)": "तैवान", 
         "ak (Akan)": "Taiwan", 
@@ -27328,7 +28391,9 @@
         "uz_Latn (o‘zbek)": "Tayvan", 
         "es (español)": "Taiwán", 
         "eu (euskara)": "Taiwan", 
-        "currency_code": "[\"TWD\"]", 
+        "currency_code": [
+            "TWD"
+        ], 
         "dz (རྫོང་ཁ)": "ཊཱའི་ཝཱན", 
         "mt (Malti)": "Tajwan", 
         "uk (українська)": "Тайвань", 
@@ -27393,7 +28458,9 @@
         "am (አማርኛ)": "ታንዛኒያ", 
         "it (italiano)": "Tanzania", 
         "ky (кыргызча)": "Танзания", 
-        "timezones": "[\"Africa/Dar_es_Salaam\"]", 
+        "timezones": [
+            "Africa/Dar_es_Salaam"
+        ], 
         "uz_Cyrl (Ўзбек)": "Танзания", 
         "mr (मराठी)": "टांझानिया", 
         "ak (Akan)": "Tanzania", 
@@ -27448,7 +28515,9 @@
         "uz_Latn (o‘zbek)": "Tanzaniya", 
         "es (español)": "Tanzania", 
         "eu (euskara)": "Tanzania", 
-        "currency_code": "[\"TZS\"]", 
+        "currency_code": [
+            "TZS"
+        ], 
         "dz (རྫོང་ཁ)": "ཊཱན་ཛཱ་ནི་ཡ", 
         "mt (Malti)": "Tanżanija", 
         "uk (українська)": "Танзанія", 
@@ -27515,7 +28584,9 @@
         "am (አማርኛ)": "ዩጋንዳ", 
         "it (italiano)": "Uganda", 
         "ky (кыргызча)": "Уганда", 
-        "timezones": "[\"Africa/Kampala\"]", 
+        "timezones": [
+            "Africa/Kampala"
+        ], 
         "uz_Cyrl (Ўзбек)": "Уганда", 
         "mr (मराठी)": "युगांडा", 
         "ak (Akan)": "Uganda", 
@@ -27570,7 +28641,9 @@
         "uz_Latn (o‘zbek)": "Uganda", 
         "es (español)": "Uganda", 
         "eu (euskara)": "Uganda", 
-        "currency_code": "[\"UGX\"]", 
+        "currency_code": [
+            "UGX"
+        ], 
         "dz (རྫོང་ཁ)": "ཡུ་གྷན་ཌ", 
         "mt (Malti)": "Uganda", 
         "uk (українська)": "Уганда", 
@@ -27637,7 +28710,11 @@
         "it (italiano)": "Ucraina", 
         "cu (церковнослове́нскїй)": "ᲂу҆краи́на", 
         "ky (кыргызча)": "Украина", 
-        "timezones": "[\"Europe/Kiev\", \"Europe/Uzhgorod\", \"Europe/Zaporozhye\"]", 
+        "timezones": [
+            "Europe/Kiev", 
+            "Europe/Uzhgorod", 
+            "Europe/Zaporozhye"
+        ], 
         "uz_Cyrl (Ўзбек)": "Украина", 
         "mr (मराठी)": "युक्रेन", 
         "ak (Akan)": "Ukren", 
@@ -27691,7 +28768,9 @@
         "uz_Latn (o‘zbek)": "Ukraina", 
         "es (español)": "Ucrania", 
         "eu (euskara)": "Ukraina", 
-        "currency_code": "[\"UAH\"]", 
+        "currency_code": [
+            "UAH"
+        ], 
         "dz (རྫོང་ཁ)": "ཡུ་ཀརེན", 
         "mt (Malti)": "Ukraina", 
         "uk (українська)": "Україна", 
@@ -27751,7 +28830,10 @@
         "am (አማርኛ)": "የዩ ኤስ ጠረፍ ላይ ያሉ ደሴቶች", 
         "it (italiano)": "Altre isole americane del Pacifico", 
         "ky (кыргызча)": "АКШнын сырткы аралдары", 
-        "timezones": "[\"Pacific/Midway\", \"Pacific/Wake\"]", 
+        "timezones": [
+            "Pacific/Midway", 
+            "Pacific/Wake"
+        ], 
         "uz_Cyrl (Ўзбек)": "АҚШ ёндош ороллари", 
         "mr (मराठी)": "यू.एस. आउटलाइंग बेटे", 
         "nn (nynorsk)": "USAs ytre småøyar", 
@@ -27800,7 +28882,9 @@
         "uz_Latn (o‘zbek)": "AQSH yondosh orollari", 
         "es (español)": "Islas menores alejadas de EE. UU.", 
         "eu (euskara)": "Ameriketako Estatu Batuetako Kanpoaldeko Uharte Txikiak", 
-        "currency_code": "[\"USD\"]", 
+        "currency_code": [
+            "USD"
+        ], 
         "dz (རྫོང་ཁ)": "ཡུ་ཨེས་གྱི་མཐའ་མཚམས་མཚོ་གླིང་", 
         "mt (Malti)": "United States Minor Outlying Islands", 
         "uk (українська)": "Віддалені острови США", 
@@ -27861,7 +28945,9 @@
         "am (አማርኛ)": "ኡራጓይ", 
         "it (italiano)": "Uruguay", 
         "ky (кыргызча)": "Уругвай", 
-        "timezones": "[\"America/Montevideo\"]", 
+        "timezones": [
+            "America/Montevideo"
+        ], 
         "uz_Cyrl (Ўзбек)": "Уругвай", 
         "mr (मराठी)": "उरुग्वे", 
         "ak (Akan)": "Yurugwae", 
@@ -27916,7 +29002,9 @@
         "uz_Latn (o‘zbek)": "Urugvay", 
         "es (español)": "Uruguay", 
         "eu (euskara)": "Uruguai", 
-        "currency_code": "[\"UYU\"]", 
+        "currency_code": [
+            "UYU"
+        ], 
         "dz (རྫོང་ཁ)": "ཡུ་རུ་གུ་ཝའི", 
         "mt (Malti)": "Urugwaj", 
         "uk (українська)": "Уругвай", 
@@ -27985,7 +29073,37 @@
         "it (italiano)": "Stati Uniti", 
         "cu (церковнослове́нскїй)": "а҆мерїка̑нскїѧ соедине̑нныѧ держа̑вы", 
         "ky (кыргызча)": "Америка Кошмо Штаттары", 
-        "timezones": "[\"America/New_York\", \"America/Detroit\", \"America/Kentucky/Louisville\", \"America/Kentucky/Monticello\", \"America/Indiana/Indianapolis\", \"America/Indiana/Vincennes\", \"America/Indiana/Winamac\", \"America/Indiana/Marengo\", \"America/Indiana/Petersburg\", \"America/Indiana/Vevay\", \"America/Chicago\", \"America/Indiana/Tell_City\", \"America/Indiana/Knox\", \"America/Menominee\", \"America/North_Dakota/Center\", \"America/North_Dakota/New_Salem\", \"America/North_Dakota/Beulah\", \"America/Denver\", \"America/Boise\", \"America/Phoenix\", \"America/Los_Angeles\", \"America/Anchorage\", \"America/Juneau\", \"America/Sitka\", \"America/Metlakatla\", \"America/Yakutat\", \"America/Nome\", \"America/Adak\", \"Pacific/Honolulu\"]", 
+        "timezones": [
+            "America/New_York", 
+            "America/Detroit", 
+            "America/Kentucky/Louisville", 
+            "America/Kentucky/Monticello", 
+            "America/Indiana/Indianapolis", 
+            "America/Indiana/Vincennes", 
+            "America/Indiana/Winamac", 
+            "America/Indiana/Marengo", 
+            "America/Indiana/Petersburg", 
+            "America/Indiana/Vevay", 
+            "America/Chicago", 
+            "America/Indiana/Tell_City", 
+            "America/Indiana/Knox", 
+            "America/Menominee", 
+            "America/North_Dakota/Center", 
+            "America/North_Dakota/New_Salem", 
+            "America/North_Dakota/Beulah", 
+            "America/Denver", 
+            "America/Boise", 
+            "America/Phoenix", 
+            "America/Los_Angeles", 
+            "America/Anchorage", 
+            "America/Juneau", 
+            "America/Sitka", 
+            "America/Metlakatla", 
+            "America/Yakutat", 
+            "America/Nome", 
+            "America/Adak", 
+            "Pacific/Honolulu"
+        ], 
         "uz_Cyrl (Ўзбек)": "Қўшма Штатлар", 
         "mr (मराठी)": "युनायटेड स्टेट्स", 
         "ak (Akan)": "Amɛrika", 
@@ -28045,7 +29163,9 @@
         "uz_Latn (o‘zbek)": "Qoʻshma Shtatlar", 
         "es (español)": "Estados Unidos", 
         "eu (euskara)": "Ameriketako Estatu Batuak", 
-        "currency_code": "[\"USD\"]", 
+        "currency_code": [
+            "USD"
+        ], 
         "dz (རྫོང་ཁ)": "ཡུ་ཨེས་ཨེ", 
         "mt (Malti)": "L-Istati Uniti", 
         "uk (українська)": "США", 
@@ -28112,7 +29232,10 @@
         "am (አማርኛ)": "ኡዝቤኪስታን", 
         "it (italiano)": "Uzbekistan", 
         "ky (кыргызча)": "Өзбекстан", 
-        "timezones": "[\"Asia/Samarkand\", \"Asia/Tashkent\"]", 
+        "timezones": [
+            "Asia/Samarkand", 
+            "Asia/Tashkent"
+        ], 
         "uz_Cyrl (Ўзбек)": "Ўзбекистон", 
         "mr (मराठी)": "उझबेकिस्तान", 
         "ak (Akan)": "Uzbɛkistan", 
@@ -28167,7 +29290,9 @@
         "uz_Latn (o‘zbek)": "Oʻzbekiston", 
         "es (español)": "Uzbekistán", 
         "eu (euskara)": "Uzbekistan", 
-        "currency_code": "[\"UZS\"]", 
+        "currency_code": [
+            "UZS"
+        ], 
         "dz (རྫོང་ཁ)": "ཨུས་བེག་གི་སཏཱན", 
         "mt (Malti)": "Użbekistan", 
         "uk (українська)": "Узбекистан", 
@@ -28234,7 +29359,9 @@
         "am (አማርኛ)": "ቫቲካን ከተማ", 
         "it (italiano)": "Città del Vaticano", 
         "ky (кыргызча)": "Ватикан", 
-        "timezones": "[\"Europe/Vatican\"]", 
+        "timezones": [
+            "Europe/Vatican"
+        ], 
         "uz_Cyrl (Ўзбек)": "Ватикан", 
         "mr (मराठी)": "व्हॅटिकन सिटी", 
         "ak (Akan)": "Vatican Man", 
@@ -28289,7 +29416,9 @@
         "uz_Latn (o‘zbek)": "Vatikan", 
         "es (español)": "Ciudad del Vaticano", 
         "eu (euskara)": "Vatikano Hiria", 
-        "currency_code": "[\"EUR\"]", 
+        "currency_code": [
+            "EUR"
+        ], 
         "dz (རྫོང་ཁ)": "བ་ཊི་ཀཱན་ སི་ཊི", 
         "mt (Malti)": "Vatikan", 
         "uk (українська)": "Ватикан", 
@@ -28355,7 +29484,9 @@
         "am (አማርኛ)": "ቅዱስ ቪንሴንት እና ግሬናዲንስ", 
         "it (italiano)": "Saint Vincent e Grenadines", 
         "ky (кыргызча)": "Сент-Винсент жана Гренадиналар", 
-        "timezones": "[\"America/St_Vincent\"]", 
+        "timezones": [
+            "America/St_Vincent"
+        ], 
         "uz_Cyrl (Ўзбек)": "Сент-Винсент ва Гренадин", 
         "mr (मराठी)": "सेंट व्हिन्सेंट आणि ग्रेनडाइन्स", 
         "ak (Akan)": "Saint Vincent ne Grenadines", 
@@ -28409,7 +29540,9 @@
         "uz_Latn (o‘zbek)": "Sent-Vinsent va Grenadin", 
         "es (español)": "San Vicente y las Granadinas", 
         "eu (euskara)": "Saint Vincent eta Grenadinak", 
-        "currency_code": "[\"XCD\"]", 
+        "currency_code": [
+            "XCD"
+        ], 
         "dz (རྫོང་ཁ)": "སེནཊ་ཝིན་སེནཌ྄ ཨེནཌ་ གི་རེ་ན་དིནས྄", 
         "mt (Malti)": "Saint Vincent and the Grenadines", 
         "uk (українська)": "Сент-Вінсент і Гренадини", 
@@ -28474,7 +29607,9 @@
         "am (አማርኛ)": "ቬንዙዌላ", 
         "it (italiano)": "Venezuela", 
         "ky (кыргызча)": "Венесуэла", 
-        "timezones": "[\"America/Caracas\"]", 
+        "timezones": [
+            "America/Caracas"
+        ], 
         "uz_Cyrl (Ўзбек)": "Венесуэла", 
         "mr (मराठी)": "व्हेनेझुएला", 
         "ak (Akan)": "Venezuela", 
@@ -28529,7 +29664,9 @@
         "uz_Latn (o‘zbek)": "Venesuela", 
         "es (español)": "Venezuela", 
         "eu (euskara)": "Venezuela", 
-        "currency_code": "[\"VEF\"]", 
+        "currency_code": [
+            "VEF"
+        ], 
         "dz (རྫོང་ཁ)": "བེ་ནི་ཛུ་ཝེ་ལ", 
         "mt (Malti)": "Venezwela", 
         "uk (українська)": "Венесуела", 
@@ -28594,7 +29731,9 @@
         "am (አማርኛ)": "የእንግሊዝ ቨርጂን ደሴቶች", 
         "it (italiano)": "Isole Vergini Britanniche", 
         "ky (кыргызча)": "Виргин аралдары (Британия)", 
-        "timezones": "[\"America/Tortola\"]", 
+        "timezones": [
+            "America/Tortola"
+        ], 
         "uz_Cyrl (Ўзбек)": "Британия Вирджиния ороллари", 
         "mr (मराठी)": "ब्रिटिश व्हर्जिन बेटे", 
         "ak (Akan)": "Britainfo Virgin Islands", 
@@ -28648,7 +29787,9 @@
         "uz_Latn (o‘zbek)": "Britaniya Virgin orollari", 
         "es (español)": "Islas Vírgenes Británicas", 
         "eu (euskara)": "Birjina uharte britainiarrak", 
-        "currency_code": "[\"USD\"]", 
+        "currency_code": [
+            "USD"
+        ], 
         "dz (རྫོང་ཁ)": "ཝརཇིན་གླིང་ཚོམ་ བྲཱི་ཊིཤ་མངའ་ཁོངས", 
         "mt (Malti)": "British Virgin Islands", 
         "uk (українська)": "Британські Віргінські острови", 
@@ -28712,7 +29853,9 @@
         "am (አማርኛ)": "የአሜሪካ ቨርጂን ደሴቶች", 
         "it (italiano)": "Isole Vergini Americane", 
         "ky (кыргызча)": "Виргин аралдары (АКШ)", 
-        "timezones": "[\"America/St_Thomas\"]", 
+        "timezones": [
+            "America/St_Thomas"
+        ], 
         "uz_Cyrl (Ўзбек)": "АҚШ Вирджиния ороллари", 
         "mr (मराठी)": "यू.एस. व्हर्जिन बेटे", 
         "ak (Akan)": "Amɛrika Virgin Islands", 
@@ -28767,7 +29910,9 @@
         "uz_Latn (o‘zbek)": "AQSH Virgin orollari", 
         "es (español)": "Islas Vírgenes de EE. UU.", 
         "eu (euskara)": "Birjina uharte amerikarrak", 
-        "currency_code": "[\"USD\"]", 
+        "currency_code": [
+            "USD"
+        ], 
         "dz (རྫོང་ཁ)": "ཝརཇིན་གླིང་ཚོམ་ ཡུ་ཨེས་ཨེ་མངའ་ཁོངས", 
         "mt (Malti)": "U.S. Virgin Islands", 
         "uk (українська)": "Віргінські острови, США", 
@@ -28832,7 +29977,9 @@
         "am (አማርኛ)": "ቬትናም", 
         "it (italiano)": "Vietnam", 
         "ky (кыргызча)": "Вьетнам", 
-        "timezones": "[\"Asia/Ho_Chi_Minh\"]", 
+        "timezones": [
+            "Asia/Ho_Chi_Minh"
+        ], 
         "uz_Cyrl (Ўзбек)": "Вьетнам", 
         "mr (मराठी)": "व्हिएतनाम", 
         "ak (Akan)": "Viɛtnam", 
@@ -28887,7 +30034,9 @@
         "uz_Latn (o‘zbek)": "Vyetnam", 
         "es (español)": "Vietnam", 
         "eu (euskara)": "Vietnam", 
-        "currency_code": "[\"VND\"]", 
+        "currency_code": [
+            "VND"
+        ], 
         "dz (རྫོང་ཁ)": "བེཊ་ནཱམ", 
         "mt (Malti)": "Vjetnam", 
         "uk (українська)": "Вʼєтнам", 
@@ -28953,7 +30102,9 @@
         "am (አማርኛ)": "ቫኑአቱ", 
         "it (italiano)": "Vanuatu", 
         "ky (кыргызча)": "Вануату", 
-        "timezones": "[\"Pacific/Efate\"]", 
+        "timezones": [
+            "Pacific/Efate"
+        ], 
         "uz_Cyrl (Ўзбек)": "Вануату", 
         "mr (मराठी)": "वानुआतु", 
         "ak (Akan)": "Vanuatu", 
@@ -29008,7 +30159,9 @@
         "uz_Latn (o‘zbek)": "Vanuatu", 
         "es (español)": "Vanuatu", 
         "eu (euskara)": "Vanuatu", 
-        "currency_code": "[\"VUV\"]", 
+        "currency_code": [
+            "VUV"
+        ], 
         "dz (རྫོང་ཁ)": "ཝ་ནུ་ཨ་ཏུ", 
         "mt (Malti)": "Vanwatu", 
         "uk (українська)": "Вануату", 
@@ -29073,7 +30226,9 @@
         "am (አማርኛ)": "ዋሊስ እና ፉቱና ደሴቶች", 
         "it (italiano)": "Wallis e Futuna", 
         "ky (кыргызча)": "Уоллис жана Футуна", 
-        "timezones": "[\"Pacific/Wallis\"]", 
+        "timezones": [
+            "Pacific/Wallis"
+        ], 
         "uz_Cyrl (Ўзбек)": "Уэллис ва Футуна", 
         "mr (मराठी)": "वालिस आणि फ्यूचूना", 
         "ak (Akan)": "Wallis ne Futuna", 
@@ -29128,7 +30283,9 @@
         "uz_Latn (o‘zbek)": "Uollis va Futuna", 
         "es (español)": "Wallis y Futuna", 
         "eu (euskara)": "Wallis eta Futuna", 
-        "currency_code": "[\"XPF\"]", 
+        "currency_code": [
+            "XPF"
+        ], 
         "dz (རྫོང་ཁ)": "ཝལ་ལིས྄་ ཨེནཌ་ ཕུ་ཏུ་ན་", 
         "mt (Malti)": "Wallis and Futuna", 
         "uk (українська)": "Волліс і Футуна", 
@@ -29194,7 +30351,9 @@
         "am (አማርኛ)": "ሳሞአ", 
         "it (italiano)": "Samoa", 
         "ky (кыргызча)": "Самоа", 
-        "timezones": "[\"Pacific/Apia\"]", 
+        "timezones": [
+            "Pacific/Apia"
+        ], 
         "uz_Cyrl (Ўзбек)": "Самоа", 
         "mr (मराठी)": "सामोआ", 
         "ak (Akan)": "Samoa", 
@@ -29249,7 +30408,9 @@
         "uz_Latn (o‘zbek)": "Samoa", 
         "es (español)": "Samoa", 
         "eu (euskara)": "Samoa", 
-        "currency_code": "[\"WST\"]", 
+        "currency_code": [
+            "WST"
+        ], 
         "dz (རྫོང་ཁ)": "ས་མོ་ཨ", 
         "mt (Malti)": "Samoa", 
         "uk (українська)": "Самоа", 
@@ -29315,7 +30476,9 @@
         "am (አማርኛ)": "የመን", 
         "it (italiano)": "Yemen", 
         "ky (кыргызча)": "Йемен", 
-        "timezones": "[\"Asia/Aden\"]", 
+        "timezones": [
+            "Asia/Aden"
+        ], 
         "uz_Cyrl (Ўзбек)": "Яман", 
         "mr (मराठी)": "येमेन", 
         "ak (Akan)": "Yɛmen", 
@@ -29370,7 +30533,9 @@
         "uz_Latn (o‘zbek)": "Yaman", 
         "es (español)": "Yemen", 
         "eu (euskara)": "Yemen", 
-        "currency_code": "[\"YER\"]", 
+        "currency_code": [
+            "YER"
+        ], 
         "dz (རྫོང་ཁ)": "ཡེ་མེན", 
         "mt (Malti)": "Jemen", 
         "uk (українська)": "Ємен", 
@@ -29437,7 +30602,9 @@
         "am (አማርኛ)": "ደቡብ አፍሪካ", 
         "it (italiano)": "Sudafrica", 
         "ky (кыргызча)": "Түштүк Африка Республикасы", 
-        "timezones": "[\"Africa/Johannesburg\"]", 
+        "timezones": [
+            "Africa/Johannesburg"
+        ], 
         "uz_Cyrl (Ўзбек)": "Жанубий Африка", 
         "mr (मराठी)": "दक्षिण आफ्रिका", 
         "ak (Akan)": "Afrika Anaafo", 
@@ -29492,7 +30659,9 @@
         "uz_Latn (o‘zbek)": "Janubiy Afrika Respublikasi", 
         "es (español)": "Sudáfrica", 
         "eu (euskara)": "Hegoafrika", 
-        "currency_code": "[\"ZAR\"]", 
+        "currency_code": [
+            "ZAR"
+        ], 
         "dz (རྫོང་ཁ)": "སཱའུཐ་ ཨཕ་རི་ཀ", 
         "mt (Malti)": "Afrika t’Isfel", 
         "uk (українська)": "Південно-Африканська Республіка", 
@@ -29558,7 +30727,9 @@
         "am (አማርኛ)": "ዛምቢያ", 
         "it (italiano)": "Zambia", 
         "ky (кыргызча)": "Замбия", 
-        "timezones": "[\"Africa/Lusaka\"]", 
+        "timezones": [
+            "Africa/Lusaka"
+        ], 
         "uz_Cyrl (Ўзбек)": "Замбия", 
         "mr (मराठी)": "झाम्बिया", 
         "ak (Akan)": "Zambia", 
@@ -29613,7 +30784,9 @@
         "uz_Latn (o‘zbek)": "Zambiya", 
         "es (español)": "Zambia", 
         "eu (euskara)": "Zambia", 
-        "currency_code": "[\"ZMW\"]", 
+        "currency_code": [
+            "ZMW"
+        ], 
         "dz (རྫོང་ཁ)": "ཛམ་བྷི་ཡ", 
         "mt (Malti)": "Żambja", 
         "uk (українська)": "Замбія", 
@@ -29679,7 +30852,9 @@
         "am (አማርኛ)": "ዚምቧቤ", 
         "it (italiano)": "Zimbabwe", 
         "ky (кыргызча)": "Зимбабве", 
-        "timezones": "[\"Africa/Harare\"]", 
+        "timezones": [
+            "Africa/Harare"
+        ], 
         "uz_Cyrl (Ўзбек)": "Зимбабве", 
         "mr (मराठी)": "झिम्बाब्वे", 
         "ak (Akan)": "Zembabwe", 
@@ -29734,7 +30909,13 @@
         "uz_Latn (o‘zbek)": "Zimbabve", 
         "es (español)": "Zimbabue", 
         "eu (euskara)": "Zimbabwe", 
-        "currency_code": "[\"USD\", \"ZAR\", \"BWP\", \"GBP\", \"EUR\"]", 
+        "currency_code": [
+            "USD", 
+            "ZAR", 
+            "BWP", 
+            "GBP", 
+            "EUR"
+        ], 
         "dz (རྫོང་ཁ)": "ཛིམ་བྷབ་ཝེ", 
         "mt (Malti)": "Żimbabwe", 
         "uk (українська)": "Зімбабве", 

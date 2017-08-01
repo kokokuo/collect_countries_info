@@ -21,10 +21,10 @@ language_locale_info = []
 for pure_locale in pure_locales:
 	locale_lang = Locale.parse(pure_locale[0])
 	language_locale_info.append({
-		'native_name': locale_lang.display_name,
+		'name': locale_lang.display_name,
 		'eng_name': locale_lang.english_name,
-		'locale_lang_code': pure_locale[0],
-		'countries': json.dumps(pure_locale[1])
+		'locale_code': pure_locale[0],
+		'using_countries': pure_locale[1]
 	})
 	print locale_lang.display_name, locale_lang.english_name, pure_locale[1]
 
@@ -61,8 +61,8 @@ for country in iso3166_countries:
 		'alpha2_code': country.alpha_2,
 		'alpha3_code': country.alpha_3,
 		'country_code': phone,
-		'currency_code': json.dumps(curreny_code) if curreny_code else None,
-		'timezones': json.dumps(timezones)
+		'currency_code': curreny_code if curreny_code else None,
+		'timezones': timezones
 		
 	}
 	# 取得該國家名稱的所有翻譯語言
