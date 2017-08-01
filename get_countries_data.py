@@ -9,7 +9,7 @@ import re
 import pycountry
 import pytz
 import json
-
+import io
 basepath = os.path.dirname(__file__)
 # 取得所有語系以及語系代碼 #################################################################
 
@@ -30,10 +30,15 @@ for pure_locale in pure_locales:
 
 
 # 寫入檔案
-writer_filepath = os.path.abspath(os.path.join(basepath, 'lang_locale_info_out.csv'))
+csv_writer_fp = os.path.abspath(os.path.join(basepath, 'lang_locale_info_out.csv'))
+json_writer_fp = os.path.abspath(os.path.join(basepath, 'lang_locale_info_out.json'))
 df = pd.DataFrame(language_locale_info)
-df.to_csv(writer_filepath, sep=',', encoding='utf-8')
+df.to_csv(csv_writer_fp, sep=',', encoding='utf-8')
 
+# 產生 json 檔案 （utf-8）
+with io.open(json_writer_fp, 'w', encoding='utf-8') as fp:
+	json_data = json.dumps(language_locale_info, indent=4, ensure_ascii=False)
+	fp.write(unicode(json_data))
 
 # 找出該國家的所有資料 #################################################################
 # 找出國家 iso 3166 代碼
@@ -75,6 +80,12 @@ for country in iso3166_countries:
 
 
 # 寫入檔案
-writer_filepath = os.path.abspath(os.path.join(basepath, 'country_info_out.csv'))
+csv_writer_fp = os.path.abspath(os.path.join(basepath, 'country_info_out.csv'))
+json_writer_fp = os.path.abspath(os.path.join(basepath, 'country_info_out.json'))
 df = pd.DataFrame(countries_info, columns=headers)
-df.to_csv(writer_filepath, sep=',', encoding='utf-8')
+df.to_csv(csv_writer_fp, sep=',', encoding='utf-8')
+
+# 產生 json 檔案 （utf-8）
+with io.open(json_writer_fp, 'w', encoding='utf-8') as fp:
+	json_data = json.dumps(countries_info, indent=4, ensure_ascii=False)
+	fp.write(unicode(json_data))
