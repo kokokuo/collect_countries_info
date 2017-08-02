@@ -55,27 +55,26 @@ for country in iso3166_countries:
 
 	print country.alpha_2, country.alpha_3, country.name, phone, curreny_code, timezones
 	# 提供給 DataFrame 用的 Header
-	headers = ['name', 'native_name', 'alpha2_code', 'alpha3_code', 'country_code', 'currency_code', 'timezones']
-	country_data = {
-		'name': country.name,
-		'alpha2_code': country.alpha_2,
-		'alpha3_code': country.alpha_3,
-		'country_code': phone,
-		'currency_code': curreny_code if curreny_code else None,
-		'timezones': timezones
-		
-	}
-	# 取得該國家名稱的所有翻譯語言
-	translation_names , native_name = lang_info.get_country_all_translation_name(country.alpha_2)
-	country_data['native_name'] = native_name
+	headers = ['name', 'native_name', 'abbr_iso', 'abbr3_iso', 'country_code', 'currencies_code', 'timezones']
+	# 如果有該國碼出現，才會加入至國家中
+	if country.alpha_2:
+		country_data = {
+			'name': country.name,
+			'abbr_iso': country.alpha_2,
+			'abbr3_iso': country.alpha_3,
+			'country_code': phone,
+			'currencies_code': curreny_code if curreny_code else None,
+			'timezones': timezones	
+		}
+		# 取得該國家名稱的所有翻譯語言
+		translation_names , native_name = lang_info.get_country_all_translation_name(country.alpha_2)
+		country_data['native_name'] = native_name
 
-	for locale_name in translation_names:
-		langauge_title = u"{name} ({code})".format(name=locale_name[0], code=locale_name[1])
-		country_data[langauge_title] = locale_name[2]	
-		headers.append(langauge_title)
-
-
-	countries_info.append(country_data)
+		for locale_name in translation_names:
+			langauge_title = u"{name} ({code})".format(name=locale_name[0], code=locale_name[1])
+			country_data[langauge_title] = locale_name[2]	
+			headers.append(langauge_title)
+		countries_info.append(country_data)
 	print country_data
 
 
