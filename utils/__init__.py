@@ -5,9 +5,11 @@ import itertools
 import re
 from babel import Locale
 from phonenumbers import COUNTRY_CODE_TO_REGION_CODE, REGION_CODE_FOR_NON_GEO_ENTITY
+from collections import namedtuple
 
-
-
+# 紀錄每個語系所包含的國籍
+LangCountries = namedtuple('LangCountries', ['lang_code', 'countries'])
+CountryTranslationInfo = namedtuple('CountryTranslationInfo', ['lang_name', 'locale_code', 'native_name'])
 class CountryInfo(object):
 	def __init__(self, country_region_code, region_for_non_geo_entity):
 		self._country_region_code = country_region_code
@@ -348,10 +350,11 @@ class LanguageInfo(object):
 	def iso639_pure_locales(self):
 		"""
 		取出純語系碼 （不包含國碼，但是包含 Script, 並且會帶有所使用該語系的國籍
-		e.g: [
-			('zh_Hant':[TW, HK, CN, MO]),
-			('ja':[JP]),
-		]
+		e.g:  LangCountries of List :
+			[
+				(lang_code='zh_Hant', countries=[TW, HK, CN, MO]),
+				(lang_code='ja',countries=[JP]),
+			]
 		"""
 		return self._iso639_pure_locales
 
@@ -371,6 +374,7 @@ class LanguageInfo(object):
 		"""
 		列出每個語系所包含的國籍，Key 值包含 Script
 		"""
+		# 分群：'zh_hant_tw', 'zh_hant_hk' => 'zh': ('tw', 'hk')
 		groups = itertools.groupby(iso639_locales_country_code, self._get_country_code)
 		lang_countries_mapping = []
 		for key, val in groups:
@@ -387,7 +391,7 @@ class LanguageInfo(object):
 							country_codes.append(candidate_country_code)
 				print key, country_codes
 				# 使用 tuple
-				lang_countries_mapping.append( (key,country_codes) ) 
+				lang_countries_mapping.append( LangCountries(lang_code=key, countries=country_codes) ) 
 		return lang_countries_mapping 
 
 	def get_country_all_translation_name(self, country_code):
@@ -406,17 +410,27 @@ class LanguageInfo(object):
 		"""
 		translation_names = []
 		native_name = None
-		for locale_code in self._iso639_pure_locales:
+		found = False
+		for lang_countries in self._iso639_pure_locales:
 			try:
-				locale_obj = Locale.parse(locale_code[0])
-				# 語系碼、語系名稱、國家的翻譯名稱
-				transation = (locale_code[0], locale_obj.language_name, locale_obj.territories[country_code])
-				translation_names.append(transation)  
-				# 找出原生語系的翻譯
-				if country_code in locale_code[1]:
-					native_name = locale_obj.territories[country_code]
+				# 
+				# lang_countries 格式為  (lang_code = 'zh_Hant', countries = [TW, HK, CN, MO])
+				locale_obj = Locale.parse(lang_countries.lang_code)
+				# 語系名稱、語系碼、國家的翻譯名稱
+				translation = CountryTranslationInfo(
+					lang_name=locale_obj.language_name,
+					locale_code=lang_countries.lang_code,
+					native_name=locale_obj.territories[country_code]
+				)
+				translation_names.append(translation)  
+				# 找出原生語系的翻譯，如果該國家代碼有在此語系(有找到便離開，因為是 forloop 會執行多次找至錯誤)
+				if not found:		
+					if country_code in lang_countries.countries:
+						native_name = locale_obj.territories[country_code]		
+						found = True
 			except:
 				pass
+	
 		return translation_names, native_name
 
 lang_info = LanguageInfo()

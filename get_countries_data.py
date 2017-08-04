@@ -19,12 +19,12 @@ pure_locales = lang_info.iso639_pure_locales
 # 2. 找出各個語言的 native_name
 language_locale_info = []
 for pure_locale in pure_locales:
-	locale_lang = Locale.parse(pure_locale[0])
+	locale_lang = Locale.parse(pure_locale.lang_code)
 	language_locale_info.append({
 		'name': locale_lang.display_name,
 		'eng_name': locale_lang.english_name,
-		'locale_code': pure_locale[0],
-		'using_countries': pure_locale[1]
+		'locale_code': pure_locale.lang_code,
+		'using_countries': pure_locale.countries
 	})
 	print locale_lang.display_name, locale_lang.english_name, pure_locale[1]
 
@@ -59,7 +59,7 @@ for country in iso3166_countries:
 	# 如果有該國碼出現，才會加入至國家中
 	if country.alpha_2:
 		country_data = {
-			'name': country.name,
+			'name': country.common_name if hasattr(country, 'common_name') else country.name,
 			'abbr_iso': country.alpha_2,
 			'abbr3_iso': country.alpha_3,
 			'country_code': phone,
@@ -69,10 +69,9 @@ for country in iso3166_countries:
 		# 取得該國家名稱的所有翻譯語言
 		translation_names , native_name = lang_info.get_country_all_translation_name(country.alpha_2)
 		country_data['native_name'] = native_name
-
-		for locale_name in translation_names:
-			langauge_title = u"{name} ({code})".format(name=locale_name[0], code=locale_name[1])
-			country_data[langauge_title] = locale_name[2]	
+		for country_translation_info in translation_names:
+			langauge_title = u"{name} ({code})".format(name=country_translation_info.lang_name, code=country_translation_info.locale_code)
+			country_data[langauge_title] = country_translation_info.native_name
 			headers.append(langauge_title)
 		countries_info.append(country_data)
 	print country_data
