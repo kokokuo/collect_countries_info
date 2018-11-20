@@ -1,6 +1,6 @@
 ###VSCode###
 .vscode/*
-
+Flags/
 ###Redis####
 .rdb
 

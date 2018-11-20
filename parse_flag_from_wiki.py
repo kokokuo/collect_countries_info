@@ -3,9 +3,10 @@
 import os
 import csv
 import requests
-from lxml import etree
+from PIL import Image
+from StringIO import StringIO
 from bs4 import BeautifulSoup
-import pandas as pd
+
 
 basepath = os.path.dirname(__file__)
 site = "https://en.wikipedia.org"
@@ -31,22 +32,26 @@ def save_flag_to_file(flag_url, filename):
     folder_path = os.path.join(basepath, save_folder)
     abs_file_path = os.path.abspath(os.path.join(folder_path, filename))
 
-    with open(abs_file_path, 'wb') as f:
-        if 'https:' not in flag_url:
-            flag_url = '{}{}'.format('https:', flag_url)
-            resp = requests.get(flag_url)
-            f.write(resp.content)
+    if 'https:' not in flag_url:
+        flag_url = '{}{}'.format('https:', flag_url)
+    # 調整大小與保存
+    resp = requests.get(flag_url)
+    im = Image.open(StringIO(resp.content))
+    im_width, im_height = im.size
+    width = 30
+    height = 20
+    im = im.resize((width, height), Image.BILINEAR)
+    im.save(abs_file_path)
 
 
-def grab_country_data(code_row):
+def grab_country_data(code_row, index):
     data = code_row.find_all('td')
     INTRO_LINK_IDX = 0
     COUNTRY_ABBR3_IDX = 2
-    intro_url = site + data[INTRO_LINK_IDX].find('a').get('href')
+    flag_url = data[INTRO_LINK_IDX].find('img').get('src')
     abbr3_iso = data[COUNTRY_ABBR3_IDX].text
-    print("導向的網址: {}, 3 碼: {} ".format(intro_url, abbr3_iso))
-    resp = requests.get(intro_url)
-    flag_url = grab_flag_url(resp.content)
+    print("第 {} 筆：圖片路徑: {}, 3 碼: {} ".format(index, flag_url, abbr3_iso))
+
     flag_path = save_flag_to_file(flag_url, abbr3_iso + '.png')
 
     return {
@@ -61,13 +66,17 @@ def main():
     DATA_START_ROW = 1
     FLAG_URL_IDX = 0
     COUNTRY_ABBR3_IDX = 2
+
     resp = requests.get('https://en.wikipedia.org/wiki/ISO_3166-1')
     soup = BeautifulSoup(resp.content, 'html.parser')
+
     codes_table = soup.find_all('table', class_="wikitable sortable")[CODES_TABLE]
     code_rows = codes_table.find_all("tr")
     rows_size = len(code_rows)
+    index = 1
     for code_row in code_rows[DATA_START_ROW:rows_size - DATA_START_ROW]:
-        grab_country_data(code_row)
+        grab_country_data(code_row, index)
+        index += 1
     print('已完成')
 
 
