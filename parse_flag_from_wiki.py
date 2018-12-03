@@ -49,15 +49,15 @@ def grab_country_data(code_row, index):
     INTRO_LINK_IDX = 0
     COUNTRY_ABBR3_IDX = 2
     flag_url = data[INTRO_LINK_IDX].find('img').get('src')
-    abbr3_iso = data[COUNTRY_ABBR3_IDX].text
-    print("第 {} 筆：圖片路徑: {}, 3 碼: {} ".format(index, flag_url, abbr3_iso))
+    alpha3_code = data[COUNTRY_ABBR3_IDX].text
+    print("第 {} 筆：圖片路徑: {}, 3 碼: {} ".format(index, flag_url, alpha3_code))
 
-    flag_path = save_flag_to_file(flag_url, abbr3_iso + '.png')
+    flag_path = save_flag_to_file(flag_url, alpha3_code + '.png')
 
     return {
         'flag_url': flag_url,
         'file_path': flag_path,
-        'abbr3_iso': abbr3_iso
+        'alpha3_code': alpha3_code
     }
 
 
